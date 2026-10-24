@@ -6,7 +6,7 @@
 - Six mobile, English, depth-40 country trackers are prepared in OpenSEO: India, United States, United Kingdom, Australia, Canada and United Arab Emirates. Each has six keywords and remains **manual**, with no run or future paid schedule.
 - Keywords: Sayan Mondal, Opslin, Shotlin, grocery delivery app development, flutter app development service, devops consulting. The first three are branded; compare commercial terms separately.
 - The current live-check estimate is at most 84 credits ($0.07988) per country, including retry allowance. All six caps total 504 credits ($0.47928). The available balance at setup was 219 credits. No live rank check was purchased. A recurring schedule needs a separate provider estimate and approval.
-- Analytics code is prepared locally. It remains disabled until a real GA4 ID and the explicit manual-measurement setup gate are configured and deployed. No visitor or customer counts have been fabricated.
+- GA4 property `properties/560564558` is connected to OpenSEO, with stream `16195557281` and measurement ID `G-FEVEM1S803`. Enhanced Measurement was verified globally disabled through GA4 Admin on October 24, 2026. The local activation flag is now enabled; a new deployment is required before it runs on the live site. No visitor or customer counts have been fabricated.
 
 ## Activate Google Analytics
 
