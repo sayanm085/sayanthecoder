@@ -8,6 +8,8 @@ import "./laundry-gallery.css";
 import "./extended-showcases.css";
 import { siteOrigin } from "@/lib/site";
 import { WhatsAppEnquiry } from "@/components/whatsapp-enquiry";
+import { SiteMeasurement } from "@/components/site-measurement";
+import "./measurement.css";
 import "./contact-channels.css";
 
 const archivo = localFont({
@@ -82,6 +84,11 @@ export default function RootLayout({
         </a>
         {children}
         <WhatsAppEnquiry />
+        {process.env.NEXT_PUBLIC_GA4_MANUAL_MEASUREMENT === "true" ? (
+          <SiteMeasurement
+            measurementId={process.env.NEXT_PUBLIC_GA4_MEASUREMENT_ID}
+          />
+        ) : null}
         <noscript>
           <style>{`.page-loader{display:none!important}`}</style>
         </noscript>

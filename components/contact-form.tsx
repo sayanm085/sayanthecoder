@@ -8,6 +8,7 @@ import {
   type BudgetCurrency,
 } from "@/lib/budgets";
 import { Arrow, Spark } from "./icons";
+import { trackEnquiry } from "@/lib/measurement";
 import {
   CONTACT_EMAIL,
   WHATSAPP_NUMBER,
@@ -117,7 +118,9 @@ export function ContactForm({
           subject: `Project enquiry from ${name}`,
           body: text,
         });
+    trackEnquiry("enquiry_draft_prepared", channel, currency);
     if (isWhatsApp) {
+      trackEnquiry("enquiry_handoff", channel, currency);
       // Navigate from the submit gesture; no popup or automatic send.
       window.location.assign(href);
     }
@@ -155,6 +158,7 @@ export function ContactForm({
         <a
           className="pill pill-dark"
           href={draft.href}
+          onClick={() => trackEnquiry("enquiry_handoff", channel, currency)}
           target="_blank"
           rel="noopener noreferrer"
         >
