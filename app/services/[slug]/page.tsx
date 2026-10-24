@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Brand } from "@/components/icons";
+import { ServiceEnquiry } from "@/components/service-enquiry";
 import { servicePages } from "@/lib/services";
 import { getProject } from "@/lib/projects";
 import { jsonLd, siteOrigin } from "@/lib/site";
@@ -198,14 +199,17 @@ export default async function ServicePage({ params }: Props) {
               <span className="section-label">Discuss the scope</span>
               <h2>Let’s understand your project.</h2>
             </div>
-            <a
-              className="pill pill-dark"
-              href={gmailComposeUrl({ subject: service.title + " enquiry" })}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Email Sayan →
-            </a>
+            <div>
+              <ServiceEnquiry service={service.title} />
+              <a
+                className="text-link"
+                href={gmailComposeUrl({ subject: service.title + " enquiry" })}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Or open Gmail directly →
+              </a>
+            </div>
           </footer>
         </article>
       </main>

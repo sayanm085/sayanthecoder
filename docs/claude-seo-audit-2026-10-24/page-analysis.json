@@ -1,0 +1,4375 @@
+{
+  "checked_at": "2026-10-24T14:24:29.359819+00:00",
+  "tool": "Claude SEO 2.5.0 parse_html.py via managed launcher",
+  "pages": [
+    {
+      "url": "https://www.sayanthecoder.in",
+      "analysis": {
+        "title": "Sayan Mondal | Web, App & DevOps Developer",
+        "meta_description": "Websites, Flutter apps, custom software and cloud deployment by Sayan Mondal, founder of Opslin and Shotlin. Based in Kolkata, working with businesses worldwide.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in",
+        "h1": ["Thoughtful design.Powerful engineering."],
+        "h2": [
+          "Good software startswith a little curiosity.And a lot of care.",
+          "Client work.Made for real people.",
+          "Commerce, conversations.One connected platform.",
+          "One brand.Two distinct projects.",
+          "From game designto playable worlds.",
+          "A product of my own.From code to control plane.",
+          "One partner.The whole picture.",
+          "A few useful answers.",
+          "A clear process.A better outcome.",
+          "The details makethe difference.",
+          "Let\u2019s makesomething matter."
+        ],
+        "h3": [
+          "FreshCart",
+          "Dealker",
+          "Bakaloo",
+          "Radha",
+          "WhatsApp CRM& Theme Builder.",
+          "LNDRY",
+          "LNDRY POS",
+          "Rustbloom",
+          "ANTAR \u2014 The Last Flame",
+          "Agnix Studio website",
+          "Your server.Your rules.",
+          "Find the right problem.",
+          "Make it feel right.",
+          "Build. Refine. Ship.",
+          "Design is engineering.",
+          "Own the whole journey.",
+          "Build for real people."
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/assets/img/hero-studio-wide-4k.webp",
+            "alt": "Sayan Mondal in a colorful studio portrait",
+            "width": null,
+            "height": null,
+            "loading": null,
+            "lazy_method": "none"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fopslin.png&w=256&q=75",
+            "alt": "Opslin logo",
+            "width": "65",
+            "height": "65",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Ffreshcart.png&w=96&q=75",
+            "alt": "FreshCart logo",
+            "width": "42",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fdealker.png&w=384&q=75",
+            "alt": "Dealker logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fbakaloo.png&w=384&q=75",
+            "alt": "Bakaloo logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fradha.png&w=96&q=75",
+            "alt": "Radha logo",
+            "width": "42",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fopslin.png&w=384&q=75",
+            "alt": "Opslin logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Flndry-horizontal.png&w=384&q=75",
+            "alt": "LNDRY logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fagnix-studio.png&w=384&q=75",
+            "alt": "Agnix Studio logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Ffreshcart.png&w=96&q=75",
+            "alt": "FreshCart logo",
+            "width": "42",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Ffreshcart-home.webp&w=3840&q=75",
+            "alt": "FreshCart customer app showing delivery location, meat and grocery categories, product prices and shopping navigation",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fdealker.png&w=384&q=75",
+            "alt": "Dealker logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fdealker-home.webp&w=3840&q=75",
+            "alt": "Dealker mobile marketplace with phone categories, electronics offers, Apple and Samsung brand discovery, auctions and repair navigation",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fbakaloo.png&w=384&q=75",
+            "alt": "Bakaloo logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fbakaloo-home.webp&w=3840&q=75",
+            "alt": "Bakaloo grocery app showing its purple logo, local delivery, vegetable categories, fresh arrivals, prices and wallet access",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fradha.png&w=96&q=75",
+            "alt": "Radha logo",
+            "width": "42",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fradha-dashboard.webp&w=3840&q=75",
+            "alt": "Radha store management app with an operational health overview, seven-day scans and tasks activity, expiry management and scanning navigation",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fbakaloo.png&w=384&q=75",
+            "alt": "Bakaloo logo",
+            "width": "150",
+            "height": "55",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fbakaloo-theme-builder.webp&w=3840&q=75",
+            "alt": "Bakaloo visual storefront section builder with a component library, live phone preview and B2B and B2C controls",
+            "width": "2400",
+            "height": "1242",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fbakaloo-crm-inbox-redacted.webp&w=3840&q=75",
+            "alt": "Bakaloo WhatsApp CRM shared customer inbox",
+            "width": "2400",
+            "height": "1241",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Flndry-horizontal.png&w=384&q=75",
+            "alt": "LNDRY logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-website-home.webp&w=3840&q=75",
+            "alt": "LNDRY public website homepage showing the garment care marketplace and doorstep handover imagery",
+            "width": "1280",
+            "height": "720",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-customer-home.webp&w=3840&q=75",
+            "alt": "LNDRY customer app home with laundry service categories and the schedule pickup card",
+            "width": "720",
+            "height": "1600",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Flndry-horizontal.png&w=384&q=75",
+            "alt": "LNDRY POS logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-pos-web-overview.webp&w=3840&q=75",
+            "alt": "LNDRY POS desktop dashboard showing order requests, pending orders, delivery signals and counter actions",
+            "width": "2400",
+            "height": "1238",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-pos-mobile-overview.webp&w=3840&q=75",
+            "alt": "LNDRY POS mobile store overview showing revenue, collections, orders and quick actions",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-game-gameplay.webp&w=3840&q=75",
+            "alt": "Rustbloom mobile platformer gameplay in a flowering clockwork garden with touch movement, jump, dash and action controls",
+            "width": "2400",
+            "height": "1080",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fagnix-studio.png&w=384&q=75",
+            "alt": "Agnix Studio logo",
+            "width": "150",
+            "height": "60",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-website-home.webp&w=3840&q=75",
+            "alt": "Official ANTAR \u2014 The Last Flame coming-soon announcement on the Agnix Studio website",
+            "width": "1280",
+            "height": "720",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fagnix-studio.png&w=384&q=75",
+            "alt": "Agnix Studio logo",
+            "width": "150",
+            "height": "60",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-website-home.webp&w=3840&q=75",
+            "alt": "Agnix Studio company website featuring its gold logo and cinematic ANTAR \u2014 The Last Flame announcement",
+            "width": "1280",
+            "height": "720",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fopslin.png&w=384&q=75",
+            "alt": "Opslin logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fopslin-dashboard.webp&w=3840&q=75",
+            "alt": "Opslin deployment platform overview showing online servers, running apps, deploy activity, alerts and server fleet",
+            "width": "2940",
+            "height": "1512",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "FreshCart",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Dealker",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Bakaloo",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/radha",
+              "text": "Radha",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "FreshCart",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/radha",
+              "text": "Radha",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/opslin",
+              "text": "",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/lndry",
+              "text": "",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/agnix-studio",
+              "text": "",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "FreshCartClient project01FreshCartB2C + B2BFresh food commerceFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Explore project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client project02DealkerShop. Bid. Repair.Electronics marketplaceDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Explore project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client project03BakalooLocal stores, connectedGrocery deliveryBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Explore project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/radha",
+              "text": "RadhaClient project04RadhaScan. Track. Act.Retail command centerRadhaRetail operations & store manag",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/radha",
+              "text": "Explore project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo-platform",
+              "text": "Explore 5 platform views",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Explore the customer app",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo-platform",
+              "text": "Bakaloo / Storefront builder\u2197WhatsApp / Shared inbox\u2197Actual builder + CRM interfaces",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/lndry",
+              "text": "Customer app + websitelndry.in\u2197For the customerLNDRYDiscover care. Book a pickup. Follow every stage",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/lndry",
+              "text": "Explore all views",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/lndry-pos",
+              "text": "Store POS \u00b7 Mobile + webpos.lndry.in\u2197For the physical storeLNDRY POSBook orders. Manage garments. Ru",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/lndry-pos",
+              "text": "Explore all views",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/rustbloom",
+              "text": "",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/rustbloom",
+              "text": "Explore 6 game views",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/antar",
+              "text": "",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/antar",
+              "text": "Explore the game",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/agnix-studio",
+              "text": "agnixstudio.com\u2197",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/agnix-studio",
+              "text": "Explore the website project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/opslin",
+              "text": "Explore Opslin",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/opslin",
+              "text": "dash.opslin.com\u2197Actual Opslin product interface",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/shotvault",
+              "text": "ShotVaultMedia infrastructure",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/fullbag",
+              "text": "Full BagCommerce platform",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/shotlin",
+              "text": "ShotlinIndependent product studio",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/website-web-app-development",
+              "text": "Explore the scope and related projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/flutter-app-development",
+              "text": "Explore the scope and related projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+              "text": "Explore the scope and related projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+              "text": "Explore the scope and related projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services",
+              "text": "Development services",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/website-app-project-brief",
+              "text": "Project brief checklist",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+              "text": "Opslin deployment guide",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://www.agnixstudio.com/",
+              "text": "agnixstudio.com \u2197",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.agnixstudio.in/",
+              "text": "agnixstudio.in \u2197",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.opslin.com/",
+              "text": "Visit the product",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.linkedin.com/in/sayanthe-coder/",
+              "text": "LinkedIn",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.fiverr.com/sayanthecoder",
+              "text": "Fiverr",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.instagram.com/sayanthecoder/",
+              "text": "Instagram",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.opslin.com/",
+              "text": "Opslin",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "Person",
+            "@id": "https://www.sayanthecoder.in/#sayan",
+            "name": "Sayan Mondal",
+            "alternateName": "SayanTheCoder",
+            "url": "https://www.sayanthecoder.in",
+            "jobTitle": "Founder of Opslin and Shotlin; software and DevOps engineer",
+            "image": "https://www.sayanthecoder.in/assets/img/sayan-studio-color.webp",
+            "description": "Sayan Mondal is the founder of Opslin and Shotlin, building software, cloud infrastructure and DevOps tools from Kolkata, India.",
+            "worksFor": [
+              {
+                "@id": "https://www.sayanthecoder.in/#opslin"
+              },
+              {
+                "@id": "https://www.sayanthecoder.in/#shotlin"
+              }
+            ],
+            "sameAs": [
+              "https://www.linkedin.com/in/sayanthe-coder/",
+              "https://www.fiverr.com/sayanthecoder",
+              "https://www.instagram.com/sayanthecoder/"
+            ],
+            "knowsAbout": [
+              "Flutter",
+              "Next.js",
+              "Full-stack development",
+              "AI automation",
+              "DevOps",
+              "Cloud computing",
+              "Cloud development",
+              "VPS deployment",
+              "CI/CD",
+              "AI-assisted deployment",
+              "Game design",
+              "Game development",
+              "Unity",
+              "Godot",
+              "2D and 2.5D games"
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.sayanthecoder.in/#opslin",
+            "name": "Opslin",
+            "url": "https://www.opslin.com/",
+            "founder": {
+              "@id": "https://www.sayanthecoder.in/#sayan"
+            },
+            "description": "A bring-your-own-VPS deployment platform with a permissioned MCP beta for AI-assisted deployment operations."
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.sayanthecoder.in/#shotlin",
+            "name": "Shotlin",
+            "founder": {
+              "@id": "https://www.sayanthecoder.in/#sayan"
+            },
+            "description": "The independent product studio founded by Sayan Mondal."
+          },
+          {
+            "@type": "ProfilePage",
+            "@id": "https://www.sayanthecoder.in/#profile",
+            "url": "https://www.sayanthecoder.in",
+            "name": "Sayan Mondal \u2014 DevOps and app developer",
+            "mainEntity": {
+              "@id": "https://www.sayanthecoder.in/#sayan"
+            },
+            "isPartOf": {
+              "@id": "https://www.sayanthecoder.in/#website"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.sayanthecoder.in/#website",
+            "url": "https://www.sayanthecoder.in",
+            "name": "SayanTheCoder",
+            "alternateName": "Sayan Mondal",
+            "inLanguage": "en",
+            "publisher": {
+              "@id": "https://www.sayanthecoder.in/#sayan"
+            }
+          },
+          {
+            "@type": "ItemList",
+            "name": "Sayan Mondal \u2014 client projects and independent products",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "FreshCart",
+                "url": "https://www.sayanthecoder.in/work/freshcart"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Dealker",
+                "url": "https://www.sayanthecoder.in/work/dealker"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Bakaloo",
+                "url": "https://www.sayanthecoder.in/work/bakaloo"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Bakaloo CRM & Builder",
+                "url": "https://www.sayanthecoder.in/work/bakaloo-platform"
+              },
+              {
+                "@type": "ListItem",
+                "position": 5,
+                "name": "Radha",
+                "url": "https://www.sayanthecoder.in/work/radha"
+              },
+              {
+                "@type": "ListItem",
+                "position": 6,
+                "name": "Opslin",
+                "url": "https://www.sayanthecoder.in/work/opslin"
+              },
+              {
+                "@type": "ListItem",
+                "position": 7,
+                "name": "LNDRY",
+                "url": "https://www.sayanthecoder.in/work/lndry"
+              },
+              {
+                "@type": "ListItem",
+                "position": 8,
+                "name": "LNDRY POS",
+                "url": "https://www.sayanthecoder.in/work/lndry-pos"
+              },
+              {
+                "@type": "ListItem",
+                "position": 9,
+                "name": "Rustbloom",
+                "url": "https://www.sayanthecoder.in/work/rustbloom"
+              },
+              {
+                "@type": "ListItem",
+                "position": 10,
+                "name": "ANTAR \u2014 The Last Flame",
+                "url": "https://www.sayanthecoder.in/work/antar"
+              },
+              {
+                "@type": "ListItem",
+                "position": 11,
+                "name": "Agnix Studio",
+                "url": "https://www.sayanthecoder.in/work/agnix-studio"
+              },
+              {
+                "@type": "ListItem",
+                "position": 12,
+                "name": "ShotVault",
+                "url": "https://www.sayanthecoder.in/work/shotvault"
+              },
+              {
+                "@type": "ListItem",
+                "position": 13,
+                "name": "Full Bag",
+                "url": "https://www.sayanthecoder.in/work/fullbag"
+              },
+              {
+                "@type": "ListItem",
+                "position": 14,
+                "name": "Shotlin",
+                "url": "https://www.sayanthecoder.in/work/shotlin"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Sayan Mondal \u2014 Websites, Apps & Cloud Engineering",
+          "og:description": "Founder of Opslin and Shotlin. DevOps, cloud infrastructure, AI-assisted VPS deployment, web, mobile and game engineering by Sayan Mondal.",
+          "og:url": "https://www.sayanthecoder.in",
+          "og:image": "https://www.sayanthecoder.in/opengraph-image?8707db763bf44121",
+          "og:image:type": "image/png",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Sayan Mondal \u2014 Thoughtful design. Powerful engineering.",
+          "og:type": "website"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Sayan Mondal \u2014 Web, App & DevOps Developer",
+          "twitter:description": "Founder of Opslin and Shotlin. Cloud infrastructure, Flutter apps, custom software and AI engineering in Kolkata, India.",
+          "twitter:image": "https://www.sayanthecoder.in/opengraph-image"
+        },
+        "word_count": 1261,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/services",
+      "analysis": {
+        "title": "Website, App & Software Development Services \u2014 Sayan Mondal",
+        "meta_description": "Explore websites, Flutter apps, custom software, AI workflows and cloud deployment by Sayan Mondal. Based in Kolkata, serving remote businesses worldwide.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/services",
+        "h1": ["Development services for the way your business works."],
+        "h2": [
+          "Website & Web App Development",
+          "DevOps & Cloud Deployment",
+          "Flutter App Development",
+          "Custom Software & AI Development",
+          "Start with a useful first release.",
+          "Prepare your project brief."
+        ],
+        "h3": [],
+        "images": [],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "See the work \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/website-web-app-development",
+              "text": "Website & Web App DevelopmentBusiness websites, Next.js web apps and customer dashboards by Sayan Mo",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+              "text": "DevOps & Cloud DeploymentDevOps and cloud engineering by Sayan Mondal, founder of Opslin: Linux VPS ",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/flutter-app-development",
+              "text": "Flutter App DevelopmentFlutter app development for Android and iOS by Sayan Mondal. Explore customer",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+              "text": "Custom Software & AI DevelopmentCustom software, Next.js dashboards, SaaS and AI workflows by Sayan ",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/website-app-project-brief",
+              "text": "website and app project brief checklist",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Explore project evidence \u2192",
+              "rel": []
+            }
+          ],
+          "external": []
+        },
+        "schema": [
+          {
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            "url": "https://www.sayanthecoder.in/services",
+            "name": "Development services by Sayan Mondal",
+            "isPartOf": {
+              "@id": "https://www.sayanthecoder.in/#website"
+            },
+            "mainEntity": {
+              "@type": "ItemList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Website & Web App Development",
+                  "url": "https://www.sayanthecoder.in/services/website-web-app-development"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "DevOps & Cloud Deployment",
+                  "url": "https://www.sayanthecoder.in/services/devops-cloud-deployment"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 3,
+                  "name": "Flutter App Development",
+                  "url": "https://www.sayanthecoder.in/services/flutter-app-development"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 4,
+                  "name": "Custom Software & AI Development",
+                  "url": "https://www.sayanthecoder.in/services/custom-software-ai-development"
+                }
+              ]
+            }
+          }
+        ],
+        "open_graph": {
+          "og:title": "Development services \u2014 Sayan Mondal",
+          "og:description": "Websites, mobile apps, business software and cloud engineering for remote clients worldwide.",
+          "og:url": "https://www.sayanthecoder.in/services",
+          "og:image": "https://www.sayanthecoder.in/opengraph-image",
+          "og:type": "website"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Development services \u2014 Sayan Mondal",
+          "twitter:description": "Websites, Flutter apps, custom software and cloud engineering for remote clients worldwide.",
+          "twitter:image": "https://www.sayanthecoder.in/opengraph-image"
+        },
+        "word_count": 250,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/insights/website-app-project-brief",
+      "analysis": {
+        "title": "Website & App Project Brief Checklist \u2014 Sayan Mondal",
+        "meta_description": "A practical website and app project brief: goals, users, workflows, integrations, budget, remote delivery and handover. By developer Sayan Mondal.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/insights/website-app-project-brief",
+        "h1": ["Website & App Project Brief Checklist"],
+        "h2": [
+          "Start with the business task",
+          "Identify the users and their main journey",
+          "Choose a useful first release",
+          "List the systems the product must connect to",
+          "Make the estimate assumptions explicit",
+          "Agree how remote collaboration will work",
+          "Plan ownership, deployment and handover",
+          "Use evidence when comparing a developer or agency",
+          "Explore the work that fits your brief.",
+          "Start with your project."
+        ],
+        "h3": [],
+        "images": [],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services",
+              "text": "Development services \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#about",
+              "text": "Sayan Mondal",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/resources/project-brief-template.txt",
+              "text": "Download the editable project brief template \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/website-web-app-development",
+              "text": "Websites & web applications \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/flutter-app-development",
+              "text": "Flutter mobile apps \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+              "text": "Custom software & AI \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+              "text": "DevOps & deployment \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your brief \u2192",
+              "rel": []
+            }
+          ],
+          "external": []
+        },
+        "schema": [
+          {
+            "@type": "Article",
+            "@id": "https://www.sayanthecoder.in/insights/website-app-project-brief#article",
+            "headline": "Website & App Project Brief Checklist",
+            "description": "A practical website and app project brief: goals, users, workflows, integrations, budget, remote delivery and handover. By developer Sayan Mondal.",
+            "url": "https://www.sayanthecoder.in/insights/website-app-project-brief",
+            "mainEntityOfPage": "https://www.sayanthecoder.in/insights/website-app-project-brief",
+            "inLanguage": "en",
+            "dateCreated": "2026-10-24",
+            "dateModified": "2026-10-24",
+            "author": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "image": "https://www.sayanthecoder.in/opengraph-image",
+            "articleBody": "Start with the business task\nDescribe the problem in ordinary language. A grocery shop may want customers to order without repeated phone calls. A service business may need customers to book and track a pickup. An internal team may need to stop entering the same information into several systems. State what should become easier and how you would recognize a useful result. You do not need to choose a framework first.\n\nIdentify the users and their main journey\nList who will use the product: customers, staff, store managers or delivery partners, for example. Then write the essential steps each person needs to complete. Include the awkward cases, such as a failed payment, unavailable item, cancelled booking or interrupted connection. Those details often affect the work more than the number of screens.\n\nChoose a useful first release\nSeparate what must work at launch from improvements that can follow. A responsive website may be enough for discovery and enquiries. A web app may fit an account-based workflow. A mobile app may be appropriate for device capabilities or frequent use. A developer should be able to explain the tradeoff using your users and requirements rather than treating every business as the same project.\n\nList the systems the product must connect to\nNote existing websites, APIs, spreadsheets, accounting tools, CRM, payment services and messaging channels. Identify who owns each account and whether documentation or test access is available. Mention any existing design or code. Do not paste passwords, customer records or private keys into a public enquiry; arrange a suitable access method after the scope is understood.\n\nMake the estimate assumptions explicit\nShare your preferred launch window, any fixed business deadline and a budget range with its currency if you have one. Explain what content, branding, designs and internal review capacity are already available. A useful proposal should distinguish included work, exclusions, third-party charges, revision expectations and maintenance. Price and timing need these assumptions; a universal app-development price would hide meaningful differences.\n\nAgree how remote collaboration will work\nInclude your country, time zone, decision-maker and preferred review times. Discuss how questions, demos, approvals and change requests will be handled. I work from Kolkata, India and am available for remote projects worldwide. Communication overlap and project responsibilities should be agreed for the particular engagement, rather than assumed from the location of either party.\n\nPlan ownership, deployment and handover\nBefore the build starts, agree repository and account access, ownership terms, hosting responsibilities, domain control and how credentials are shared. Define the acceptance checks, deployment process and handover material. If the product holds important data, discuss backups and recovery separately from release rollback. Clarify which post-launch fixes or support are included and which require a separate arrangement.\n\nUse evidence when comparing a developer or agency\nAsk to inspect relevant work and understand the supplier\u2019s actual contribution. An attractive screenshot is useful, but also ask how the underlying workflow, integrations and release process were handled. The SayanTheCoder portfolio contains real supplied app, storefront, CRM, POS and deployment interfaces. Those examples help us discuss related requirements; they are not a promise that another business\u2019s product can be reproduced unchanged."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Website & App Project Brief Checklist",
+                "item": "https://www.sayanthecoder.in/insights/website-app-project-brief"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Website & App Project Brief Checklist",
+          "og:description": "A practical website and app project brief: goals, users, workflows, integrations, budget, remote delivery and handover. By developer Sayan Mondal.",
+          "og:url": "https://www.sayanthecoder.in/insights/website-app-project-brief",
+          "og:image": "https://www.sayanthecoder.in/opengraph-image",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Website & App Project Brief Checklist",
+          "twitter:description": "A practical website and app project brief: goals, users, workflows, integrations, budget, remote delivery and handover. By developer Sayan Mondal.",
+          "twitter:image": "https://www.sayanthecoder.in/opengraph-image"
+        },
+        "word_count": 602,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+      "analysis": {
+        "title": "Opslin: simpler VPS deployment and AI-assisted DevOps | SayanTheCoder",
+        "meta_description": "Sayan Mondal, founder of Opslin, explains deploying to your own Linux VPS, Git releases, monitoring, rollback and permissioned AI operations with MCP beta.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+        "h1": ["Opslin: simpler VPS deployment and AI-assisted DevOps"],
+        "h2": [
+          "Why I founded Opslin",
+          "What problem does Opslin solve?",
+          "From your Linux VPS to a running application",
+          "Cloud operations after the first deploy",
+          "AI-assisted deployment with Opslin MCP beta",
+          "Own the server and keep the workflow connected",
+          "What you can use today and what comes next",
+          "Product reference",
+          "Meet Opslin."
+        ],
+        "h3": [],
+        "images": [],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/opslin",
+              "text": "Explore Opslin \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#about",
+              "text": "Sayan Mondal",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/opslin",
+              "text": "See the product overview \u2192",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://www.opslin.com/",
+              "text": "official Opslin website",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.opslin.com/",
+              "text": "Visit Opslin \u2192",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "BlogPosting",
+            "@id": "https://www.sayanthecoder.in/insights/opslin-vps-deployment#article",
+            "headline": "Opslin: simpler VPS deployment and AI-assisted DevOps",
+            "description": "Sayan Mondal, founder of Opslin, explains deploying to your own Linux VPS, Git releases, monitoring, rollback and permissioned AI operations with MCP beta.",
+            "mainEntityOfPage": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+            "url": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+            "inLanguage": "en",
+            "dateCreated": "2026-10-24",
+            "datePublished": "2026-10-24",
+            "dateModified": "2026-10-24",
+            "author": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in",
+              "sameAs": ["https://www.linkedin.com/in/sayanthe-coder/"]
+            },
+            "publisher": {
+              "@id": "https://www.sayanthecoder.in/#sayan"
+            },
+            "image": "https://www.sayanthecoder.in/assets/projects/opslin-dashboard.webp",
+            "about": {
+              "@type": "SoftwareApplication",
+              "@id": "https://www.sayanthecoder.in/work/opslin#project",
+              "name": "Opslin",
+              "url": "https://www.opslin.com/"
+            },
+            "articleSection": "Cloud infrastructure and DevOps",
+            "articleBody": "Why I founded Opslin\nI\u2019m Sayan Mondal, founder of Opslin and Shotlin. I build products across interfaces, backend services and the infrastructure that runs them. Opslin grew from a practical problem: getting useful software online often takes far more operational work than the application itself suggests.\nA working app still needs a runtime, a domain, HTTPS, environment variables, a database and a repeatable release process. After launch, someone must watch logs, investigate failures and know how to return to a working version. Opslin brings those related tasks into one deployment control plane for a VPS you control.\n\nWhat problem does Opslin solve?\nManual server administration can scatter one release across a terminal, a hosting dashboard, separate monitoring tools and deployment scripts. When something fails, identifying the relevant logs and the last healthy release becomes another task. Opslin connects the application and its operational context so the next step is easier to find.\nThe aim is practical DevOps automation: repeat common deployment steps, keep application health visible and make recovery accessible. This can help developers, founders and small teams spend less time coordinating tools. It does not remove the need to understand application requirements, manage access or plan backups for important data.\n\nFrom your Linux VPS to a running application\nStart with a supported Linux VPS you own or rent. Use the setup command generated by the Opslin dashboard to connect its outbound agent. The agent connects from your server to the control plane; your application continues to run on your infrastructure.\nNext, connect a GitHub repository or upload your application. Configure the runtime, application settings, secrets and domain for that workload. Opslin\u2019s release workflow brings builds, deployments, health checks and rollback together, with domains and SSL alongside the application. Runtime targets include Node.js, Python, Go, PHP, Ruby, Java, Rust and static sites; check current compatibility for your framework and server.\nAn easier deployment flow still needs a valid configuration. Before routing real users to a release, check its logs, domain, HTTPS, database connection and health. Keep a recovery plan suited to the application rather than treating a successful build as proof that every feature is working.\n\nCloud operations after the first deploy\nDeployment is the beginning of operating a product. Opslin\u2019s dashboard connects fleet status, application details, deployment activity, domains, logs and metrics. Server monitoring covers CPU, memory, disk and network activity, helping you connect an application problem with the machine running it.\nDatabase views bring supported PostgreSQL, MySQL, MongoDB and Redis instances into the same operational picture. Health checks, alerts and release rollback help teams investigate and respond when a change goes wrong. A release rollback and a database restore solve different problems: plan data recovery separately for stateful workloads.\n\nAI-assisted deployment with Opslin MCP beta\nOpslin MCP connects compatible AI assistants to supported deployment operations. Instead of copying logs between tools, you can ask an assistant to inspect the latest release, read logs, check health or perform an allowed deploy or rollback action. The connection is permissioned: the assistant\u2019s available actions depend on the access you grant.\nThis is AI-assisted DevOps with a defined operating boundary. Review the requested action, target application and environment before an important change. An assistant can help interpret a failure or operate a supported workflow; it does not guarantee that a release is correct, secure or suitable for production.\n\nOwn the server and keep the workflow connected\nOpslin\u2019s bring-your-own-VPS approach separates infrastructure ownership from the deployment control plane. You choose the provider and server that fit your workload, while Opslin connects common operations in one interface. This suits teams that want a guided deployment experience on infrastructure they control.\nMy work as Opslin\u2019s founder spans the Next.js dashboard, backend and outbound Go agent. It connects my software engineering and cloud development work with the daily DevOps needs of people shipping applications. Opslin is my independent product, built around a guided deployment experience and customer-controlled infrastructure.\n\nWhat you can use today and what comes next\nThe official Opslin website currently presents the deployment platform and MCP as beta offerings. Beta access, supported actions and limits can change, so check the current product documentation before planning a rollout.\nLaunchpad is planned to help people discover suitable infrastructure. Marketplace is planned for deployment-ready software, templates, tools and experts. Both are marked coming soon. To explore what is available now, start with the official Opslin website and its current onboarding guidance."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Opslin deployment guide",
+                "item": "https://www.sayanthecoder.in/insights/opslin-vps-deployment"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Opslin: simpler VPS deployment and AI-assisted DevOps",
+          "og:description": "Sayan Mondal, founder of Opslin, explains deploying to your own Linux VPS, Git releases, monitoring, rollback and permissioned AI operations with MCP beta.",
+          "og:url": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+          "og:image": "https://www.sayanthecoder.in/work/opslin/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Opslin \u2014 VPS deployment platform founded by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Opslin: simpler VPS deployment and AI-assisted DevOps",
+          "twitter:description": "Sayan Mondal, founder of Opslin, explains deploying to your own Linux VPS, Git releases, monitoring, rollback and permissioned AI operations with MCP beta.",
+          "twitter:image": "https://www.sayanthecoder.in/work/opslin/opengraph-image"
+        },
+        "word_count": 789,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/services/website-web-app-development",
+      "analysis": {
+        "title": "Website & Web App Developer \u2014 Sayan Mondal",
+        "meta_description": "Business websites, Next.js web apps and customer dashboards by Sayan Mondal. Founder-led development from Kolkata for remote clients worldwide.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/services/website-web-app-development",
+        "h1": ["Website & Web App Development"],
+        "h2": [
+          "A business website or a web application?",
+          "Design, development and the supporting systems",
+          "Mobile usability and a clear release path",
+          "Real websites and operational products",
+          "Get an estimate with the right assumptions",
+          "Working together across borders.",
+          "Explore the related work.",
+          "Questions before getting started.",
+          "Other ways I can help.",
+          "Let\u2019s understand your project."
+        ],
+        "h3": ["LNDRY", "Agnix Studio", "Bakaloo CRM & Builder"],
+        "images": [],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#services",
+              "text": "All expertise \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/website-app-project-brief",
+              "text": "Use the website and app project brief checklist",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/lndry",
+              "text": "Studio workLNDRYCustomer app & laundry websiteView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/agnix-studio",
+              "text": "Client projectAgnix StudioGame studio company websiteView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo-platform",
+              "text": "Client projectBakaloo CRM & BuilderWhatsApp CRM, agentic AI & B2B commerceView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services",
+              "text": "Browse all development services \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+              "text": "DevOps & Cloud Deployment\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/flutter-app-development",
+              "text": "Flutter App Development\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+              "text": "Custom Software & AI Development\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+              "text": "Opslin deployment guide \u2192",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Website+%26+Web+App+Development+enquiry&body=",
+              "text": "Email Sayan \u2192",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.sayanthecoder.in/services/website-web-app-development#page",
+            "url": "https://www.sayanthecoder.in/services/website-web-app-development",
+            "name": "Website & Web App Developer \u2014 Sayan Mondal",
+            "description": "Business websites, Next.js web apps and customer dashboards by Sayan Mondal. Founder-led development from Kolkata for remote clients worldwide.",
+            "inLanguage": "en",
+            "mainEntity": {
+              "@id": "https://www.sayanthecoder.in/services/website-web-app-development#service"
+            },
+            "isPartOf": {
+              "@id": "https://www.sayanthecoder.in/#website"
+            }
+          },
+          {
+            "@type": "Service",
+            "@id": "https://www.sayanthecoder.in/services/website-web-app-development#service",
+            "name": "Website & Web App Development",
+            "description": "Business websites, Next.js web apps and customer dashboards by Sayan Mondal. Founder-led development from Kolkata for remote clients worldwide.",
+            "url": "https://www.sayanthecoder.in/services/website-web-app-development",
+            "serviceType": "Website & Web App Development",
+            "provider": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "areaServed": {
+              "@type": "Place",
+              "name": "Worldwide"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.sayanthecoder.in/services/website-web-app-development#page"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Website & Web App Development",
+                "item": "https://www.sayanthecoder.in/services/website-web-app-development"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Website & Web App Developer \u2014 Sayan Mondal",
+          "og:description": "Business websites, Next.js web apps and customer dashboards by Sayan Mondal. Founder-led development from Kolkata for remote clients worldwide.",
+          "og:url": "https://www.sayanthecoder.in/services/website-web-app-development",
+          "og:image": "https://www.sayanthecoder.in/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "website"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Website & Web App Developer \u2014 Sayan Mondal",
+          "twitter:description": "Business websites, Next.js web apps and customer dashboards by Sayan Mondal. Founder-led development from Kolkata for remote clients worldwide.",
+          "twitter:image": "https://www.sayanthecoder.in/opengraph-image"
+        },
+        "word_count": 580,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+      "analysis": {
+        "title": "DevOps & Cloud Deployment \u2014 Sayan Mondal",
+        "meta_description": "DevOps and cloud engineering by Sayan Mondal, founder of Opslin: Linux VPS deployment, Docker, CI/CD, monitoring and application handover.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+        "h1": ["DevOps & Cloud Deployment"],
+        "h2": [
+          "A deployment is more than a successful build",
+          "Start with the workload and the server you control",
+          "Build a repeatable path to production",
+          "Operate and hand over the system",
+          "Opslin is evidence of this work",
+          "Working together across borders.",
+          "Explore the related work.",
+          "Questions before getting started.",
+          "Other ways I can help.",
+          "Let\u2019s understand your project."
+        ],
+        "h3": ["Opslin", "ShotVault"],
+        "images": [],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#services",
+              "text": "All expertise \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/website-app-project-brief",
+              "text": "Use the website and app project brief checklist",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/opslin",
+              "text": "My productOpslinCloud infrastructure & developer toolsView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/shotvault",
+              "text": "Studio workShotVaultMedia infrastructureView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services",
+              "text": "Browse all development services \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/website-web-app-development",
+              "text": "Website & Web App Development\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/flutter-app-development",
+              "text": "Flutter App Development\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+              "text": "Custom Software & AI Development\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+              "text": "Opslin deployment guide \u2192",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=DevOps+%26+Cloud+Deployment+enquiry&body=",
+              "text": "Email Sayan \u2192",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.sayanthecoder.in/services/devops-cloud-deployment#page",
+            "url": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+            "name": "DevOps & Cloud Deployment \u2014 Sayan Mondal",
+            "description": "DevOps and cloud engineering by Sayan Mondal, founder of Opslin: Linux VPS deployment, Docker, CI/CD, monitoring and application handover.",
+            "inLanguage": "en",
+            "mainEntity": {
+              "@id": "https://www.sayanthecoder.in/services/devops-cloud-deployment#service"
+            },
+            "isPartOf": {
+              "@id": "https://www.sayanthecoder.in/#website"
+            }
+          },
+          {
+            "@type": "Service",
+            "@id": "https://www.sayanthecoder.in/services/devops-cloud-deployment#service",
+            "name": "DevOps & Cloud Deployment",
+            "description": "DevOps and cloud engineering by Sayan Mondal, founder of Opslin: Linux VPS deployment, Docker, CI/CD, monitoring and application handover.",
+            "url": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+            "serviceType": "DevOps & Cloud Deployment",
+            "provider": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "areaServed": {
+              "@type": "Place",
+              "name": "Worldwide"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.sayanthecoder.in/services/devops-cloud-deployment#page"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "DevOps & Cloud Deployment",
+                "item": "https://www.sayanthecoder.in/services/devops-cloud-deployment"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "DevOps & Cloud Deployment \u2014 Sayan Mondal",
+          "og:description": "DevOps and cloud engineering by Sayan Mondal, founder of Opslin: Linux VPS deployment, Docker, CI/CD, monitoring and application handover.",
+          "og:url": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+          "og:image": "https://www.sayanthecoder.in/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "website"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "DevOps & Cloud Deployment \u2014 Sayan Mondal",
+          "twitter:description": "DevOps and cloud engineering by Sayan Mondal, founder of Opslin: Linux VPS deployment, Docker, CI/CD, monitoring and application handover.",
+          "twitter:image": "https://www.sayanthecoder.in/opengraph-image"
+        },
+        "word_count": 533,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/services/flutter-app-development",
+      "analysis": {
+        "title": "Flutter App Developer \u2014 Sayan Mondal, Kolkata",
+        "meta_description": "Flutter app development for Android and iOS by Sayan Mondal. Explore customer apps, booking, commerce and store workflows with real project screens.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/services/flutter-app-development",
+        "h1": ["Flutter App Development"],
+        "h2": [
+          "Start with the customer journey",
+          "A shared Flutter codebase with platform checks",
+          "Connect the app to real operations",
+          "Real applications and separate business workflows",
+          "From prototype to a maintainable release",
+          "Working together across borders.",
+          "Explore the related work.",
+          "Questions before getting started.",
+          "Other ways I can help.",
+          "Let\u2019s understand your project."
+        ],
+        "h3": ["FreshCart", "Dealker", "Bakaloo", "LNDRY", "LNDRY POS"],
+        "images": [],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#services",
+              "text": "All expertise \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/website-app-project-brief",
+              "text": "Use the website and app project brief checklist",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerceView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplaceView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery deliveryView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/lndry",
+              "text": "Studio workLNDRYCustomer app & laundry websiteView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/lndry-pos",
+              "text": "Studio workLNDRY POSIn-store laundry POS \u00b7 Mobile & webView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services",
+              "text": "Browse all development services \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/website-web-app-development",
+              "text": "Website & Web App Development\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+              "text": "DevOps & Cloud Deployment\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+              "text": "Custom Software & AI Development\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+              "text": "Opslin deployment guide \u2192",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Flutter+App+Development+enquiry&body=",
+              "text": "Email Sayan \u2192",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.sayanthecoder.in/services/flutter-app-development#page",
+            "url": "https://www.sayanthecoder.in/services/flutter-app-development",
+            "name": "Flutter App Developer \u2014 Sayan Mondal, Kolkata",
+            "description": "Flutter app development for Android and iOS by Sayan Mondal. Explore customer apps, booking, commerce and store workflows with real project screens.",
+            "inLanguage": "en",
+            "mainEntity": {
+              "@id": "https://www.sayanthecoder.in/services/flutter-app-development#service"
+            },
+            "isPartOf": {
+              "@id": "https://www.sayanthecoder.in/#website"
+            }
+          },
+          {
+            "@type": "Service",
+            "@id": "https://www.sayanthecoder.in/services/flutter-app-development#service",
+            "name": "Flutter App Development",
+            "description": "Flutter app development for Android and iOS by Sayan Mondal. Explore customer apps, booking, commerce and store workflows with real project screens.",
+            "url": "https://www.sayanthecoder.in/services/flutter-app-development",
+            "serviceType": "Flutter App Development",
+            "provider": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "areaServed": {
+              "@type": "Place",
+              "name": "Worldwide"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.sayanthecoder.in/services/flutter-app-development#page"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Flutter App Development",
+                "item": "https://www.sayanthecoder.in/services/flutter-app-development"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Flutter App Developer \u2014 Sayan Mondal, Kolkata",
+          "og:description": "Flutter app development for Android and iOS by Sayan Mondal. Explore customer apps, booking, commerce and store workflows with real project screens.",
+          "og:url": "https://www.sayanthecoder.in/services/flutter-app-development",
+          "og:image": "https://www.sayanthecoder.in/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "website"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Flutter App Developer \u2014 Sayan Mondal, Kolkata",
+          "twitter:description": "Flutter app development for Android and iOS by Sayan Mondal. Explore customer apps, booking, commerce and store workflows with real project screens.",
+          "twitter:image": "https://www.sayanthecoder.in/opengraph-image"
+        },
+        "word_count": 545,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+      "analysis": {
+        "title": "Custom Software & AI Developer \u2014 Sayan Mondal",
+        "meta_description": "Custom software, Next.js dashboards, SaaS and AI workflows by Sayan Mondal, founder of Opslin and Shotlin. Explore real commerce and CRM projects.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+        "h1": ["Custom Software & AI Development"],
+        "h2": [
+          "Define the workflow before choosing the features",
+          "Web products and business dashboards",
+          "AI that works within a defined boundary",
+          "Connected commerce, CRM and operational systems",
+          "A delivery process that includes deployment",
+          "Working together across borders.",
+          "Explore the related work.",
+          "Questions before getting started.",
+          "Other ways I can help.",
+          "Let\u2019s understand your project."
+        ],
+        "h3": ["Bakaloo CRM & Builder", "LNDRY POS", "Opslin"],
+        "images": [],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#services",
+              "text": "All expertise \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/website-app-project-brief",
+              "text": "Use the website and app project brief checklist",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo-platform",
+              "text": "Client projectBakaloo CRM & BuilderWhatsApp CRM, agentic AI & B2B commerceView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/lndry-pos",
+              "text": "Studio workLNDRY POSIn-store laundry POS \u00b7 Mobile & webView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/opslin",
+              "text": "My productOpslinCloud infrastructure & developer toolsView project \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services",
+              "text": "Browse all development services \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/website-web-app-development",
+              "text": "Website & Web App Development\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+              "text": "DevOps & Cloud Deployment\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/services/flutter-app-development",
+              "text": "Flutter App Development\u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+              "text": "Opslin deployment guide \u2192",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Custom+Software+%26+AI+Development+enquiry&body=",
+              "text": "Email Sayan \u2192",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.sayanthecoder.in/services/custom-software-ai-development#page",
+            "url": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+            "name": "Custom Software & AI Developer \u2014 Sayan Mondal",
+            "description": "Custom software, Next.js dashboards, SaaS and AI workflows by Sayan Mondal, founder of Opslin and Shotlin. Explore real commerce and CRM projects.",
+            "inLanguage": "en",
+            "mainEntity": {
+              "@id": "https://www.sayanthecoder.in/services/custom-software-ai-development#service"
+            },
+            "isPartOf": {
+              "@id": "https://www.sayanthecoder.in/#website"
+            }
+          },
+          {
+            "@type": "Service",
+            "@id": "https://www.sayanthecoder.in/services/custom-software-ai-development#service",
+            "name": "Custom Software & AI Development",
+            "description": "Custom software, Next.js dashboards, SaaS and AI workflows by Sayan Mondal, founder of Opslin and Shotlin. Explore real commerce and CRM projects.",
+            "url": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+            "serviceType": "Custom Software & AI Development",
+            "provider": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "areaServed": {
+              "@type": "Place",
+              "name": "Worldwide"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.sayanthecoder.in/services/custom-software-ai-development#page"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Custom Software & AI Development",
+                "item": "https://www.sayanthecoder.in/services/custom-software-ai-development"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Custom Software & AI Developer \u2014 Sayan Mondal",
+          "og:description": "Custom software, Next.js dashboards, SaaS and AI workflows by Sayan Mondal, founder of Opslin and Shotlin. Explore real commerce and CRM projects.",
+          "og:url": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+          "og:image": "https://www.sayanthecoder.in/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:type": "website"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Custom Software & AI Developer \u2014 Sayan Mondal",
+          "twitter:description": "Custom software, Next.js dashboards, SaaS and AI workflows by Sayan Mondal, founder of Opslin and Shotlin. Explore real commerce and CRM projects.",
+          "twitter:image": "https://www.sayanthecoder.in/opengraph-image"
+        },
+        "word_count": 540,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/freshcart",
+      "analysis": {
+        "title": "FreshCart \u2014 Fresh food & grocery commerce | SayanTheCoder",
+        "meta_description": "FreshCart client project by Sayan Mondal: a Flutter food and grocery app with B2C and B2B shopping, category discovery and connected delivery operations.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/freshcart",
+        "h1": ["FreshCart."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": [
+          "A familiar way to shop",
+          "Commerce across touchpoints",
+          "Real product detail"
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Ffreshcart.png&w=96&q=75",
+            "alt": "FreshCart logo",
+            "width": "42",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Ffreshcart-home.webp&w=3840&q=75",
+            "alt": "FreshCart customer app showing delivery location, meat and grocery categories, product prices and shopping navigation",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo-platform",
+              "text": "Client projectBakaloo CRM & BuilderWhatsApp CRM, agentic AI & B2B commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "CreativeWork",
+            "@id": "https://www.sayanthecoder.in/work/freshcart#project",
+            "name": "FreshCart",
+            "description": "A fresh-food and grocery shopping app with B2C and B2B shopping modes, location-aware discovery, category browsing and a clear product-to-cart experience. Built as client work across customer, vendor and delivery operations.",
+            "url": "https://www.sayanthecoder.in/work/freshcart",
+            "image": "https://www.sayanthecoder.in/assets/projects/freshcart-home.webp",
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "Fresh food & grocery commerce",
+            "keywords": "Flutter, Commerce, Customer experience"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "FreshCart",
+                "item": "https://www.sayanthecoder.in/work/freshcart"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "FreshCart \u2014 Fresh food & grocery commerce | SayanTheCoder",
+          "og:description": "FreshCart client project by Sayan Mondal: a Flutter food and grocery app with B2C and B2B shopping, category discovery and connected delivery operations.",
+          "og:url": "https://www.sayanthecoder.in/work/freshcart",
+          "og:image": "https://www.sayanthecoder.in/work/freshcart/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "FreshCart \u2014 Client project by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "FreshCart \u2014 Fresh food & grocery commerce",
+          "twitter:description": "FreshCart client project by Sayan Mondal: a Flutter food and grocery app with B2C and B2B shopping, category discovery and connected delivery operations.",
+          "twitter:image": "https://www.sayanthecoder.in/work/freshcart/opengraph-image"
+        },
+        "word_count": 198,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/dealker",
+      "analysis": {
+        "title": "Dealker \u2014 Electronics marketplace | SayanTheCoder",
+        "meta_description": "Dealker client project by Sayan Mondal: a Flutter electronics marketplace connecting phone shopping, brand discovery, auctions and repair services.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/dealker",
+        "h1": ["Dealker."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": [
+          "Discovery that fits the catalog",
+          "More than a storefront",
+          "The systems behind the screen"
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fdealker.png&w=384&q=75",
+            "alt": "Dealker logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fdealker-home.webp&w=3840&q=75",
+            "alt": "Dealker mobile marketplace with phone categories, electronics offers, Apple and Samsung brand discovery, auctions and repair navigation",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo-platform",
+              "text": "Client projectBakaloo CRM & BuilderWhatsApp CRM, agentic AI & B2B commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "CreativeWork",
+            "@id": "https://www.sayanthecoder.in/work/dealker#project",
+            "name": "Dealker",
+            "description": "A mobile marketplace for phones, parts, accessories and electronics. The customer experience brings together category discovery, brand-led shopping, promotional offers, auctions and repair entry points, supported by vendor and operations tools.",
+            "url": "https://www.sayanthecoder.in/work/dealker",
+            "image": "https://www.sayanthecoder.in/assets/projects/dealker-home.webp",
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "Electronics marketplace",
+            "keywords": "Flutter, Marketplace, Full-stack"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Dealker",
+                "item": "https://www.sayanthecoder.in/work/dealker"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Dealker \u2014 Electronics marketplace | SayanTheCoder",
+          "og:description": "Dealker client project by Sayan Mondal: a Flutter electronics marketplace connecting phone shopping, brand discovery, auctions and repair services.",
+          "og:url": "https://www.sayanthecoder.in/work/dealker",
+          "og:image": "https://www.sayanthecoder.in/work/dealker/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Dealker \u2014 Client project by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Dealker \u2014 Electronics marketplace",
+          "twitter:description": "Dealker client project by Sayan Mondal: a Flutter electronics marketplace connecting phone shopping, brand discovery, auctions and repair services.",
+          "twitter:image": "https://www.sayanthecoder.in/work/dealker/opengraph-image"
+        },
+        "word_count": 188,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/bakaloo",
+      "analysis": {
+        "title": "Bakaloo \u2014 Hyperlocal grocery delivery | SayanTheCoder",
+        "meta_description": "Bakaloo client project by Sayan Mondal: a Flutter grocery delivery platform connecting customers, local stores, riders and everyday shopping.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/bakaloo",
+        "h1": ["Bakaloo."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "Another view of the product.",
+          "Bakaloo CRM & Builder",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": [
+          "Built around local shopping",
+          "An end-to-end ordering experience",
+          "One connected platform"
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fbakaloo.png&w=384&q=75",
+            "alt": "Bakaloo logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fbakaloo-home.webp&w=3840&q=75",
+            "alt": "Bakaloo grocery app showing its purple logo, local delivery, vegetable categories, fresh arrivals, prices and wallet access",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fimg%2Fbakaloo-detail.webp&w=3840&q=75",
+            "alt": "Bakaloo additional product interface",
+            "width": "900",
+            "height": "799",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo-platform",
+              "text": "ExploreBakaloo CRM & Builder",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo-platform",
+              "text": "Client projectBakaloo CRM & BuilderWhatsApp CRM, agentic AI & B2B commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://bakalooindia.com/",
+              "text": "Visit Bakaloo",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "CreativeWork",
+            "@id": "https://www.sayanthecoder.in/work/bakaloo#project",
+            "name": "Bakaloo",
+            "description": "A grocery delivery platform connecting customers with local shops. The product brings location-aware browsing, fresh groceries, a wallet, offers and order tracking into a mobile experience, with rider and operations tools behind it.",
+            "url": "https://www.sayanthecoder.in/work/bakaloo",
+            "image": "https://www.sayanthecoder.in/assets/projects/bakaloo-home.webp",
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "Hyperlocal grocery delivery",
+            "keywords": "Flutter, Node.js, Quick commerce"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Bakaloo",
+                "item": "https://www.sayanthecoder.in/work/bakaloo"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Bakaloo \u2014 Hyperlocal grocery delivery | SayanTheCoder",
+          "og:description": "Bakaloo client project by Sayan Mondal: a Flutter grocery delivery platform connecting customers, local stores, riders and everyday shopping.",
+          "og:url": "https://www.sayanthecoder.in/work/bakaloo",
+          "og:image": "https://www.sayanthecoder.in/work/bakaloo/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Bakaloo \u2014 Client project by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Bakaloo \u2014 Hyperlocal grocery delivery",
+          "twitter:description": "Bakaloo client project by Sayan Mondal: a Flutter grocery delivery platform connecting customers, local stores, riders and everyday shopping.",
+          "twitter:image": "https://www.sayanthecoder.in/work/bakaloo/opengraph-image"
+        },
+        "word_count": 224,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/bakaloo-platform",
+      "analysis": {
+        "title": "Bakaloo CRM & Builder \u2014 WhatsApp CRM, agentic AI & B2B commerce | SayanTheCoder",
+        "meta_description": "Bakaloo CRM and theme builder by Sayan Mondal: WhatsApp inbox, agentic AI, customer pipelines, B2B commerce and a visual Flutter storefront builder.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/bakaloo-platform",
+        "h1": ["Bakaloo CRM & Builder."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "Bakaloo",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": [
+          "One shared customer context",
+          "Agentic AI with team handoff",
+          "A visual storefront system",
+          "B2B and B2C in the same platform"
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fbakaloo.png&w=384&q=75",
+            "alt": "Bakaloo CRM & Builder logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fbakaloo-theme-builder.webp&w=3840&q=75",
+            "alt": "Bakaloo section builder with component library, phone preview, theme presets, B2B and B2C selection and publishing controls",
+            "width": "2400",
+            "height": "1242",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fbakaloo-theme-builder.webp&w=3840&q=75",
+            "alt": "",
+            "width": "2400",
+            "height": "1242",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fbakaloo-crm-inbox-redacted.webp&w=3840&q=75",
+            "alt": "",
+            "width": "1744",
+            "height": "902",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fbakaloo-crm-team-redacted.webp&w=3840&q=75",
+            "alt": "",
+            "width": "1744",
+            "height": "901",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fbakaloo-crm-pipeline-redacted.webp&w=3840&q=75",
+            "alt": "",
+            "width": "1752",
+            "height": "897",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fbakaloo-crm-templates.webp&w=3840&q=75",
+            "alt": "",
+            "width": "2400",
+            "height": "1238",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/bakaloo-theme-builder.webp",
+              "text": "",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/bakaloo-theme-builder.webp",
+              "text": "Open full-size image",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/bakaloo-theme-builder.webp",
+              "text": "Theme & section builder",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/bakaloo-crm-inbox-redacted.webp",
+              "text": "WhatsApp \u00b7 Shared inbox",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/bakaloo-crm-team-redacted.webp",
+              "text": "CRM \u00b7 Team chat",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/bakaloo-crm-pipeline-redacted.webp",
+              "text": "CRM \u00b7 Customer pipeline",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/bakaloo-crm-templates.webp",
+              "text": "WhatsApp \u00b7 Templates",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "ExploreBakaloo",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "CreativeWork",
+            "@id": "https://www.sayanthecoder.in/work/bakaloo-platform#project",
+            "name": "Bakaloo CRM & Builder",
+            "description": "The operations platform behind Bakaloo, presented separately from its customer app. A shared WhatsApp CRM, agentic AI workflows, team collaboration and customer pipelines connect with B2B commerce and a visual theme and section builder for B2B and B2C storefronts.",
+            "url": "https://www.sayanthecoder.in/work/bakaloo-platform",
+            "image": [
+              "https://www.sayanthecoder.in/assets/projects/bakaloo-theme-builder.webp",
+              "https://www.sayanthecoder.in/assets/projects/bakaloo-crm-inbox-redacted.webp",
+              "https://www.sayanthecoder.in/assets/projects/bakaloo-crm-team-redacted.webp",
+              "https://www.sayanthecoder.in/assets/projects/bakaloo-crm-pipeline-redacted.webp",
+              "https://www.sayanthecoder.in/assets/projects/bakaloo-crm-templates.webp"
+            ],
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "WhatsApp CRM, agentic AI & B2B commerce",
+            "keywords": "WhatsApp CRM, Agentic AI, B2B / B2C, Theme builder"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Bakaloo CRM & Builder",
+                "item": "https://www.sayanthecoder.in/work/bakaloo-platform"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Bakaloo CRM & Builder \u2014 WhatsApp CRM, agentic AI & B2B commerce | SayanTheCoder",
+          "og:description": "Bakaloo CRM and theme builder by Sayan Mondal: WhatsApp inbox, agentic AI, customer pipelines, B2B commerce and a visual Flutter storefront builder.",
+          "og:url": "https://www.sayanthecoder.in/work/bakaloo-platform",
+          "og:image": "https://www.sayanthecoder.in/work/bakaloo-platform/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Bakaloo CRM & Builder \u2014 Client project by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Bakaloo CRM & Builder \u2014 WhatsApp CRM, agentic AI & B2B commerce",
+          "twitter:description": "Bakaloo CRM and theme builder by Sayan Mondal: WhatsApp inbox, agentic AI, customer pipelines, B2B commerce and a visual Flutter storefront builder.",
+          "twitter:image": "https://www.sayanthecoder.in/work/bakaloo-platform/opengraph-image"
+        },
+        "word_count": 349,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/radha",
+      "analysis": {
+        "title": "Radha \u2014 Retail operations & store management | SayanTheCoder",
+        "meta_description": "Radha client project by Sayan Mondal: a mobile store management app for scanning, expiry tracking, daily tasks and retail operational health.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/radha",
+        "h1": ["Radha."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": [
+          "A daily command center",
+          "From insight to action",
+          "Made for retail routines"
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fradha.png&w=96&q=75",
+            "alt": "Radha logo",
+            "width": "42",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fradha-dashboard.webp&w=3840&q=75",
+            "alt": "Radha store management app with an operational health overview, seven-day scans and tasks activity, expiry management and scanning navigation",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "CreativeWork",
+            "@id": "https://www.sayanthecoder.in/work/radha#project",
+            "name": "Radha",
+            "description": "A mobile command center for store operations. Radha brings scanning, expiry management, task tracking and store activity into one place, helping a retailer move from a daily overview to the work that needs attention.",
+            "url": "https://www.sayanthecoder.in/work/radha",
+            "image": "https://www.sayanthecoder.in/assets/projects/radha-dashboard.webp",
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "Retail operations & store management",
+            "keywords": "Flutter, Retail operations, Inventory"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Radha",
+                "item": "https://www.sayanthecoder.in/work/radha"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Radha \u2014 Retail operations & store management | SayanTheCoder",
+          "og:description": "Radha client project by Sayan Mondal: a mobile store management app for scanning, expiry tracking, daily tasks and retail operational health.",
+          "og:url": "https://www.sayanthecoder.in/work/radha",
+          "og:image": "https://www.sayanthecoder.in/work/radha/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Radha \u2014 Client project by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Radha \u2014 Retail operations & store management",
+          "twitter:description": "Radha client project by Sayan Mondal: a mobile store management app for scanning, expiry tracking, daily tasks and retail operational health.",
+          "twitter:image": "https://www.sayanthecoder.in/work/radha/opengraph-image"
+        },
+        "word_count": 186,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/opslin",
+      "analysis": {
+        "title": "Opslin \u2014 VPS Deployment & AI DevOps | SayanTheCoder",
+        "meta_description": "Opslin, founded by Sayan Mondal: VPS deployment, Git releases, SSL, databases, monitoring, rollback and AI-assisted DevOps through MCP beta.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/opslin",
+        "h1": ["Opslin."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "From your code to a monitored release.",
+          "Another view of the product.",
+          "Explore Opslin.",
+          "More work to explore."
+        ],
+        "h3": [
+          "Own the infrastructure",
+          "See the complete picture",
+          "Built and operated by me",
+          "AI-assisted operations with MCP beta",
+          "Questions about Opslin"
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fopslin.png&w=384&q=75",
+            "alt": "Opslin logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fopslin-dashboard.webp&w=3840&q=75",
+            "alt": "Opslin deployment platform overview showing online servers, running apps, deploy activity, alerts and server fleet",
+            "width": "2940",
+            "height": "1512",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fimg%2Fopslin-monitoring.webp&w=3840&q=75",
+            "alt": "Opslin additional product interface",
+            "width": "1800",
+            "height": "700",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+              "text": "Read the founder\u2019s guide to Opslin, VPS deployment and AI-assisted DevOps \u2192",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://www.opslin.com/",
+              "text": "Visit Opslin",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "SoftwareApplication",
+            "applicationCategory": "DeveloperApplication",
+            "operatingSystem": "Web dashboard; supported Linux VPS",
+            "sameAs": "https://www.opslin.com/",
+            "publisher": {
+              "@type": "Organization",
+              "@id": "https://www.sayanthecoder.in/#opslin",
+              "name": "Opslin",
+              "url": "https://www.opslin.com/",
+              "founder": {
+                "@type": "Person",
+                "@id": "https://www.sayanthecoder.in/#sayan",
+                "name": "Sayan Mondal"
+              }
+            },
+            "creativeWorkStatus": "Public beta",
+            "@id": "https://www.sayanthecoder.in/work/opslin#project",
+            "name": "Opslin",
+            "description": "I\u2019m the founder of Opslin, a bring-your-own-VPS deployment platform for developers, founders and small teams. Connect your Linux server, deploy from GitHub or an upload, and manage domains, SSL, databases, logs, monitoring and rollback in one dashboard. Opslin\u2019s MCP beta connects supported deployment tasks to an AI assistant through permissions you control.",
+            "url": "https://www.sayanthecoder.in/work/opslin",
+            "image": "https://www.sayanthecoder.in/assets/projects/opslin-dashboard.webp",
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "Cloud infrastructure & developer tools",
+            "keywords": "VPS deployment, DevOps, AI / MCP, Next.js, Go"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Opslin",
+                "item": "https://www.sayanthecoder.in/work/opslin"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Opslin \u2014 VPS Deployment & AI DevOps | SayanTheCoder",
+          "og:description": "Opslin, founded by Sayan Mondal: VPS deployment, Git releases, SSL, databases, monitoring, rollback and AI-assisted DevOps through MCP beta.",
+          "og:url": "https://www.sayanthecoder.in/work/opslin",
+          "og:image": "https://www.sayanthecoder.in/work/opslin/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Opslin \u2014 My product by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Opslin \u2014 VPS Deployment & AI DevOps",
+          "twitter:description": "Opslin, founded by Sayan Mondal: VPS deployment, Git releases, SSL, databases, monitoring, rollback and AI-assisted DevOps through MCP beta.",
+          "twitter:image": "https://www.sayanthecoder.in/work/opslin/opengraph-image"
+        },
+        "word_count": 574,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/lndry",
+      "analysis": {
+        "title": "LNDRY \u2014 Customer app & laundry website | SayanTheCoder",
+        "meta_description": "LNDRY by Sayan Mondal: a laundry customer app and website for service discovery, pickup booking and order tracking. Explore real mobile and web screens.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/lndry",
+        "h1": ["LNDRY."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "LNDRY POS",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": [
+          "The customer side of the journey",
+          "A connected public website",
+          "Separate from the store tools"
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Flndry-horizontal.png&w=384&q=75",
+            "alt": "LNDRY logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-customer-home.webp&w=3840&q=75",
+            "alt": "LNDRY customer app home with laundry service categories and the schedule pickup card",
+            "width": "720",
+            "height": "1600",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-customer-home.webp&w=3840&q=75",
+            "alt": "",
+            "width": "720",
+            "height": "1600",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-website-home.webp&w=3840&q=75",
+            "alt": "",
+            "width": "1280",
+            "height": "720",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-website-services.webp&w=3840&q=75",
+            "alt": "",
+            "width": "1280",
+            "height": "720",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-website-journey.webp&w=3840&q=75",
+            "alt": "",
+            "width": "1280",
+            "height": "720",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fimg%2Flndry-track.webp&w=3840&q=75",
+            "alt": "",
+            "width": "620",
+            "height": "1340",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fimg%2Flndry-confirm.webp&w=3840&q=75",
+            "alt": "",
+            "width": "620",
+            "height": "1340",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-customer-home.webp",
+              "text": "",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-customer-home.webp",
+              "text": "Open full-size image",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-customer-home.webp",
+              "text": "Customer app \u00b7 Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-website-home.webp",
+              "text": "Website \u00b7 Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-website-services.webp",
+              "text": "Website \u00b7 Services",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-website-journey.webp",
+              "text": "Website \u00b7 How it works",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/img/lndry-track.webp",
+              "text": "Customer app \u00b7 Tracking",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/img/lndry-confirm.webp",
+              "text": "Customer app \u00b7 Confirmation",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/lndry-pos",
+              "text": "ExploreLNDRY POS",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://lndry.in/",
+              "text": "Visit lndry.in",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "CreativeWork",
+            "@id": "https://www.sayanthecoder.in/work/lndry#project",
+            "name": "LNDRY",
+            "description": "The customer-facing LNDRY experience, spanning the mobile app and public website. Service discovery, pickup scheduling and order tracking help customers follow their garment-care journey. This project is presented separately from the LNDRY POS tools used in stores.",
+            "url": "https://www.sayanthecoder.in/work/lndry",
+            "image": [
+              "https://www.sayanthecoder.in/assets/projects/lndry-customer-home.webp",
+              "https://www.sayanthecoder.in/assets/projects/lndry-website-home.webp",
+              "https://www.sayanthecoder.in/assets/projects/lndry-website-services.webp",
+              "https://www.sayanthecoder.in/assets/projects/lndry-website-journey.webp",
+              "https://www.sayanthecoder.in/assets/img/lndry-track.webp",
+              "https://www.sayanthecoder.in/assets/img/lndry-confirm.webp"
+            ],
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "Customer app & laundry website",
+            "keywords": "Flutter, Customer app, Website"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "LNDRY",
+                "item": "https://www.sayanthecoder.in/work/lndry"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "LNDRY \u2014 Customer app & laundry website | SayanTheCoder",
+          "og:description": "LNDRY by Sayan Mondal: a laundry customer app and website for service discovery, pickup booking and order tracking. Explore real mobile and web screens.",
+          "og:url": "https://www.sayanthecoder.in/work/lndry",
+          "og:image": "https://www.sayanthecoder.in/work/lndry/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "LNDRY \u2014 Studio work by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "LNDRY \u2014 Customer app & laundry website",
+          "twitter:description": "LNDRY by Sayan Mondal: a laundry customer app and website for service discovery, pickup booking and order tracking. Explore real mobile and web screens.",
+          "twitter:image": "https://www.sayanthecoder.in/work/lndry/opengraph-image"
+        },
+        "word_count": 308,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/lndry-pos",
+      "analysis": {
+        "title": "LNDRY POS \u2014 In-store laundry POS \u00b7 Mobile & web | SayanTheCoder",
+        "meta_description": "LNDRY POS by Sayan Mondal: an in-store laundry system with mobile and desktop interfaces for order booking, garment pricing, invoicing and store operations.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/lndry-pos",
+        "h1": ["LNDRY POS."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "LNDRY",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": [
+          "Built for the shop counter",
+          "Operations in the palm of your hand",
+          "A visible fulfilment workflow"
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Flndry-horizontal.png&w=384&q=75",
+            "alt": "LNDRY POS logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-pos-web-overview.webp&w=3840&q=75",
+            "alt": "LNDRY POS desktop dashboard showing order requests, pending orders, delivery signals and counter actions",
+            "width": "2400",
+            "height": "1238",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-pos-web-overview.webp&w=3840&q=75",
+            "alt": "",
+            "width": "2400",
+            "height": "1238",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-pos-web-booking.webp&w=3840&q=75",
+            "alt": "",
+            "width": "2400",
+            "height": "1238",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-pos-mobile-overview.webp&w=3840&q=75",
+            "alt": "",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-pos-mobile-booking.webp&w=3840&q=75",
+            "alt": "",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Flndry-pos-mobile-order.webp&w=3840&q=75",
+            "alt": "",
+            "width": "1080",
+            "height": "2400",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-pos-web-overview.webp",
+              "text": "",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-pos-web-overview.webp",
+              "text": "Open full-size image",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-pos-web-overview.webp",
+              "text": "Desktop \u00b7 Dashboard",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-pos-web-booking.webp",
+              "text": "Desktop \u00b7 Order booking",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-pos-mobile-overview.webp",
+              "text": "Mobile \u00b7 Store overview",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-pos-mobile-booking.webp",
+              "text": "Mobile \u00b7 Book order",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/lndry-pos-mobile-order.webp",
+              "text": "Mobile \u00b7 Order workflow",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/lndry",
+              "text": "ExploreLNDRY",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://pos.lndry.in/",
+              "text": "Visit LNDRY POS",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "CreativeWork",
+            "@id": "https://www.sayanthecoder.in/work/lndry-pos#project",
+            "name": "LNDRY POS",
+            "description": "A separate laundry point-of-sale and store operations project for physical shops. The mobile operations app and desktop counter workspace cover garment and service pricing, order booking, workflow progress, invoicing, collections and delivery controls.",
+            "url": "https://www.sayanthecoder.in/work/lndry-pos",
+            "image": [
+              "https://www.sayanthecoder.in/assets/projects/lndry-pos-web-overview.webp",
+              "https://www.sayanthecoder.in/assets/projects/lndry-pos-web-booking.webp",
+              "https://www.sayanthecoder.in/assets/projects/lndry-pos-mobile-overview.webp",
+              "https://www.sayanthecoder.in/assets/projects/lndry-pos-mobile-booking.webp",
+              "https://www.sayanthecoder.in/assets/projects/lndry-pos-mobile-order.webp"
+            ],
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "In-store laundry POS \u00b7 Mobile & web",
+            "keywords": "POS system, Flutter, Desktop web"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "LNDRY POS",
+                "item": "https://www.sayanthecoder.in/work/lndry-pos"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "LNDRY POS \u2014 In-store laundry POS \u00b7 Mobile & web | SayanTheCoder",
+          "og:description": "LNDRY POS by Sayan Mondal: an in-store laundry system with mobile and desktop interfaces for order booking, garment pricing, invoicing and store operations.",
+          "og:url": "https://www.sayanthecoder.in/work/lndry-pos",
+          "og:image": "https://www.sayanthecoder.in/work/lndry-pos/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "LNDRY POS \u2014 Studio work by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "LNDRY POS \u2014 In-store laundry POS \u00b7 Mobile & web",
+          "twitter:description": "LNDRY POS by Sayan Mondal: an in-store laundry system with mobile and desktop interfaces for order booking, garment pricing, invoicing and store operations.",
+          "twitter:image": "https://www.sayanthecoder.in/work/lndry-pos/opengraph-image"
+        },
+        "word_count": 304,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/rustbloom",
+      "analysis": {
+        "title": "Rustbloom \u2014 2D / 2.5D game design & development | SayanTheCoder",
+        "meta_description": "Rustbloom game development by Sayan Mondal: an ongoing platformer with layered environments, touch controls, combat, settings and graphics options.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/rustbloom",
+        "h1": ["Rustbloom."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "Agnix Studio",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": [
+          "Design and engineering together",
+          "Depth in a 2D world",
+          "An interface built for play",
+          "Ongoing production"
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fagnix-studio.png&w=384&q=75",
+            "alt": "Rustbloom logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-game-gameplay.webp&w=3840&q=75",
+            "alt": "Rustbloom gameplay showing a character and clockwork figure in a layered garden environment with mobile touch controls",
+            "width": "2400",
+            "height": "1080",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-game-gameplay.webp&w=3840&q=75",
+            "alt": "",
+            "width": "2400",
+            "height": "1080",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-game-traversal.webp&w=3840&q=75",
+            "alt": "",
+            "width": "2400",
+            "height": "1080",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-game-combat.webp&w=3840&q=75",
+            "alt": "",
+            "width": "2400",
+            "height": "1080",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-game-environment.webp&w=3840&q=75",
+            "alt": "",
+            "width": "2400",
+            "height": "1080",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-game-settings.webp&w=3840&q=75",
+            "alt": "",
+            "width": "2400",
+            "height": "1080",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-game-graphics.webp&w=3840&q=75",
+            "alt": "",
+            "width": "2400",
+            "height": "1080",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/agnix-game-gameplay.webp",
+              "text": "",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/agnix-game-gameplay.webp",
+              "text": "Open full-size image",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/agnix-game-gameplay.webp",
+              "text": "Rustbloom \u00b7 Gameplay",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/agnix-game-traversal.webp",
+              "text": "Rustbloom \u00b7 Traversal",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/agnix-game-combat.webp",
+              "text": "Rustbloom \u00b7 Combat",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/agnix-game-environment.webp",
+              "text": "Rustbloom \u00b7 World detail",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/agnix-game-settings.webp",
+              "text": "Rustbloom \u00b7 Settings",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/assets/projects/agnix-game-graphics.webp",
+              "text": "Rustbloom \u00b7 Graphics",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/agnix-studio",
+              "text": "ExploreAgnix Studio",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "VideoGame",
+            "creativeWorkStatus": "In development",
+            "@id": "https://www.sayanthecoder.in/work/rustbloom#project",
+            "name": "Rustbloom",
+            "description": "Rustbloom is an ongoing game project. The supplied mobile gameplay shows a layered garden and clockwork world, traversal and combat controls, and a dedicated settings and graphics interface. This work sits within my mobile and PC game design and development practice using Unity and Godot for 2D and 2.5D experiences.",
+            "url": "https://www.sayanthecoder.in/work/rustbloom",
+            "image": [
+              "https://www.sayanthecoder.in/assets/projects/agnix-game-gameplay.webp",
+              "https://www.sayanthecoder.in/assets/projects/agnix-game-traversal.webp",
+              "https://www.sayanthecoder.in/assets/projects/agnix-game-combat.webp",
+              "https://www.sayanthecoder.in/assets/projects/agnix-game-environment.webp",
+              "https://www.sayanthecoder.in/assets/projects/agnix-game-settings.webp",
+              "https://www.sayanthecoder.in/assets/projects/agnix-game-graphics.webp"
+            ],
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "2D / 2.5D game design & development",
+            "keywords": "Game design, 2D / 2.5D, Mobile / PC, Unity / Godot"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Rustbloom",
+                "item": "https://www.sayanthecoder.in/work/rustbloom"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Rustbloom \u2014 2D / 2.5D game design & development | SayanTheCoder",
+          "og:description": "Rustbloom game development by Sayan Mondal: an ongoing platformer with layered environments, touch controls, combat, settings and graphics options.",
+          "og:url": "https://www.sayanthecoder.in/work/rustbloom",
+          "og:image": "https://www.sayanthecoder.in/work/rustbloom/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Rustbloom \u2014 Studio work by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Rustbloom \u2014 2D / 2.5D game design & development",
+          "twitter:description": "Rustbloom game development by Sayan Mondal: an ongoing platformer with layered environments, touch controls, combat, settings and graphics options.",
+          "twitter:image": "https://www.sayanthecoder.in/work/rustbloom/opengraph-image"
+        },
+        "word_count": 340,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/antar",
+      "analysis": {
+        "title": "ANTAR \u2014 The Last Flame \u2014 Game production & launch presentation | SayanTheCoder",
+        "meta_description": "ANTAR \u2014 The Last Flame: an Agnix Studio game in the portfolio of Sayan Mondal. Production ready and preparing for launch, with its official announcement.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/antar",
+        "h1": ["ANTAR \u2014 The Last Flame."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "Rustbloom",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": [
+          "An original Agnix Studio game",
+          "Preparing for launch",
+          "A distinct game project"
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fagnix-studio.png&w=384&q=75",
+            "alt": "ANTAR \u2014 The Last Flame logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-website-home.webp&w=3840&q=75",
+            "alt": "Official ANTAR \u2014 The Last Flame coming-soon announcement on the Agnix Studio website",
+            "width": "1280",
+            "height": "720",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/rustbloom",
+              "text": "ExploreRustbloom",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://www.agnixstudio.com/",
+              "text": "View the announcement",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "VideoGame",
+            "creativeWorkStatus": "Preparing for launch",
+            "@id": "https://www.sayanthecoder.in/work/antar#project",
+            "name": "ANTAR \u2014 The Last Flame",
+            "description": "ANTAR \u2014 The Last Flame is Agnix Studio\u2019s cinematic Indian mythological action-platformer. The studio has confirmed that the game is production ready and preparing for launch. This showcase presents its official announcement visual, separately from the ongoing Rustbloom gameplay project.",
+            "url": "https://www.sayanthecoder.in/work/antar",
+            "image": "https://www.sayanthecoder.in/assets/projects/agnix-website-home.webp",
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "Game production & launch presentation",
+            "keywords": "Game production, Launch preparation, Agnix Studio"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "ANTAR \u2014 The Last Flame",
+                "item": "https://www.sayanthecoder.in/work/antar"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "ANTAR \u2014 The Last Flame \u2014 Game production & launch presentation | SayanTheCoder",
+          "og:description": "ANTAR \u2014 The Last Flame: an Agnix Studio game in the portfolio of Sayan Mondal. Production ready and preparing for launch, with its official announcement.",
+          "og:url": "https://www.sayanthecoder.in/work/antar",
+          "og:image": "https://www.sayanthecoder.in/work/antar/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "ANTAR \u2014 The Last Flame \u2014 Studio work by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "ANTAR \u2014 The Last Flame \u2014 Game production & launch presentation",
+          "twitter:description": "ANTAR \u2014 The Last Flame: an Agnix Studio game in the portfolio of Sayan Mondal. Production ready and preparing for launch, with its official announcement.",
+          "twitter:image": "https://www.sayanthecoder.in/work/antar/opengraph-image"
+        },
+        "word_count": 244,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/agnix-studio",
+      "analysis": {
+        "title": "Agnix Studio \u2014 Game studio company website | SayanTheCoder",
+        "meta_description": "Agnix Studio website by Sayan Mondal: a cinematic company and game announcement site featuring ANTAR \u2014 The Last Flame and the studio\u2019s original identity.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/agnix-studio",
+        "h1": ["Agnix Studio."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "ANTAR \u2014 The Last Flame",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": [
+          "A clear studio identity",
+          "An announcement with focus",
+          "Company website delivery"
+        ],
+        "images": [
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fbrands%2Fagnix-studio.png&w=384&q=75",
+            "alt": "Agnix Studio logo",
+            "width": "150",
+            "height": "42",
+            "loading": "lazy",
+            "lazy_method": "native"
+          },
+          {
+            "src": "https://www.sayanthecoder.in/_next/image?url=%2Fassets%2Fprojects%2Fagnix-website-home.webp&w=3840&q=75",
+            "alt": "Agnix Studio company website featuring its gold logo and cinematic ANTAR \u2014 The Last Flame announcement",
+            "width": "1280",
+            "height": "720",
+            "loading": "lazy",
+            "lazy_method": "native"
+          }
+        ],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/antar",
+              "text": "ExploreANTAR \u2014 The Last Flame",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://www.agnixstudio.com/",
+              "text": "Visit agnixstudio.com",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://www.agnixstudio.in/",
+              "text": "agnixstudio.in",
+              "rel": ["noopener", "noreferrer"]
+            },
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "CreativeWork",
+            "@id": "https://www.sayanthecoder.in/work/agnix-studio#project",
+            "name": "Agnix Studio",
+            "description": "The Agnix Studio company website brings the studio identity and the ANTAR \u2014 The Last Flame announcement into a cinematic presentation. Original branding, atmospheric imagery and a focused announcement create the public-facing introduction to the studio\u2019s game work.",
+            "url": "https://www.sayanthecoder.in/work/agnix-studio",
+            "image": "https://www.sayanthecoder.in/assets/projects/agnix-website-home.webp",
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "Game studio company website",
+            "keywords": "Web design, Website development, Game studio"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Agnix Studio",
+                "item": "https://www.sayanthecoder.in/work/agnix-studio"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Agnix Studio \u2014 Game studio company website | SayanTheCoder",
+          "og:description": "Agnix Studio website by Sayan Mondal: a cinematic company and game announcement site featuring ANTAR \u2014 The Last Flame and the studio\u2019s original identity.",
+          "og:url": "https://www.sayanthecoder.in/work/agnix-studio",
+          "og:image": "https://www.sayanthecoder.in/work/agnix-studio/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Agnix Studio \u2014 Client project by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Agnix Studio \u2014 Game studio company website",
+          "twitter:description": "Agnix Studio website by Sayan Mondal: a cinematic company and game announcement site featuring ANTAR \u2014 The Last Flame and the studio\u2019s original identity.",
+          "twitter:image": "https://www.sayanthecoder.in/work/agnix-studio/opengraph-image"
+        },
+        "word_count": 250,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/shotvault",
+      "analysis": {
+        "title": "ShotVault \u2014 Media infrastructure | SayanTheCoder",
+        "meta_description": "ShotVault by Sayan Mondal: self-hosted media infrastructure combining S3-style object storage and on-demand image delivery in a Go binary.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/shotvault",
+        "h1": ["ShotVault."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": ["A compact foundation"],
+        "images": [],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "CreativeWork",
+            "@id": "https://www.sayanthecoder.in/work/shotvault#project",
+            "name": "ShotVault",
+            "description": "Self-hosted media infrastructure for the Shotlin product family, combining S3-style object storage and on-demand image delivery in a Go binary.",
+            "url": "https://www.sayanthecoder.in/work/shotvault",
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "Media infrastructure",
+            "keywords": "Go, S3 API, Image delivery"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "ShotVault",
+                "item": "https://www.sayanthecoder.in/work/shotvault"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "ShotVault \u2014 Media infrastructure | SayanTheCoder",
+          "og:description": "ShotVault by Sayan Mondal: self-hosted media infrastructure combining S3-style object storage and on-demand image delivery in a Go binary.",
+          "og:url": "https://www.sayanthecoder.in/work/shotvault",
+          "og:image": "https://www.sayanthecoder.in/work/shotvault/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "ShotVault \u2014 Studio work by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "ShotVault \u2014 Media infrastructure",
+          "twitter:description": "ShotVault by Sayan Mondal: self-hosted media infrastructure combining S3-style object storage and on-demand image delivery in a Go binary.",
+          "twitter:image": "https://www.sayanthecoder.in/work/shotvault/opengraph-image"
+        },
+        "word_count": 130,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/fullbag",
+      "analysis": {
+        "title": "Full Bag \u2014 Commerce platform | SayanTheCoder",
+        "meta_description": "Explore Full Bag, a commerce platform in the Shotlin product family built across customer-facing mobile experiences and supporting backend systems.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/fullbag",
+        "h1": ["Full Bag."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": ["Mobile meets backend"],
+        "images": [],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "CreativeWork",
+            "@id": "https://www.sayanthecoder.in/work/fullbag#project",
+            "name": "Full Bag",
+            "description": "A commerce platform in the Shotlin product family, built across mobile and backend. A closer walkthrough is available on request.",
+            "url": "https://www.sayanthecoder.in/work/fullbag",
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "Commerce platform",
+            "keywords": "Commerce, Mobile, Backend"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Full Bag",
+                "item": "https://www.sayanthecoder.in/work/fullbag"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Full Bag \u2014 Commerce platform | SayanTheCoder",
+          "og:description": "Explore Full Bag, a commerce platform in the Shotlin product family built across customer-facing mobile experiences and supporting backend systems.",
+          "og:url": "https://www.sayanthecoder.in/work/fullbag",
+          "og:image": "https://www.sayanthecoder.in/work/fullbag/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Full Bag \u2014 Studio work by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Full Bag \u2014 Commerce platform",
+          "twitter:description": "Explore Full Bag, a commerce platform in the Shotlin product family built across customer-facing mobile experiences and supporting backend systems.",
+          "twitter:image": "https://www.sayanthecoder.in/work/fullbag/opengraph-image"
+        },
+        "word_count": 126,
+        "hreflang": []
+      }
+    },
+    {
+      "url": "https://www.sayanthecoder.in/work/shotlin",
+      "analysis": {
+        "title": "Shotlin \u2014 Independent product studio | SayanTheCoder",
+        "meta_description": "Shotlin is the independent product studio founded by Sayan Mondal, connecting product thinking, interface design, engineering and infrastructure.",
+        "meta_robots": "max-image-preview:large",
+        "canonical": "https://www.sayanthecoder.in/work/shotlin",
+        "h1": ["Shotlin."],
+        "h2": [
+          "The thinkingbehind the screen.",
+          "Let\u2019s make it real.",
+          "More work to explore."
+        ],
+        "h3": [
+          "From first idea to release",
+          "Customer-facing apps and business systems",
+          "Founder-led product engineering"
+        ],
+        "images": [],
+        "links": {
+          "internal": [
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "All projects",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "Home",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#work",
+              "text": "Work",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/#contact",
+              "text": "Discuss your project",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/freshcart",
+              "text": "Client projectFreshCartFresh food & grocery commerce",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/dealker",
+              "text": "Client projectDealkerElectronics marketplace",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/work/bakaloo",
+              "text": "Client projectBakalooHyperlocal grocery delivery",
+              "rel": []
+            },
+            {
+              "href": "https://www.sayanthecoder.in/",
+              "text": "sayanthecoder.",
+              "rel": []
+            }
+          ],
+          "external": [
+            {
+              "href": "https://mail.google.com/mail/?view=cm&fs=1&to=sayan%40opslin.com&su=Project+enquiry&body=",
+              "text": "sayan@opslin.com",
+              "rel": ["noopener", "noreferrer"]
+            }
+          ]
+        },
+        "schema": [
+          {
+            "@type": "CreativeWork",
+            "@id": "https://www.sayanthecoder.in/work/shotlin#project",
+            "name": "Shotlin",
+            "description": "Shotlin is the product studio I founded to connect interface design, website and mobile app development, business dashboards and software engineering. Its work spans commerce and operational workflows, supported by the infrastructure behind each product.",
+            "url": "https://www.sayanthecoder.in/work/shotlin",
+            "creator": {
+              "@type": "Person",
+              "@id": "https://www.sayanthecoder.in/#sayan",
+              "name": "Sayan Mondal",
+              "url": "https://www.sayanthecoder.in"
+            },
+            "genre": "Independent product studio",
+            "keywords": "Web development, App development, Software engineering"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.sayanthecoder.in"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Selected work",
+                "item": "https://www.sayanthecoder.in/#work"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Shotlin",
+                "item": "https://www.sayanthecoder.in/work/shotlin"
+              }
+            ]
+          }
+        ],
+        "open_graph": {
+          "og:title": "Shotlin \u2014 Independent product studio | SayanTheCoder",
+          "og:description": "Shotlin is the independent product studio founded by Sayan Mondal, connecting product thinking, interface design, engineering and infrastructure.",
+          "og:url": "https://www.sayanthecoder.in/work/shotlin",
+          "og:image": "https://www.sayanthecoder.in/work/shotlin/opengraph-image",
+          "og:image:width": "1200",
+          "og:image:height": "630",
+          "og:image:alt": "Shotlin \u2014 Studio work by Sayan Mondal",
+          "og:type": "article"
+        },
+        "twitter_card": {
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Shotlin \u2014 Independent product studio",
+          "twitter:description": "Shotlin is the independent product studio founded by Sayan Mondal, connecting product thinking, interface design, engineering and infrastructure.",
+          "twitter:image": "https://www.sayanthecoder.in/work/shotlin/opengraph-image"
+        },
+        "word_count": 213,
+        "hreflang": []
+      }
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 "use client";
 
-import { useState, type FormEvent } from "react";
+import { useEffect, useRef, useState, type FormEvent } from "react";
+import {
+  budgetBands,
+  enquiryBudget,
+  isBudgetCurrency,
+  type BudgetCurrency,
+} from "@/lib/budgets";
 import { Arrow, Spark } from "./icons";
 import {
   CONTACT_EMAIL,
@@ -23,6 +29,44 @@ export function ContactForm({
   onClose: () => void;
 }) {
   const isWhatsApp = channel === "whatsapp";
+  const [currency, setCurrency] = useState<BudgetCurrency>("USD");
+  const [currencyReady, setCurrencyReady] = useState(false);
+  const manualCurrency = useRef(false);
+  useEffect(() => {
+    const controller = new AbortController();
+    let active = true;
+    const timeout = window.setTimeout(() => controller.abort(), 4000);
+    async function detectCurrency() {
+      let detected: BudgetCurrency = "USD";
+      try {
+        const saved = localStorage.getItem("enquiry-currency");
+        if (isBudgetCurrency(saved)) detected = saved;
+        else {
+          const response = await fetch("/api/visitor-currency", {
+            signal: controller.signal,
+            cache: "no-store",
+          });
+          if (response.ok) {
+            const data = await response.json();
+            if (isBudgetCurrency(data.currency)) detected = data.currency;
+          }
+        }
+      } catch {
+        /* USD and the manual choice work when detection is unavailable. */
+      }
+      window.clearTimeout(timeout);
+      if (active && !manualCurrency.current) {
+        setCurrency(detected);
+        setCurrencyReady(true);
+      }
+    }
+    void detectCurrency();
+    return () => {
+      active = false;
+      window.clearTimeout(timeout);
+      controller.abort();
+    };
+  }, []);
   const [values, setValues] = useState({
     name: "",
     email: "",
@@ -58,7 +102,7 @@ export function ContactForm({
       email,
       project,
       type: String(data.get("type") || "Help choosing / something else"),
-      budget: String(data.get("budget") || ""),
+      budget: enquiryBudget(currency, String(data.get("budget") || "")),
     });
     setValues({
       name,
@@ -256,15 +300,53 @@ export function ContactForm({
           />
         </label>
         <label className="budget-field">
-          Budget range <span className="optional">(optional)</span>
-          <select name="budget" defaultValue={values.budget}>
-            <option>Let’s discuss</option>
-            <option>Under ₹50,000</option>
-            <option>₹50,000 – ₹1,50,000</option>
-            <option>₹1,50,000 – ₹5,00,000</option>
-            <option>₹5,00,000+</option>
+          Budget currency
+          <select
+            aria-label="Budget currency"
+            value={currency}
+            onChange={(event) => {
+              const next = event.target.value;
+              if (!isBudgetCurrency(next)) return;
+              manualCurrency.current = true;
+              setCurrency(next);
+              setCurrencyReady(true);
+              setValues((previous) => ({
+                ...previous,
+                budget: "Let’s discuss",
+              }));
+              try {
+                localStorage.setItem("enquiry-currency", next);
+              } catch {
+                /* Optional preference. */
+              }
+            }}
+          >
+            <option value="INR">INR — Indian rupees (₹)</option>
+            <option value="USD">USD — US dollars ($)</option>
           </select>
         </label>
+        <label className="budget-field">
+          Budget range <span className="optional">(optional)</span>
+          <select
+            name="budget"
+            key={currency}
+            defaultValue={values.budget}
+            disabled={!currencyReady}
+          >
+            <option>Let’s discuss</option>
+            {budgetBands[currency].map((band) => (
+              <option key={band}>{band}</option>
+            ))}
+          </select>
+          <span className="optional">
+            Enquiry budget only. Final pricing depends on scope.
+          </span>
+        </label>
+        <p className="optional budget-field">
+          This form prepares a draft in your browser. Review and send it in
+          {isWhatsApp ? " WhatsApp" : " Gmail"} to share your details with
+          Sayan. Your currency choice is saved in this browser.
+        </p>
         <div className="form-bottom">
           <span>
             {isWhatsApp ? "Your message goes to" : "Made personal."}
