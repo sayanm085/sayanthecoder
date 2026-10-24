@@ -1,0 +1,177 @@
+{
+  "checked": "2026-10-24",
+  "source": "Google public autocomplete response",
+  "limitation": "Suggestions are not search-volume, ranking or trend data. Country parameter does not establish verified local SERP coverage.",
+  "results": [
+    {
+      "countryParameter": "US",
+      "query": "website development",
+      "url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=website+development",
+      "suggestions": [
+        "website development",
+        "website development costs",
+        "website development company",
+        "website development software",
+        "website development services",
+        "website development course",
+        "website development near me",
+        "website development platforms",
+        "website development tools",
+        "website development agency"
+      ]
+    },
+    {
+      "countryParameter": "US",
+      "query": "app development",
+      "url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=us&q=app+development",
+      "suggestions": [
+        "app development",
+        "app development software",
+        "app development company",
+        "app development course",
+        "app development cost",
+        "app development and condiments",
+        "app development ai",
+        "app development jobs",
+        "app development services",
+        "app development near me"
+      ]
+    },
+    {
+      "countryParameter": "GB",
+      "query": "website development",
+      "url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=website+development",
+      "suggestions": [
+        "website development",
+        "website development company",
+        "website development course",
+        "website development services",
+        "website development cost",
+        "website development cost india",
+        "website development ai",
+        "website development near me",
+        "website development agency",
+        "website development company in jaipur"
+      ]
+    },
+    {
+      "countryParameter": "GB",
+      "query": "hire flutter developer",
+      "url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=gb&q=hire+flutter+developer",
+      "suggestions": [
+        "hire flutter developer",
+        "hire flutter developers in india",
+        "hiring flutter developer remote",
+        "hire dedicated flutter developers",
+        "hire expert flutter developers",
+        "hire offshore flutter developers",
+        "mnc hiring flutter developer",
+        "companies hiring flutter developers",
+        "tcs hiring flutter developer",
+        "hiring junior flutter developer"
+      ]
+    },
+    {
+      "countryParameter": "AU",
+      "query": "business website development",
+      "url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=au&q=business+website+development",
+      "suggestions": [
+        "business website development",
+        "business website development services",
+        "corporate website development",
+        "company website development",
+        "corporate website development services",
+        "business website design",
+        "business website creation",
+        "business website design templates",
+        "business website design ideas",
+        "business website design near me"
+      ]
+    },
+    {
+      "countryParameter": "AU",
+      "query": "custom software development",
+      "url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=au&q=custom+software+development",
+      "suggestions": [
+        "custom software development",
+        "custom software development company",
+        "custom software development services",
+        "custom software development company in india",
+        "custom software development company in usa",
+        "custom software development cost",
+        "custom software development in usa",
+        "custom software development images",
+        "custom software development agency",
+        "custom software development icon"
+      ]
+    },
+    {
+      "countryParameter": "CA",
+      "query": "app development",
+      "url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=ca&q=app+development",
+      "suggestions": [
+        "app development",
+        "app development course",
+        "app development company",
+        "app development and condiments",
+        "app development software",
+        "app development cost",
+        "app development with mit app inventor",
+        "app development agency",
+        "app development and condiments community",
+        "app development near me"
+      ]
+    },
+    {
+      "countryParameter": "CA",
+      "query": "business automation",
+      "url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=ca&q=business+automation",
+      "suggestions": [
+        "business automation",
+        "business automation services",
+        "business automation ltd",
+        "business automation meaning",
+        "business automation ssg",
+        "business automation course",
+        "business automation works",
+        "business automation indore",
+        "business automation workflow",
+        "business automation software"
+      ]
+    },
+    {
+      "countryParameter": "AE",
+      "query": "website development",
+      "url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=ae&q=website+development",
+      "suggestions": [
+        "website development in dubai",
+        "website development course",
+        "website development agency in dubai",
+        "website development in pakistan",
+        "website development uae",
+        "website development companies in dubai",
+        "website development cost in uae",
+        "website development cost in dubai",
+        "website development company",
+        "website development"
+      ]
+    },
+    {
+      "countryParameter": "AE",
+      "query": "mobile app development",
+      "url": "https://suggestqueries.google.com/complete/search?client=firefox&hl=en&gl=ae&q=mobile+app+development",
+      "suggestions": [
+        "mobile app development company",
+        "mobile app development",
+        "mobile app development dubai",
+        "mobile app development company in dubai",
+        "mobile app development course",
+        "mobile app development course free",
+        "mobile app development services",
+        "mobile app development software",
+        "mobile app development language",
+        "mobile app development company in chennai"
+      ]
+    }
+  ]
+}

@@ -7,6 +7,12 @@ import { projects } from "@/lib/projects";
 import { ProjectShowcase, ProjectBrand } from "@/components/project-showcase";
 import { siteOrigin, jsonLd } from "@/lib/site";
 import { servicePages, profileFaqs } from "@/lib/services";
+import type { Metadata } from "next";
+import Link from "next/link";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
 
 const services = [
   {
@@ -580,6 +586,10 @@ export default function Home() {
               <a href="#work">Selected work</a>
               <a href="#about">About me</a>
               <a href="#services">Expertise</a>
+              <Link href="/services">Development services</Link>
+              <Link href="/insights/website-app-project-brief">
+                Project brief checklist
+              </Link>
               <a href="#approach">My process</a>
               <a href="/insights/opslin-vps-deployment">
                 Opslin deployment guide

@@ -1,5 +1,55 @@
 export const servicePages = [
   {
+    slug: "website-web-app-development",
+    title: "Website & Web App Development",
+    seoTitle: "Website & Web App Developer — Sayan Mondal",
+    description:
+      "Business websites, Next.js web apps and customer dashboards by Sayan Mondal. Founder-led development from Kolkata for remote clients worldwide.",
+    serviceTitles: ["Web & product engineering"],
+    intro:
+      "I build business websites and web applications that connect a clear customer experience with the systems behind it. I’m Sayan Mondal, founder of Shotlin and Opslin, working from Kolkata with businesses remotely. If you’re comparing a website developer, software agency or product partner, this page explains the work I can take on and the evidence you can inspect.",
+    sections: [
+      {
+        title: "A business website or a web application?",
+        text: "A business website helps people understand your offer, find information and make an enquiry. A web application lets them complete a task: book a service, place an order, use an account or manage operations. Some businesses need both. The first step is choosing the smallest useful solution for the customer journey instead of adding features simply because a competitor has them.",
+      },
+      {
+        title: "Design, development and the supporting systems",
+        text: "The scope can include responsive page design, Next.js development, accessible navigation, content structure, enquiry journeys and integrations. For a web application it can extend to authentication, APIs, databases, dashboards and payments. Each integration needs a defined owner, access model and failure behaviour so the product works beyond its first successful demonstration.",
+      },
+      {
+        title: "Mobile usability and a clear release path",
+        text: "The experience needs to work on a phone as well as a laptop. I consider readable content, practical forms, image delivery and navigation alongside backend requirements. Before a release, the agreed scope should identify domain and hosting access, deployment settings, application checks, monitoring needs and who maintains the system afterward.",
+      },
+      {
+        title: "Real websites and operational products",
+        text: "The portfolio includes the LNDRY customer website and mobile experience, the Agnix Studio company website, and Bakaloo’s operational platform and storefront builder. Those are different products with different requirements. Their project pages show actual interfaces and describe my work, providing a more useful starting point than a generic list of services.",
+      },
+      {
+        title: "Get an estimate with the right assumptions",
+        text: "Share the purpose of the site, the audience, essential pages or workflows, required integrations and any existing design or code. Include a preferred launch window and budget if known. We can then discuss what should be built first, which parts can use existing tools, and what a scoped proposal needs to include. Pricing and timing depend on those decisions; a precise quote needs a project brief.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Can you create a website for a business outside India?",
+        answer:
+          "Yes. I’m based in Kolkata and available for remote projects worldwide. We should agree communication, review times, requirements, account access and delivery responsibilities before starting.",
+      },
+      {
+        question: "Do I need a mobile app or a responsive website?",
+        answer:
+          "A responsive website may be enough for discovery, enquiries and simpler booking or commerce flows. A mobile app can make sense for device capabilities or repeat use. The right choice depends on your users and the task, not a fixed rule.",
+      },
+      {
+        question: "What affects the cost and timeline?",
+        answer:
+          "The number and complexity of workflows, design requirements, content readiness, integrations, existing code and review process all matter. A short project brief helps define a useful first release and a realistic estimate.",
+      },
+    ],
+    projectIds: ["lndry", "agnix-studio", "bakaloo-platform"],
+  },
+  {
     slug: "devops-cloud-deployment",
     title: "DevOps & Cloud Deployment",
     seoTitle: "DevOps & Cloud Deployment — Sayan Mondal",
@@ -105,7 +155,7 @@ export const servicePages = [
     seoTitle: "Custom Software & AI Developer — Sayan Mondal",
     description:
       "Custom software, Next.js dashboards, SaaS and AI workflows by Sayan Mondal, founder of Opslin and Shotlin. Explore real commerce and CRM projects.",
-    serviceTitles: ["Web & product engineering", "AI & intelligent automation"],
+    serviceTitles: ["AI & intelligent automation"],
     intro:
       "I build software that connects the interface people use with the business process behind it. That can mean a Next.js product, an operations dashboard, a customer workflow or an AI assistant that works with defined tools. I’m Sayan Mondal, founder of Opslin and Shotlin, working across design, backend engineering and deployment.",
     sections: [

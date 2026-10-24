@@ -56,6 +56,7 @@ export default function OpslinGuide() {
                 url,
                 inLanguage: "en",
                 dateCreated: "2026-10-24",
+                datePublished: "2026-10-24",
                 dateModified: "2026-10-24",
                 author: {
                   "@type": "Person",

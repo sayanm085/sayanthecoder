@@ -20,7 +20,7 @@ npm run build
 npm start
 ```
 
-No environment variables are needed locally. The production domain is `https://sayanthecoder.in`. Canonical URLs, the sitemap, structured data and social sharing images default to that origin. Set `SITE_URL` before building only if the production domain changes. See `.env.example`. Next.js serves and optimizes the local images. The two fonts are self-hosted and loaded with `next/font/local`. Lenis is loaded on the client only when reduced motion is off; native scrolling remains available if it cannot load.
+No environment variables are needed locally. The production canonical domain is `https://www.sayanthecoder.in`, matching the live apex-to-www redirect. Canonical URLs, the sitemap, structured data and social sharing images default to that origin. Set `SITE_URL` before building only if the production domain changes. Both purchased domain variants normalize to the www HTTPS origin so an old apex environment value cannot recreate conflicting canonicals. See `.env.example`. Next.js serves and optimizes the local images. The two fonts are self-hosted and loaded with `next/font/local`. Lenis is loaded on the client only when reduced motion is off; native scrolling remains available if it cannot load.
 
 ## Content and structure
 

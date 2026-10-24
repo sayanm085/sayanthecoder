@@ -125,6 +125,23 @@ export default async function ServicePage({ params }: Props) {
               <p>{section.text}</p>
             </section>
           ))}
+          <section aria-labelledby="remote-delivery-title">
+            <h2 id="remote-delivery-title">Working together across borders.</h2>
+            <p>
+              I’m based in Kolkata, India and available for remote projects
+              worldwide, including the UK, Australia, UAE, US and Canada. Share
+              your country, time zone and preferred review times when you
+              enquire. Scope, communication, account access, handover and
+              support expectations should be agreed before development starts.
+            </p>
+            <p>
+              <Link href="/insights/website-app-project-brief">
+                Use the website and app project brief checklist
+              </Link>{" "}
+              to describe what your business needs before requesting an
+              estimate.
+            </p>
+          </section>
           <section aria-labelledby="service-proof-title">
             <h2 id="service-proof-title">Explore the related work.</h2>
             <div className="service-proof-grid">
@@ -154,6 +171,9 @@ export default async function ServicePage({ params }: Props) {
           <section>
             <h2>Other ways I can help.</h2>
             <div className="service-cross-links">
+              <Link className="text-link" href="/services">
+                Browse all development services →
+              </Link>
               {servicePages
                 .filter((s) => s.slug !== slug)
                 .map((s) => (

@@ -1,0 +1,24 @@
+WEBSITE & APP PROJECT BRIEF
+By Sayan Mondal — https://www.sayanthecoder.in
+
+Business / contact name:
+Country and time zone:
+Preferred contact email:
+
+1. What does your business do?
+2. What problem should the website, app or software solve?
+3. Who will use it, and what should each person be able to do?
+4. Which features must be ready at launch? What can wait?
+5. Is there an existing website, app, design, codebase or backend?
+6. Which systems must it connect to (payments, CRM, booking, accounting, etc.)?
+7. Which content, brand assets and designs are available?
+8. Preferred launch window and any fixed business deadline:
+9. Optional budget range and currency:
+10. Who will review work and approve decisions? Preferred meeting times:
+11. Questions about ownership, hosting, repository access, handover or support:
+
+Do not include passwords, private keys or customer records in an enquiry.
+This is a planning template; scope, price, timing and terms need to be agreed.
+
+Explore services: https://www.sayanthecoder.in/services
+Email: sayan@opslin.com

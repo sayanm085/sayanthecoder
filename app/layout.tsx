@@ -24,24 +24,22 @@ const space = localFont({
 });
 export const metadata: Metadata = {
   metadataBase: new URL(siteOrigin),
-  alternates: { canonical: "/" },
   robots: {
-    index: true,
-    follow: true,
-    googleBot: { index: true, follow: true, "max-image-preview": "large" },
+    "max-image-preview": "large",
   },
   title: {
-    default: "Sayan Mondal | DevOps & App Developer | Opslin Founder",
+    default: "Sayan Mondal | Web, App & DevOps Developer",
     template: "%s | SayanTheCoder",
   },
   description:
-    "Sayan Mondal, founder of Opslin and Shotlin. DevOps, cloud infrastructure, AI deployment, full-stack, Flutter and game development in Kolkata.",
+    "Websites, Flutter apps, custom software and cloud deployment by Sayan Mondal, founder of Opslin and Shotlin. Based in Kolkata, working with businesses worldwide.",
   applicationName: "SayanTheCoder",
   authors: [{ name: "Sayan Mondal" }],
   icons: { icon: "/favicon.svg" },
   openGraph: {
     type: "website",
-    title: "Sayan Mondal — DevOps & App Developer, Opslin Founder",
+    url: siteOrigin,
+    title: "Sayan Mondal — Websites, Apps & Cloud Engineering",
     description:
       "Founder of Opslin and Shotlin. DevOps, cloud infrastructure, AI-assisted VPS deployment, web, mobile and game engineering by Sayan Mondal.",
     images: [
@@ -55,7 +53,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Sayan Mondal — DevOps & App Developer",
+    title: "Sayan Mondal — Web, App & DevOps Developer",
     description:
       "Founder of Opslin and Shotlin. Cloud infrastructure, Flutter apps, custom software and AI engineering in Kolkata, India.",
     images: ["/opengraph-image"],

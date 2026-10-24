@@ -47,7 +47,9 @@ export function SiteExperience() {
     const start = performance.now();
     const duration = reducedQuery.matches ? 0 : 850;
     const count = (now: number) => {
-      const progress = duration ? Math.min((now - start) / duration, 1) : 1;
+      const progress = duration
+        ? Math.max(0, Math.min((now - start) / duration, 1))
+        : 1;
       const eased = 1 - Math.pow(1 - progress, 3);
       if (counterRef.current)
         counterRef.current.textContent = String(
