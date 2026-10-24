@@ -1,0 +1,546 @@
+/* Lumora-inspired full-bleed composition, with Sayan's own portrait and palette. */
+.header {
+  position: absolute;
+  top: 0;
+  inset-inline: 0;
+  z-index: 40;
+  border-bottom-color: #6c67781a;
+}
+.header-actions {
+  gap: 22px;
+}
+.hero-clock {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 11px 13px;
+  border: 1px solid #ffffffb3;
+  border-radius: 12px;
+  background: #fff8;
+  backdrop-filter: blur(12px);
+  font-size: 10px;
+}
+.hero-clock > span:first-child {
+  color: #7c7181;
+}
+.hero-clock time {
+  font-variant-numeric: tabular-nums;
+  color: #4d4966;
+  min-width: 64px;
+}
+.hero-clock .section-dot {
+  width: 4px;
+  height: 4px;
+  background: #8f80b5;
+}
+.header .menu-toggle {
+  background: #fff9;
+  border-color: #ffffffba;
+  backdrop-filter: blur(10px);
+}
+.immersive-hero {
+  position: relative;
+  display: block;
+  min-height: max(740px, 100svh);
+  width: 100%;
+  padding: 0;
+  isolation: isolate;
+  overflow: hidden;
+  border-radius: 0 0 30px 30px;
+  background: #ffead8;
+}
+.hero-scene,
+.hero-scene-image,
+.hero-liquid-canvas,
+.hero-scene-shade {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.hero-scene {
+  z-index: 0;
+  overflow: hidden;
+  user-select: none;
+}
+.hero-scene-image {
+  object-fit: cover;
+  object-position: center;
+}
+.hero-liquid-canvas {
+  pointer-events: none;
+}
+.hero-scene-shade {
+  z-index: 1;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, #fff8ef80, transparent 53%),
+    linear-gradient(0deg, #fff7f0e6, transparent 21%);
+}
+.hero-watermark {
+  position: absolute;
+  z-index: 2;
+  bottom: 75px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: clamp(140px, 22vw, 340px);
+  letter-spacing: -0.075em;
+  line-height: 0.85;
+  font-weight: 600;
+  color: #ffffff52;
+  pointer-events: none;
+  user-select: none;
+}
+.immersive-hero-inner {
+  position: relative;
+  z-index: 4;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 30px;
+  padding-top: 164px;
+  padding-bottom: 220px;
+}
+.immersive-hero .hero-copy {
+  padding: 0;
+  width: 64%;
+  max-width: 680px;
+}
+.immersive-hero .hero-eyebrow {
+  color: #655e70;
+  font-size: 11px;
+}
+.immersive-hero h1 {
+  font-size: clamp(40px, 4.25vw, 66px);
+  line-height: 1.08;
+  letter-spacing: -2.7px;
+  font-weight: 500;
+  margin: 26px 0 23px;
+}
+.immersive-hero .hero-line > span {
+  white-space: nowrap;
+}
+.immersive-hero .hero-line:first-child {
+  color: #29344b;
+}
+.immersive-hero .hero-line:nth-child(2) {
+  color: #5b5ac4;
+}
+.immersive-hero .hero-bottom > p {
+  color: #666071;
+  max-width: 320px;
+  font-size: 13px;
+  line-height: 1.8;
+}
+.immersive-hero .hero-buttons {
+  margin-top: 25px;
+  gap: 14px;
+}
+.immersive-hero .pill {
+  padding-left: 23px;
+  gap: 20px;
+  font-size: 12px;
+}
+.hero-work-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  border: 1px solid #a89ab858;
+  border-radius: 60px;
+  padding: 15px 22px;
+  font-size: 12px;
+  background: #fff5;
+  backdrop-filter: blur(8px);
+  transition:
+    background 0.3s,
+    transform 0.4s var(--ease);
+}
+.hero-work-link svg {
+  width: 15px;
+  height: 15px;
+}
+.hero-work-link:hover {
+  background: #ffffffb0;
+  transform: translateY(-3px);
+}
+.hero-signature {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 27px;
+  font-size: 10px;
+  color: #74667d;
+}
+.hero-signature > span:first-child {
+  color: #565070;
+  font-size: 11px;
+}
+.hero-side {
+  flex-shrink: 0;
+  width: 248px;
+  margin-top: -36px;
+}
+.hero-feature-card {
+  border: 1px solid #ffffffcf;
+  border-radius: 18px;
+  padding: 11px;
+  background: #ffffffb0;
+  backdrop-filter: blur(16px);
+  box-shadow: 0 5px 25px #5a3b6a0a;
+}
+.hero-feature-open {
+  display: flex;
+  width: 100%;
+  gap: 12px;
+  align-items: center;
+  padding: 0;
+  text-align: left;
+}
+.hero-feature-icon {
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  width: 65px;
+  height: 65px;
+  border-radius: 12px;
+  background: conic-gradient(
+    from 20deg,
+    #dad5ff,
+    #f8e3cc,
+    #c5e1e7,
+    #d1c5ef,
+    #f2dded,
+    #dad5ff
+  );
+  color: #6b5d9b;
+}
+.hero-feature-icon svg {
+  width: 27px;
+  height: 27px;
+  transition: transform 0.6s var(--ease);
+}
+.hero-feature-open:hover svg {
+  transform: rotate(90deg);
+}
+.hero-feature-icon-1 {
+  background: linear-gradient(135deg, #c5e8f0, #d7d0fa);
+  color: #3c7d91;
+}
+.hero-feature-icon-2 {
+  background: linear-gradient(135deg, #bfe4d1, #f6e6bd);
+  color: #457665;
+}
+.hero-feature-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  animation: fade-in 0.4s ease;
+}
+.hero-feature-copy > span {
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #81778d;
+  font-size: 7px;
+  line-height: 1.6;
+}
+.hero-feature-copy strong {
+  font-size: 12px;
+  line-height: 1.35;
+  font-weight: 500;
+  color: #4a4261;
+}
+.hero-feature-copy small {
+  font-size: 8px;
+  color: #7d708d;
+}
+.hero-feature-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0 0 77px;
+  font-size: 8px;
+  color: #6d5f80;
+}
+.hero-feature-controls i {
+  font-style: normal;
+  color: #b1a6be;
+}
+.hero-feature-controls > div {
+  display: flex;
+  gap: 5px;
+}
+.hero-feature-controls button {
+  width: 28px;
+  height: 28px;
+  display: grid;
+  place-items: center;
+  background: #ffffffa8;
+  color: #796c90;
+  border-radius: 50%;
+}
+.hero-feature-controls button:first-child svg {
+  transform: rotate(180deg);
+}
+.hero-feature-controls button svg {
+  width: 12px;
+  height: 12px;
+}
+.hero-made {
+  margin-top: 24px;
+  text-align: right;
+}
+.hero-made > span {
+  color: #7c6a82;
+  font-size: 8px;
+}
+.hero-made > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 11px 18px;
+  justify-content: flex-end;
+  margin-top: 13px;
+  padding-left: 38px;
+  font-size: 10px;
+  color: #89748e;
+}
+.hero-cursor-hint {
+  position: absolute;
+  z-index: 4;
+  bottom: 137px;
+  left: max(56px, calc((100% - 1320px) / 2));
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: #8d708b;
+  font-size: 9px;
+  line-height: 1.7;
+  pointer-events: none;
+}
+.cursor-hint-symbol {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  font-size: 19px;
+  border: 1px solid #a28db04d;
+  border-radius: 50%;
+  color: #8779b6;
+}
+.immersive-hero-foot {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 4;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  border-top: 1px solid #967d9a26;
+  padding-block: 22px;
+  font-size: 8px;
+  letter-spacing: 0.5px;
+  color: #706279;
+}
+.immersive-hero-foot > span:first-child {
+  display: flex;
+  gap: 11px;
+}
+.immersive-hero-foot i {
+  font-style: normal;
+  color: #a899b1;
+}
+.immersive-hero-foot > .hero-foot-location {
+  font-size: 9px;
+  letter-spacing: 0;
+}
+.immersive-hero-foot a {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  font-size: 9px;
+  letter-spacing: 0;
+}
+.immersive-hero-foot a > span {
+  font-size: 18px;
+}
+.product-strip {
+  margin-top: 0;
+  border-top: 0;
+}
+@media (min-width: 1600px) {
+  .immersive-hero-inner {
+    padding-top: 190px;
+  }
+  .immersive-hero .hero-copy {
+    max-width: 780px;
+  }
+  .immersive-hero h1 {
+    font-size: 66px;
+  }
+}
+@media (max-width: 1150px) {
+  .hero-clock {
+    display: none;
+  }
+  .hero-side {
+    width: 215px;
+  }
+  .hero-feature-icon {
+    width: 52px;
+    height: 60px;
+  }
+  .hero-feature-open {
+    gap: 10px;
+  }
+  .hero-feature-controls {
+    padding-left: 62px;
+  }
+  .hero-feature-copy strong {
+    font-size: 11px;
+  }
+  .hero-feature-copy small {
+    font-size: 7px;
+  }
+  .hero-cursor-hint {
+    left: 36px;
+  }
+}
+@media (max-width: 1199px) {
+  .hero-side {
+    position: absolute;
+    right: 0;
+    bottom: 105px;
+    margin-top: 0;
+  }
+  .hero-made {
+    display: none;
+  }
+}
+@media (max-width: 1000px) {
+  .hero-side {
+    display: none;
+  }
+  .immersive-hero .hero-copy {
+    width: 80%;
+  }
+  .immersive-hero-inner {
+    padding-top: 150px;
+  }
+  .immersive-hero h1 {
+    font-size: 44px;
+    letter-spacing: -2px;
+  }
+  .hero-scene-shade {
+    background:
+      linear-gradient(90deg, #fff5eeaa, transparent 70%),
+      linear-gradient(0deg, #fff7f0e6, transparent 21%);
+  }
+  .hero-foot-location {
+    display: none;
+  }
+}
+@media (max-width: 900px) {
+  .hero-cursor-hint {
+    left: 24px;
+  }
+}
+@media (max-width: 700px) {
+  .header-actions {
+    gap: 15px;
+  }
+  .immersive-hero {
+    min-height: 920px;
+    border-radius: 0 0 23px 23px;
+    background: #fff0e4;
+  }
+  .immersive-hero-inner {
+    display: block;
+    padding-top: 119px;
+    padding-bottom: 0;
+  }
+  .immersive-hero .hero-copy {
+    width: 100%;
+    max-width: none;
+  }
+  .immersive-hero .hero-eyebrow {
+    font-size: 9px;
+  }
+  .immersive-hero h1 {
+    font-size: clamp(29px, 7.8vw, 46px);
+    letter-spacing: -1.6px;
+    line-height: 1.12;
+    margin-top: 24px;
+    margin-bottom: 19px;
+  }
+  .immersive-hero .hero-bottom > p {
+    font-size: 12px;
+    max-width: 300px;
+  }
+  .immersive-hero .hero-buttons {
+    margin-top: 20px;
+    gap: 12px;
+  }
+  .immersive-hero .pill {
+    min-height: 47px;
+    padding-left: 21px;
+    font-size: 11px;
+  }
+  .hero-work-link {
+    font-size: 11px;
+    padding: 14px 20px;
+  }
+  .hero-signature {
+    display: none;
+  }
+  .hero-scene {
+    inset: 350px 0 0;
+    height: calc(100% - 350px);
+    mask-image: linear-gradient(transparent, #000 20px);
+  }
+  .hero-scene-image {
+    object-position: 75% center;
+  }
+  .hero-liquid-canvas,
+  .hero-cursor-hint {
+    display: none;
+  }
+  .hero-scene-shade {
+    background:
+      linear-gradient(180deg, #fff0e4 350px, #fff0e400 400px),
+      linear-gradient(0deg, #fff7f0e6, transparent 12%);
+  }
+  .hero-watermark {
+    font-size: 30vw;
+    bottom: 86px;
+    color: #ffffff75;
+  }
+  .immersive-hero-foot {
+    gap: 15px;
+    padding-block: 21px;
+    font-size: 7px;
+  }
+  .immersive-hero-foot > span:first-child {
+    gap: 7px;
+  }
+  .immersive-hero-foot a {
+    gap: 7px;
+    font-size: 8px;
+  }
+  .immersive-hero-foot a > span {
+    font-size: 16px;
+  }
+}
+@media (hover: none), (pointer: coarse) {
+  .hero-cursor-hint {
+    display: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-liquid-canvas,
+  .hero-cursor-hint {
+    display: none;
+  }
+}

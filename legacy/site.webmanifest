@@ -1,0 +1,12 @@
+{
+  "name": "Sayan Mondal — SayanTheCoder",
+  "short_name": "SayanTheCoder",
+  "description": "Full-stack developer, Flutter engineer and AI + DevOps architect. Founder of Shotlin, creator of Opslin.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060807",
+  "theme_color": "#060807",
+  "icons": [
+    { "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

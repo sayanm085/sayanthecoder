@@ -1,0 +1,198 @@
+/* ============================================================
+   WHITE SHEET — daylight gallery edition
+   The page ground is pure white. Near-black is reserved for
+   instrument panels: portrait, skill map, project cards, contact.
+   ============================================================ */
+
+:root {
+  --ice: #ffffff;
+  --ice-2: #f5f6f2;
+  --ice-3: #e9ebe5;
+  --acid-ink: #566f00;
+  --muted-light: #59615a;
+}
+
+html, body { background: var(--ice); }
+body::before { opacity: 0.038; }
+.stack { background: var(--ice); }
+.hero { background: var(--ice); }
+.pin-shade { background: var(--ice); }
+
+/* header / chrome */
+.site-header[data-theme="light"] { color: var(--text-light); }
+.site-header.is-scrolled {
+  background: rgba(255, 255, 255, 0.82);
+  border-bottom-color: var(--line-light);
+}
+.site-header[data-theme="dark"].is-scrolled {
+  background: rgba(6, 8, 7, 0.72);
+}
+.site-header__line { background: var(--acid); opacity: 0.7; }
+
+/* hero */
+.bracket-panel {
+  background: transparent;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+}
+.bracket-panel .eyebrow { color: var(--muted-light); }
+.bracket-panel__frame i { border-color: var(--line-light-strong); }
+.hero__panel-note { color: var(--muted-light); }
+.hero__meta { border-color: var(--line-light); }
+.hero__meta li { border-color: var(--line-light); }
+.hero__roles span { color: var(--acid-ink); }
+.hero__social a:hover { color: var(--acid-ink); }
+.hero__scroll-line { background: var(--line-light-strong); }
+.hero__scroll-line::after { background: var(--ink); }
+.hero__axis { color: var(--muted-light); }
+.hero__axis-v { background: var(--line-light); }
+.hero__scroll-cue { color: var(--muted-light); }
+.hero__scroll-cue span:last-child { color: var(--text-light); }
+.float-chip { background: rgba(255, 255, 255, 0.76); border-color: var(--line-light); }
+.portrait__decrypt { color: var(--muted-light); }
+.portrait__decrypt-line { background: var(--line-light-strong); }
+.portrait__decrypt::after { border-color: var(--muted-light); }
+
+/* expertise — white sheet, dark map instrument */
+.expertise {
+  background: var(--ice);
+  color: var(--text-light);
+}
+.expertise::before {
+  background:
+    radial-gradient(42% 38% at 76% 32%, rgba(198, 255, 61, 0.075), transparent 70%),
+    linear-gradient(180deg, rgba(6, 8, 7, 0.018), transparent 28%);
+}
+.expertise .eyebrow--accent { color: var(--text-light); }
+.expertise .eyebrow--accent .dot { background: var(--acid); }
+.expertise .section-title { color: var(--text-light); }
+.expertise__intro { color: var(--muted-light); }
+.skill-detail { border-top-color: var(--line-light); }
+.skill-detail__head { color: var(--muted-light); }
+.skill-detail__mode { color: var(--acid-ink); }
+.skill-detail__title { color: var(--text-light); }
+.skill-detail__copy { color: var(--muted-light); }
+.skill-detail .tag-list li { border-color: var(--line-light); color: var(--muted-light); }
+.skill-detail__hint { color: var(--muted-light); }
+.skill-detail__hint .dot { background: var(--acid); }
+.map__frame {
+  background: #080b09;
+  border-color: rgba(6, 8, 7, 0.28);
+  box-shadow: 0 26px 70px -46px rgba(6, 8, 7, 0.65);
+}
+.map__grid { background-image: linear-gradient(rgba(242,244,238,.05) 1px, transparent 1px), linear-gradient(90deg, rgba(242,244,238,.05) 1px, transparent 1px); }
+.map__halftone { background-image: radial-gradient(rgba(242,244,238,.22) 0.6px, transparent 0.7px); }
+.map__frame::before { background: radial-gradient(circle at 0 0, rgba(198,255,61,.12), transparent 70%); }
+.map__links, .map__coords, .map__readout, .map__core, .node { color: var(--text-dark); }
+.map__coords { color: rgba(242,244,238,.45); }
+.map__readout { color: rgba(198,255,61,.62); }
+.map__orbit { stroke: rgba(242,244,238,.14); }
+.map__orbit--inner { stroke: rgba(198,255,61,.14); }
+.map__wires path { stroke: rgba(242,244,238,.24); }
+.map__junctions circle { fill: #080b09; stroke: rgba(242,244,238,.5); }
+.map__core { background: rgba(6,8,7,.72); color: var(--text-dark); }
+.map__core-ring { border-color: rgba(198,255,61,.22); }
+.map__core-ring--2 { border-color: rgba(242,244,238,.14); }
+.tech-marquee { border-top-color: var(--line-light); }
+.tech-marquee span { color: var(--text-light); }
+.tech-marquee i { color: var(--acid-ink); }
+
+/* selected work — white gallery with dark cards */
+.work { background: var(--ice); color: var(--text-light); }
+.work__pin { background: var(--ice); }
+.work .eyebrow--accent { color: var(--text-light); }
+.work .eyebrow--accent .dot { background: var(--acid); }
+.work__head-meta p { color: var(--muted-light); }
+.work__head-meta .mono { color: var(--text-light); }
+.arrow-line { background: var(--text-light); }
+.arrow-line::after { border-color: var(--text-light); }
+.work__foot { border-top-color: var(--line-light); }
+.work__index { color: var(--text-light); }
+.work__index-dim { color: var(--muted-light); }
+.work__progress { background: var(--line-light); }
+.work__progress i { background: var(--text-light); }
+.work__progress::after { background-image: repeating-linear-gradient(90deg, rgba(6,8,7,.22) 0 1px, transparent 1px calc(100% / 6)); }
+.work__hint { color: var(--muted-light); }
+.round-btn { border-color: var(--line-light); color: var(--text-light); }
+.round-btn:hover { background: var(--ink); border-color: var(--ink); color: var(--ice); }
+.project { color: var(--text-dark); }
+.project__title-row h3 { color: var(--text-dark); }
+.project__link { color: var(--acid); }
+.archive {
+  background: var(--ice);
+  color: var(--text-light);
+  border-top-color: var(--line-light);
+}
+.archive__title .outline { -webkit-text-stroke-color: rgba(6, 8, 7, 0.34); }
+.archive__note { color: var(--muted-light); }
+.archive__list { border-bottom-color: var(--line-light); }
+.archive__row { border-top-color: var(--line-light); }
+.archive__row:hover { background: rgba(6, 8, 7, 0.032); }
+.archive__num { color: var(--muted-light); }
+.archive__name h3 { color: var(--text-light); }
+.archive__row:hover .archive__name h3 { color: var(--acid-ink); }
+.archive__name span { color: var(--muted-light); }
+.archive__row p { color: var(--muted-light); }
+.archive__tags { color: var(--muted-light); }
+.archive__link { border-color: var(--line-light); color: var(--text-light); }
+.archive__link:hover { background: var(--ink); color: var(--ice); border-color: var(--ink); }
+
+/* journey */
+.journey { background: var(--ice); color: var(--text-light); }
+.journey .section-title { color: var(--text-light); }
+.journey__intro { color: var(--muted-light); }
+.chapter__meta { color: var(--muted-light); }
+.chapter__copy h3 { color: var(--text-light); }
+.chapter__copy p { color: var(--muted-light); }
+.chapter__copy .tag-list li { border-color: var(--line-light); color: var(--muted-light); }
+.timeline__rail { background: var(--line-light); }
+.timeline__rail-track { background-image: repeating-linear-gradient(to bottom, var(--line-light-strong) 0 1px, transparent 1px 12px); }
+.timeline__rail-progress { background: var(--text-light); }
+.timeline__marker { background: var(--text-light); box-shadow: 0 0 0 5px var(--ice); }
+.credentials { border-top-color: var(--line-light); }
+.credentials__head .eyebrow { color: var(--muted-light); }
+.credentials__head p { color: var(--muted-light); }
+.credentials__list > div { border-top-color: var(--line-light); }
+.credentials__list > div:last-child { border-bottom-color: var(--line-light); }
+.credentials__list dt { color: var(--muted-light); }
+.credentials__list dd { color: var(--text-light); }
+.credentials__list a { border-bottom-color: var(--line-light-strong); }
+.credentials__list a:hover { color: var(--acid-ink); border-color: var(--acid-ink); }
+.principles__grid li { border-top-color: var(--line-light); }
+.principles__grid li::before { border-color: var(--line-light-strong); }
+.principles__grid li:hover::before { background: var(--acid); border-color: var(--acid); }
+.principles__grid .mono { color: var(--muted-light); }
+.principles__grid h4 { color: var(--text-light); }
+.principles__grid p { color: var(--muted-light); }
+.stack-list { border-top-color: var(--line-light); }
+.stack-list__grid > div { border-top-color: var(--line-light); }
+.stack-list__grid > div:last-child { border-bottom-color: var(--line-light); }
+.stack-list__grid dt { color: var(--muted-light); }
+.stack-list__grid dd { color: var(--text-light); }
+
+/* contact stays the near-black instrument inside the acid page edge */
+.contact { background: var(--acid); }
+.contact__panel { background: var(--ink); color: var(--text-dark); }
+
+/* white loader veil */
+.loader { background: var(--ice); color: var(--text-light); }
+.loader::before {
+  background:
+    radial-gradient(60% 60% at 50% 42%, rgba(198, 255, 61, 0.105), transparent 70%),
+    repeating-linear-gradient(90deg, transparent 0 calc(12.5% - 1px), rgba(6, 8, 7, 0.042) calc(12.5% - 1px) 12.5%);
+}
+.loader__top { color: var(--muted-light); }
+.loader__status { color: var(--text-light); }
+.loader__status i { background: var(--acid); box-shadow: 0 0 10px rgba(198,255,61,.8); }
+.loader__glyph--outline { -webkit-text-stroke-color: rgba(6, 8, 7, 0.34); }
+.loader__glyph--fill { color: var(--ink); }
+.loader__ring { border-color: rgba(6, 8, 7, 0.14); border-left-color: var(--acid); }
+.loader__cross { background: rgba(6, 8, 7, 0.14); }
+.loader__name { color: var(--muted-light); }
+.loader__name span { color: var(--acid-ink); }
+.loader__pct { color: var(--text-light); }
+.loader__pct sup { color: var(--muted-light); }
+.loader__boot { color: rgba(6, 8, 7, 0.42); }
+.loader__boot span { color: var(--muted-light); }
+.loader__meter { background: rgba(6, 8, 7, 0.1); }
+.loader__meter span { background: var(--text-light); }

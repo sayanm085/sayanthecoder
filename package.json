@@ -1,0 +1,29 @@
+{
+  "name": "sayanthecoder-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write app components lib docs README.md package.json tsconfig.json next.config.ts eslint.config.mjs",
+    "format:check": "prettier --check app components lib docs README.md package.json tsconfig.json next.config.ts eslint.config.mjs"
+  },
+  "dependencies": {
+    "lenis": "^1.3.23",
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "prettier": "^3.9.10",
+    "typescript": "^5"
+  }
+}

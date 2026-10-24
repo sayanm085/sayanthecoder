@@ -1,0 +1,678 @@
+/* Two separate LNDRY products, using real application and website captures. */
+.project-logo-strip {
+  grid-template-columns: 1.1fr repeat(6, 1fr);
+  gap: 22px;
+}
+.laundry-projects {
+  margin-top: 95px;
+}
+.laundry-section-heading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 35px;
+  margin-bottom: 34px;
+}
+.laundry-section-heading h2 {
+  font-size: clamp(32px, 3.7vw, 50px);
+  font-weight: 450;
+  letter-spacing: -1.7px;
+  line-height: 1.15;
+  margin-top: 25px;
+}
+.laundry-section-heading .muted {
+  color: #9b87b6;
+}
+.laundry-section-heading > p {
+  color: #8790a1;
+  font-size: 12px;
+  line-height: 1.8;
+}
+.laundry-project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 30px;
+}
+.laundry-project-card {
+  --project-accent: #6c4ed6;
+  border: 1px solid #e6def3;
+  border-radius: 22px;
+  overflow: hidden;
+  background: #f1eafa;
+}
+.laundry-card-lndry-pos {
+  background: #eaf3f1;
+  border-color: #dce9e5;
+  --project-accent: #367c70;
+}
+.laundry-project-main {
+  display: block;
+}
+.laundry-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 24px 27px;
+}
+.laundry-card-top .project-brand-image {
+  width: 120px;
+  height: 39px;
+}
+.laundry-card-top .project-relationship {
+  font-size: 8px;
+}
+.laundry-preview-stage {
+  height: 405px;
+  position: relative;
+  overflow: hidden;
+}
+.laundry-preview-stage .product-browser {
+  position: absolute;
+  width: 82%;
+  left: 5%;
+  top: 35px;
+  transform: rotate(-4deg);
+  transition: transform 0.7s var(--ease);
+}
+.laundry-preview-stage .product-phone {
+  position: absolute;
+  width: 150px;
+  right: 7%;
+  top: 50px;
+  transform: rotate(6deg);
+  transition: transform 0.7s var(--ease);
+  border-radius: 25px;
+}
+.laundry-preview-stage .product-phone-screen {
+  border-radius: 20px;
+  border-width: 3px;
+}
+.laundry-card-lndry-pos .product-browser {
+  top: 60px;
+  transform: rotate(3deg);
+}
+.laundry-card-lndry-pos .product-phone {
+  transform: rotate(-5deg);
+  top: 30px;
+  right: 8%;
+}
+.laundry-project-main:hover .product-browser,
+.laundry-project-main:hover .product-phone {
+  transform: rotate(0) translateY(-4px);
+}
+.laundry-card-copy {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 5px 28px 27px;
+}
+.laundry-card-kicker {
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--project-accent);
+}
+.laundry-card-copy h3 {
+  font-size: 32px;
+  font-weight: 550;
+  letter-spacing: -1px;
+  margin-top: 12px;
+}
+.laundry-card-copy p {
+  color: #7b7d91;
+  font-size: 12px;
+  line-height: 1.6;
+  margin-top: 8px;
+}
+.laundry-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 18px 28px;
+  border-top: 1px solid #26344810;
+  background: #ffffff50;
+  color: #7a7e8d;
+  font-size: 10px;
+}
+.laundry-card-footer a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #5e5684;
+}
+.laundry-card-footer svg {
+  width: 13px;
+  height: 13px;
+}
+.project-gallery {
+  margin-top: 10px;
+}
+.gallery-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+  margin-bottom: 24px;
+}
+.gallery-heading > div:first-child p {
+  font-size: 13px;
+  color: #8790a3;
+  margin-top: 10px;
+}
+.gallery-controls {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+.gallery-controls > span {
+  font-family: var(--font-space), sans-serif;
+  font-size: 12px;
+  color: #5f5c82;
+  margin-right: 12px;
+  white-space: nowrap;
+}
+.gallery-controls i {
+  font-style: normal;
+  color: #a3a1b9;
+}
+.gallery-controls button {
+  display: grid;
+  place-items: center;
+  height: 37px;
+  width: 37px;
+  border: 1px solid #dfdcea;
+  border-radius: 50%;
+  background: #f9f8fe;
+  color: #7e6ca9;
+  transition: background 0.25s;
+}
+.gallery-controls button:hover {
+  background: #eee9fb;
+}
+.gallery-controls svg {
+  width: 17px;
+  height: 17px;
+}
+.gallery-controls button:nth-of-type(1) svg {
+  transform: rotate(180deg);
+}
+.project-gallery-stage {
+  height: 730px;
+  padding: 38px;
+  background:
+    radial-gradient(ellipse at 75% 25%, #f8f1ff, transparent 70%), #ebe7fa;
+  border: 1px solid #e6e0f3;
+  border-radius: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.detail-lndry-pos .project-gallery-stage {
+  background:
+    radial-gradient(ellipse at 65% 25%, #f2f8f5, transparent 70%), #e9f0ee;
+  border-color: #dee8e3;
+}
+.gallery-phone {
+  width: 270px;
+  flex-shrink: 0;
+  border: 6px solid #292530;
+  border-radius: 38px;
+  overflow: hidden;
+  box-shadow:
+    0 0 0 3px #d2ced9,
+    20px 30px 45px #35294829;
+  background: #fff;
+}
+.gallery-phone img {
+  width: 100%;
+  height: auto;
+}
+.gallery-browser {
+  width: 100%;
+  max-width: 1100px;
+}
+.gallery-browser a {
+  display: block;
+}
+.gallery-browser img {
+  width: 100%;
+  height: auto;
+}
+.gallery-caption {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  padding: 17px 2px;
+  font-size: 11px;
+  color: #7d7893;
+}
+.gallery-caption a {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: #7762a2;
+}
+.gallery-caption svg {
+  height: 13px;
+  width: 13px;
+}
+.gallery-thumbnails {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 12px;
+  padding-block: 9px 16px;
+}
+.gallery-thumbnails button {
+  padding: 6px;
+  border: 1px solid #e5e2ed;
+  background: #fff;
+  border-radius: 13px;
+  text-align: left;
+  transition:
+    border-color 0.2s,
+    background 0.2s;
+  min-width: 0;
+}
+.gallery-thumbnails button:hover {
+  border-color: #b8a5d7;
+}
+.gallery-thumbnails button.is-selected {
+  border-color: #8e76c8;
+  background: #f2edfc;
+  box-shadow: inset 0 0 0 1px #8e76c8;
+}
+.gallery-thumb-image {
+  display: flex;
+  justify-content: center;
+  height: 95px;
+  border-radius: 8px;
+  background: #f3f0f9;
+  overflow: hidden;
+}
+.gallery-thumb-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+}
+.gallery-thumb-mobile img {
+  width: 48px;
+  height: auto;
+  object-fit: cover;
+  object-position: top;
+}
+.gallery-thumbnails button > span:last-child {
+  display: block;
+  font-size: 9px;
+  line-height: 1.6;
+  padding: 9px 4px 4px;
+  color: #766b8d;
+}
+.gallery-fallback-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-block: 20px;
+  font-size: 12px;
+}
+.gallery-fallback-links a {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  text-decoration: underline;
+}
+.gallery-fallback-links svg {
+  width: 12px;
+  height: 12px;
+}
+.companion-project {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  padding: 35px;
+  border-radius: 20px;
+  background: #f3f0fa;
+  border: 1px solid #e7e0f2;
+  margin-top: 20px;
+}
+.companion-project h2 {
+  font-size: 28px;
+  font-weight: 450;
+  letter-spacing: -0.8px;
+  margin-top: 16px;
+}
+.companion-project p {
+  font-size: 12px;
+  line-height: 1.8;
+  color: #8b819e;
+  margin-top: 12px;
+  max-width: 550px;
+}
+.companion-project .pill {
+  flex-shrink: 0;
+}
+.project-dialog .gallery-heading {
+  flex-wrap: wrap;
+  margin-top: 35px;
+}
+.project-dialog .project-gallery-stage {
+  height: 560px;
+  padding: 22px;
+}
+.project-dialog .gallery-phone {
+  width: 220px;
+  border-radius: 30px;
+}
+.project-dialog .gallery-thumbnails {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+@media (max-width: 1100px) {
+  .project-logo-strip {
+    gap: 14px;
+  }
+  .project-logo-strip .project-brand-image {
+    width: 85px;
+  }
+  .laundry-card-top {
+    flex-wrap: wrap;
+    padding-inline: 22px;
+  }
+  .laundry-card-top .project-relationship {
+    font-size: 8px;
+  }
+  .laundry-preview-stage {
+    height: 365px;
+  }
+  .laundry-preview-stage .product-phone {
+    width: 135px;
+    right: 7%;
+  }
+  .laundry-card-copy {
+    padding-inline: 22px;
+  }
+  .laundry-card-copy p {
+    font-size: 11px;
+  }
+  .laundry-card-footer {
+    padding-inline: 22px;
+  }
+  .laundry-card-footer > span {
+    font-size: 9px;
+  }
+  .project-gallery-stage {
+    height: 670px;
+    padding: 30px;
+  }
+  .gallery-thumbnails {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .companion-project {
+    gap: 25px;
+  }
+  .companion-project h2 {
+    font-size: 24px;
+  }
+}
+@media (max-width: 800px) {
+  .project-logo-strip {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 25px 20px;
+  }
+  .laundry-project-grid {
+    gap: 20px;
+  }
+  .laundry-card-top {
+    gap: 12px;
+    padding: 22px 20px;
+  }
+  .laundry-card-top .project-brand-image {
+    width: 110px;
+  }
+  .laundry-preview-stage {
+    height: 330px;
+  }
+  .laundry-preview-stage .product-browser {
+    top: 40px;
+    width: 90%;
+  }
+  .laundry-preview-stage .product-phone {
+    width: 120px;
+    right: 7%;
+  }
+  .laundry-card-lndry-pos .product-browser {
+    top: 65px;
+  }
+  .laundry-card-copy {
+    padding: 10px 20px 23px;
+    gap: 10px;
+  }
+  .laundry-card-copy h3 {
+    font-size: 27px;
+  }
+  .laundry-card-copy .client-card-arrow {
+    width: 33px;
+    height: 33px;
+  }
+  .laundry-card-footer {
+    padding: 16px 20px;
+  }
+  .laundry-card-footer > span {
+    display: none;
+  }
+  .gallery-heading > div:first-child p {
+    font-size: 12px;
+  }
+  .companion-project {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+@media (max-width: 600px) {
+  .project-logo-strip {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 26px 14px;
+  }
+  .project-logo-strip > a:last-child {
+    grid-column: 2;
+  }
+  .laundry-projects {
+    margin-top: 70px;
+  }
+  .laundry-section-heading {
+    display: block;
+  }
+  .laundry-section-heading h2 {
+    font-size: 32px;
+    letter-spacing: -1.2px;
+  }
+  .laundry-section-heading > p {
+    margin-top: 20px;
+    font-size: 11px;
+  }
+  .laundry-project-grid {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+  .laundry-card-top {
+    flex-wrap: nowrap;
+    padding: 24px;
+    gap: 10px;
+  }
+  .laundry-card-top .project-relationship {
+    font-size: 7px;
+    padding: 6px 8px;
+  }
+  .laundry-preview-stage {
+    height: 355px;
+  }
+  .laundry-preview-stage .product-phone {
+    width: 137px;
+    top: 30px;
+    right: 8%;
+  }
+  .laundry-card-lndry-pos .product-phone {
+    top: 22px;
+  }
+  .laundry-card-lndry-pos .product-browser {
+    top: 55px;
+  }
+  .laundry-card-copy {
+    padding: 5px 24px 25px;
+  }
+  .laundry-card-copy h3 {
+    font-size: 29px;
+  }
+  .laundry-card-copy p {
+    font-size: 11px;
+    max-width: 250px;
+  }
+  .laundry-card-footer {
+    padding: 16px 24px;
+  }
+  .laundry-card-footer > span {
+    display: inline;
+    font-size: 8px;
+  }
+  .laundry-card-footer a {
+    font-size: 9px;
+  }
+  .gallery-heading {
+    gap: 15px;
+    align-items: end;
+  }
+  .gallery-heading > div:first-child p {
+    max-width: 145px;
+    font-size: 10px;
+    line-height: 1.6;
+  }
+  .gallery-heading .section-label {
+    font-size: 9px;
+  }
+  .gallery-controls {
+    gap: 6px;
+  }
+  .gallery-controls > span {
+    font-size: 10px;
+    margin-right: 4px;
+  }
+  .gallery-controls button {
+    width: 28px;
+    height: 28px;
+  }
+  .gallery-controls svg {
+    width: 13px;
+    height: 13px;
+  }
+  .project-gallery-stage {
+    height: 560px;
+    padding: 15px;
+    border-radius: 16px;
+  }
+  .gallery-stage-desktop {
+    height: 320px;
+  }
+  .gallery-phone {
+    width: 215px;
+    border-width: 5px;
+    border-radius: 30px;
+  }
+  .gallery-caption {
+    font-size: 9px;
+    gap: 10px;
+    line-height: 1.5;
+  }
+  .gallery-caption a {
+    gap: 3px;
+    text-align: right;
+    font-size: 8px;
+  }
+  .gallery-thumbnails {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+  .gallery-thumb-image {
+    height: 85px;
+  }
+  .gallery-thumbnails button > span:last-child {
+    font-size: 9px;
+  }
+  .companion-project {
+    padding: 25px;
+    gap: 25px;
+  }
+  .companion-project h2 {
+    font-size: 24px;
+  }
+  .companion-project p {
+    font-size: 11px;
+  }
+  .project-dialog .project-gallery-stage {
+    height: 510px;
+    padding: 12px;
+  }
+  .project-dialog .gallery-stage-desktop {
+    height: 260px;
+  }
+  .project-dialog .gallery-phone {
+    width: 200px;
+  }
+  .project-dialog .gallery-thumbnails {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 360px) {
+  .project-logo-strip .project-brand-image {
+    width: 75px;
+  }
+  .laundry-card-top {
+    padding-inline: 18px;
+  }
+  .laundry-card-top .project-brand-image {
+    width: 100px;
+  }
+  .laundry-card-top .project-relationship {
+    font-size: 6px;
+  }
+  .laundry-preview-stage .product-phone {
+    width: 125px;
+  }
+  .laundry-preview-stage {
+    height: 325px;
+  }
+  .laundry-card-copy,
+  .laundry-card-footer {
+    padding-inline: 18px;
+  }
+  .gallery-heading {
+    gap: 9px;
+  }
+  .gallery-controls > span {
+    margin: 0;
+    font-size: 9px;
+  }
+  .gallery-controls button {
+    width: 25px;
+    height: 25px;
+  }
+  .gallery-phone {
+    width: 195px;
+  }
+  .project-gallery-stage {
+    height: 515px;
+  }
+  .gallery-stage-desktop {
+    height: 280px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .laundry-preview-stage .product-browser,
+  .laundry-preview-stage .product-phone {
+    transition: none;
+  }
+}
