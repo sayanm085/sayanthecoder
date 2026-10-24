@@ -63,6 +63,10 @@ test("Optional email and budget have understandable defaults without undefined d
 });
 test("Existing service buttons still preselect the relevant plain-language enquiry type", () => {
   assert.equal(
+    projectTypeForHint("Grocery Delivery App Development"),
+    "Grocery & delivery app",
+  );
+  assert.equal(
     projectTypeForHint("Game design & development"),
     "Game design & development",
   );

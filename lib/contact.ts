@@ -20,6 +20,7 @@ export const projectChoices = [
 ];
 
 export function projectTypeForHint(hint = "") {
+  if (/grocery/i.test(hint)) return "Grocery & delivery app";
   if (/game/i.test(hint)) return "Game design & development";
   if (/cloud|devops|hosting/i.test(hint)) return "Hosting & app deployment";
   if (/AI|automation/i.test(hint)) return "Business automation & AI";

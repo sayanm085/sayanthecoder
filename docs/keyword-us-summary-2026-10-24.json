@@ -1,0 +1,80 @@
+{
+  "source": "OpenSEO get_keyword_metrics, United States 2840, English; fetched 2026-10-24",
+  "notes": "Provider monthly search estimates, not observed traffic. Last three monthly values Jul–Sep 2026 except AI agent term Jun–Aug. Missing requested terms WhatsApp CRM development and CI CD implementation services returned no metrics, not assumed zero.",
+  "columns": [
+    "keyword",
+    "monthly_volume",
+    "kd",
+    "cpc_usd",
+    "provider_intent",
+    "recent_monthly_searches"
+  ],
+  "rows": [
+    [
+      "website development services",
+      3600,
+      30,
+      33.56,
+      "commercial",
+      "3600 → 2400 → 1900"
+    ],
+    [
+      "ai automation services",
+      720,
+      3,
+      37.56,
+      "commercial",
+      "1300 → 720 → 1000"
+    ],
+    [
+      "ai agent development services",
+      480,
+      0,
+      33.37,
+      "commercial",
+      "590 → 720 → 390 (Jun–Aug)"
+    ],
+    [
+      "devops consulting services",
+      320,
+      10,
+      93.89,
+      "commercial",
+      "390 → 320 → 260"
+    ],
+    [
+      "custom web application development",
+      260,
+      4,
+      38.36,
+      "commercial",
+      "140 → 40 → 170"
+    ],
+    [
+      "saas development services",
+      260,
+      18,
+      62.12,
+      "commercial",
+      "210 → 260 → 210"
+    ],
+    [
+      "flutter app development services",
+      210,
+      30,
+      12.64,
+      "navigational (provider classification; requires SERP review)",
+      "170 → 110 → 70"
+    ],
+    [
+      "grocery delivery app development",
+      140,
+      8,
+      null,
+      "informational",
+      "210 → 170 → 90"
+    ],
+    ["laundry app development", 40, 0, null, "commercial", "30 → 40 → 30"],
+    ["vps deployment", 20, null, 7.82, "commercial", "20 → 20 → 10"]
+  ]
+}
