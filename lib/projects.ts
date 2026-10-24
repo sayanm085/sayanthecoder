@@ -11,6 +11,7 @@ export type ProjectImage = {
 export type Project = {
   id: string;
   name: string;
+  seoTitle?: string;
   category: string;
   headline: string;
   description: string;
@@ -148,6 +149,7 @@ export const projects: Project[] = [
   },
   {
     id: "bakaloo-platform",
+    seoTitle: "Bakaloo WhatsApp CRM & Storefront Builder",
     name: "Bakaloo CRM & Builder",
     category: "WhatsApp CRM, agentic AI & B2B commerce",
     relationship: "Client project",
@@ -403,6 +405,7 @@ export const projects: Project[] = [
   },
   {
     id: "lndry-pos",
+    seoTitle: "LNDRY POS — Laundry Store Software",
     name: "LNDRY POS",
     category: "In-store laundry POS · Mobile & web",
     relationship: "Studio work",
@@ -487,6 +490,7 @@ export const projects: Project[] = [
   },
   {
     id: "rustbloom",
+    seoTitle: "Rustbloom — 2D & 2.5D Game Development",
     name: "Rustbloom",
     category: "2D / 2.5D game design & development",
     relationship: "Studio work",
@@ -586,6 +590,7 @@ export const projects: Project[] = [
   },
   {
     id: "antar",
+    seoTitle: "ANTAR — The Last Flame | Agnix Studio",
     name: "ANTAR — The Last Flame",
     category: "Game production & launch presentation",
     relationship: "Studio work",

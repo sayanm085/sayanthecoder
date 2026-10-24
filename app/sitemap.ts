@@ -8,6 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     { url: siteOrigin, priority: 1 },
     { url: `${siteOrigin}/services`, priority: 0.9 },
+    { url: `${siteOrigin}/privacy`, priority: 0.3 },
     { url: `${siteOrigin}${projectBriefPath}`, priority: 0.8 },
     { url: `${siteOrigin}${opslinGuidePath}`, priority: 0.8 },
     ...servicePages.map((service) => ({

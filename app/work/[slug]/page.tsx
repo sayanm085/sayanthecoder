@@ -12,6 +12,7 @@ import { getProject, projects } from "@/lib/projects";
 import { ProjectGallery } from "@/components/project-gallery";
 import { jsonLd, siteOrigin } from "@/lib/site";
 import { OpslinProductDetails } from "@/components/opslin-product-details";
+import { relatedProjects, servicesForProject } from "@/lib/project-navigation";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -23,9 +24,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const project = getProject((await params).slug);
   if (!project) return {};
   const title =
-    project.id === "opslin"
+    project.seoTitle ??
+    (project.id === "opslin"
       ? "Opslin — VPS Deployment & AI DevOps"
-      : `${project.name} — ${project.category}`;
+      : `${project.name} — ${project.category}`);
   return {
     title,
     description: project.seoDescription,
@@ -59,9 +61,8 @@ export default async function ProjectPage({ params }: Props) {
   const companion = project.companionId
     ? getProject(project.companionId)
     : undefined;
-  const related = projects
-    .filter((item) => item.id !== project.id && item.image)
-    .slice(0, 3);
+  const related = relatedProjects(project.id);
+  const relevantServices = servicesForProject(project.id);
   const pageUrl = `${siteOrigin}/work/${project.id}`;
   return (
     <>
@@ -271,6 +272,25 @@ export default async function ProjectPage({ params }: Props) {
               </Link>
             </aside>
           ) : null}
+          {relevantServices.length > 0 ? (
+            <section
+              className="related-projects"
+              aria-labelledby="project-services-title"
+            >
+              <h2 id="project-services-title">Services behind this project.</h2>
+              <div>
+                {relevantServices.map((service) => (
+                  <Link href={`/services/${service.slug}`} key={service.slug}>
+                    <strong>{service.title}</strong>
+                    <span>
+                      Explore the scope, delivery and project questions
+                    </span>
+                    <Arrow />
+                  </Link>
+                ))}
+              </div>
+            </section>
+          ) : null}
           <section className="project-detail-cta">
             <div>
               <span className="section-label">
@@ -330,24 +350,30 @@ export default async function ProjectPage({ params }: Props) {
               ))}
             </div>
           </section>
-          <section className="related-projects" aria-labelledby="related-title">
-            <h2 id="related-title">More work to explore.</h2>
-            <div>
-              {related.map((item) => (
-                <Link href={`/work/${item.id}`} key={item.id}>
-                  <span>{item.relationship}</span>
-                  <strong>{item.name}</strong>
-                  <span>{item.category}</span>
-                  <Arrow />
-                </Link>
-              ))}
-            </div>
-          </section>
+          {related.length > 0 ? (
+            <section
+              className="related-projects"
+              aria-labelledby="related-title"
+            >
+              <h2 id="related-title">More work to explore.</h2>
+              <div>
+                {related.map((item) => (
+                  <Link href={`/work/${item.id}`} key={item.id}>
+                    <span>{item.relationship}</span>
+                    <strong>{item.name}</strong>
+                    <span>{item.category}</span>
+                    <Arrow />
+                  </Link>
+                ))}
+              </div>
+            </section>
+          ) : null}
         </div>
       </main>
       <footer className="project-detail-footer shell">
         <Brand href="/" />
         <span>© 2026 Sayan Mondal</span>
+        <Link href="/privacy">Privacy & analytics</Link>
         <a href={gmailComposeUrl()} target="_blank" rel="noopener noreferrer">
           sayan@opslin.com <Arrow />
         </a>

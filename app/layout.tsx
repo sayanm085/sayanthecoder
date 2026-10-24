@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     template: "%s | SayanTheCoder",
   },
   description:
-    "Websites, Flutter apps, custom software and cloud deployment by Sayan Mondal, founder of Opslin and Shotlin. Based in Kolkata, working with businesses worldwide.",
+    "Websites, Flutter apps, custom software and cloud deployment by Sayan Mondal, founder of Opslin and Shotlin. Based in Kolkata; working worldwide.",
   applicationName: "SayanTheCoder",
   authors: [{ name: "Sayan Mondal" }],
   icons: { icon: "/favicon.svg" },

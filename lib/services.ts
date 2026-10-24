@@ -172,6 +172,10 @@ export const servicePages = [
         text: "Useful custom software starts with the task it needs to improve. I look at the users, existing tools, data and decisions that form the workflow. That makes it possible to define an initial release around a complete process rather than a long list of disconnected screens.",
       },
       {
+        title: "SaaS and MVP development services: test one useful workflow",
+        text: "An MVP is a minimum viable product: an initial release that lets intended users complete the core task so you can evaluate it. For a SaaS product, define account ownership, roles, data boundaries, onboarding and the first paid or operational workflow before adding a large feature list. Agree the feedback or usage evidence that will inform the next milestone. Opslin is my own product example; it does not establish product-market fit for a different business or guarantee launch revenue.",
+      },
+      {
         title: "Web products and business dashboards",
         text: "My work covers full-stack web applications, Next.js interfaces, APIs, databases and operational tools. Depending on the project, that can include authentication, tenant boundaries, payments, real-time updates and role-based access. The architecture and interface should support the people who operate the product as well as its customers.",
       },
@@ -188,8 +192,12 @@ export const servicePages = [
         text: "The Bakaloo platform work includes WhatsApp CRM, customer pipeline, team communication and a storefront theme builder, alongside B2B workflows and AI automation. LNDRY POS shows another operating context: order booking, garment selection and delivery progress for a store. The galleries provide concrete examples to discuss when planning a different workflow.",
       },
       {
-        title: "WhatsApp CRM and workflow automation: define the boundary",
+        title: "WhatsApp CRM integration and workflow automation",
         text: "The Bakaloo project gallery shows a shared WhatsApp inbox, customer pipeline, team chat, message templates and a visual storefront builder. For a new workflow, decide who owns each conversation, which system is the source of customer information and how an enquiry becomes an order. Template availability, messaging permissions and provider rules must be checked for the account being integrated. Internal team messages and customer replies need separate paths. A deterministic reminder or routing rule can be more suitable than an AI agent when the decision is already clear.",
+      },
+      {
+        title: "Integrate an existing CRM or build a custom workflow?",
+        text: "Start by deciding which system owns customer records, orders and consent information. If an existing CRM already meets the need, connecting it to the messaging workflow may be more practical than replacing it. A custom implementation can make sense for a distinct inbox, assignment or commerce process. Review API access, webhook handling, permissions, duplicate events and human escalation before promising an integration. I do not claim official provider partnership or compatibility with a particular CRM without checking that account and its supported interfaces.",
       },
       {
         title: "A delivery process that includes deployment",
@@ -277,6 +285,134 @@ export const servicePages = [
       },
     ],
     projectIds: ["freshcart", "bakaloo", "bakaloo-platform"],
+  },
+  {
+    slug: "laundry-app-pos-development",
+    title: "Laundry App & POS Software Development",
+    seoTitle: "Laundry App & POS Development — Sayan Mondal",
+    description:
+      "Custom laundry app and POS development by Sayan Mondal. Explore LNDRY customer and store screens, pickup workflows, garment pricing and order tracking.",
+    serviceTitles: [],
+    intro:
+      "I build customer applications and store software for laundry and dry-cleaning workflows. My LNDRY portfolio separates the customer booking experience from the laundry POS used at the counter. That distinction matters: customers need a simple pickup journey, while staff need accurate garment, order and payment information. I’m Sayan Mondal, founder of Shotlin and Opslin, working from Kolkata with businesses remotely.",
+    sections: [
+      {
+        title: "Customer laundry app versus store POS",
+        text: "The customer application helps someone choose a service, provide an address and arrange a pickup. A laundry POS, or point-of-sale system, supports the store team as they book work, price garments and progress orders. A business may need one of these experiences before the other. Map the handoff between them first: who confirms a pickup, when the store records what arrived and how the customer learns about a change.",
+      },
+      {
+        title: "Garments, services and order booking",
+        text: "Laundry pricing can depend on a piece count, garment type, selected treatment or weight. Specify those rules before designing a price list. The LNDRY POS gallery shows garment selection, service categories, quantities, order totals and customer selection. For a new system, define how staff correct an item, apply an agreed adjustment and review the total before saving. Receipts, taxes and invoice requirements need to match the business and location being served.",
+      },
+      {
+        title: "Pickup, production status and delivery",
+        text: "A complete order journey needs clear responsibility for each step. Decide how an online request becomes a store order, how garments move through processing and what ready, delivered and complete mean for your team. The LNDRY screens show order progression, payment status and invoice entry points. A new implementation should also define missed pickups, partial completion, cancellations and corrections rather than treating the normal path as the only path.",
+      },
+      {
+        title: "Mobile and desktop counter workflows",
+        text: "The separate LNDRY POS gallery includes mobile and desktop screens. A phone can support a quick lookup; a desktop counter interface can expose more of an order at once. Neither layout establishes compatibility with every printer, scanner or payment terminal. List the exact hardware, browser, network and access requirements during discovery. If the counter must continue working without a connection, agree which tasks are available, how queued changes are reconciled and how conflicts are reviewed.",
+      },
+      {
+        title: "Buy existing laundry software or build a custom system?",
+        text: "An existing product can be a sensible choice when its booking, pricing and reporting match your operation. Custom development becomes worth discussing when an essential workflow or integration does not fit, or when you need a distinct customer experience. Compare total ownership costs, migration, provider charges and support responsibilities alongside the initial build price. This page offers development services; it is not a subscription checkout or a promise to reproduce another vendor’s product.",
+      },
+      {
+        title: "What affects laundry app development cost?",
+        text: "Scope depends on the customer app, counter system, number of stores, pricing rules, pickup and delivery process, and existing customer or order data. Integrations with messaging, payments, accounting or hardware add separate requirements. Ask for a proposal that distinguishes design, development, migration, acceptance testing and deployment from ongoing hosting and provider charges. I prepare a scoped estimate after reviewing the workflow rather than quoting an identical package for every store.",
+      },
+      {
+        title: "Acceptance checks and handover",
+        text: "Before accepting a first release, test a mixed-service order, a changed quantity, an unpaid order, a corrected price and an order moving through the agreed statuses. Check what a staff member can see or edit compared with an owner. If offline work is included, test disconnecting and reconnecting with realistic changes. Agree source access, data export, deployment instructions and support ownership. Use the two LNDRY project galleries below to describe the customer and counter experiences you need.",
+      },
+    ],
+    faqs: [
+      {
+        question:
+          "Can you build a laundry customer app and a separate store POS?",
+        answer:
+          "Yes. They can be scoped together or in stages. The customer booking journey and the staff order workflow have different requirements; the LNDRY customer and POS galleries show them separately.",
+      },
+      {
+        question: "Does custom laundry software support my printer or scanner?",
+        answer:
+          "Compatibility must be checked against the exact device, connection method, operating system and browser. Hardware support should be an explicit acceptance item, not an assumption based on a dashboard screenshot.",
+      },
+      {
+        question: "Can the laundry POS work offline?",
+        answer:
+          "Offline operation can be discussed for specific tasks. The scope must define local data, queued changes, synchronisation and conflict handling, then test that behaviour on the intended counter devices.",
+      },
+      {
+        question: "Do I need to replace my existing laundry system?",
+        answer:
+          "Not necessarily. An integration or a customer-facing app may solve the problem without replacing everything. Review API access, data ownership and the workflow gaps before deciding.",
+      },
+    ],
+    projectIds: ["lndry", "lndry-pos"],
+  },
+  {
+    slug: "game-development-unity-godot",
+    title: "Game Development Services for Mobile & PC",
+    seoTitle: "Game Development Services — Unity & Godot",
+    description:
+      "2D and 2.5D game design and development by Sayan Mondal using Unity and Godot. Explore Rustbloom gameplay, game UI and separate ANTAR launch work.",
+    serviceTitles: ["Game design & development"],
+    intro:
+      "I offer game design and development for mobile and PC, working with Unity and Godot on 2D and 2.5D experiences. My portfolio includes Rustbloom, an ongoing game with playable scenes and mobile interface screenshots, and the separate ANTAR — The Last Flame launch presentation. I’m Sayan Mondal, founder of Shotlin and Opslin. A project starts by agreeing whether you need a prototype, a polished sample or a production feature set.",
+    sections: [
+      {
+        title: "Choose a prototype, a vertical slice or a production scope",
+        text: "A prototype tests whether a mechanic is understandable and enjoyable. A vertical slice is a small, more representative portion of the intended game, combining gameplay, art and interface. Production work needs a wider agreement covering content, systems, device targets and release responsibilities. These are different deliverables. Define the question the first build should answer before deciding how much world content or presentation to create.",
+      },
+      {
+        title: "2D and 2.5D gameplay design",
+        text: "A side-scrolling game needs more than a moving character: the player must understand the environment, available actions and feedback. Scope can cover movement, interactions, combat, progression and interface states, depending on the project. Rustbloom’s gallery shows traversal and action controls in a layered garden and clockwork environment. That is an example of the current work, not a claim that a new game will inherit its world, art or code.",
+      },
+      {
+        title: "Unity and Godot development: choose for the project",
+        text: "The engine decision should consider an existing codebase, team knowledge, asset pipeline, intended devices and release constraints. I discuss Unity and Godot in that context rather than selecting an engine from a keyword alone. If work joins an existing project, review its engine version, plugins, project structure and build process before estimating. Confirm source and asset licensing as part of the handover agreement; a familiar engine name does not remove those dependencies.",
+      },
+      {
+        title: "Game UI, touch controls and PC input",
+        text: "The player needs clear menus, understandable controls and consistent feedback while playing. Rustbloom’s supplied mobile screens show touch movement and action controls, audio settings, graphics options and a frame-rate limit selector. For a new game, define the actual target inputs: touch, mouse and keyboard, controller or a combination. Check layout, readable text, pause behaviour and settings persistence for those targets. A mobile screenshot does not by itself demonstrate a tested PC release.",
+      },
+      {
+        title: "Performance and build acceptance",
+        text: "Agree a representative device list and test scenes before promising a performance target. Review frame pacing, loading, memory use, input responsiveness and what happens when a mobile application loses focus. Graphics presets should be checked on the intended devices rather than assumed to improve every scene. Export settings, store accounts, signing and platform review are part of a separate release path. Passing a local playtest does not establish acceptance by a distribution platform.",
+      },
+      {
+        title: "Rustbloom and ANTAR are separate projects",
+        text: "Rustbloom is in development; its gallery documents current gameplay and settings. ANTAR — The Last Flame is a distinct Agnix Studio project described as production ready and preparing for launch, with an official announcement visual. The Agnix Studio company website is also a separate web project. Keeping those records separate helps you assess the specific evidence without treating prototype screenshots, promotional artwork and released gameplay as interchangeable.",
+      },
+      {
+        title: "What to include in a game development brief",
+        text: "Share the core player experience, target devices, existing engine or code, art and audio availability, essential mechanics and the purpose of the next build. Identify what you will supply and what needs design or development. A proposal should specify milestone acceptance, source and asset ownership, testing, build delivery and post-handover support. Cost and timing follow that scope; a complete game cannot be priced reliably from a genre name and a reference screenshot alone.",
+      },
+    ],
+    faqs: [
+      {
+        question:
+          "Do you offer 2D game development services for mobile and PC?",
+        answer:
+          "Yes. I work on 2D and 2.5D game design, gameplay and interfaces for agreed mobile and PC targets. Each platform’s input, performance and release requirements need explicit testing.",
+      },
+      {
+        question: "Can you work with an existing Unity or Godot project?",
+        answer:
+          "The first step is reviewing the engine version, project structure, source access, plugins, assets and required changes. That review determines compatibility and a practical contribution scope.",
+      },
+      {
+        question: "Is Rustbloom already released?",
+        answer:
+          "No release is claimed here. Rustbloom is in development. The gallery shows current gameplay and settings; ANTAR’s separate page presents its launch announcement.",
+      },
+      {
+        question: "Can you also build a game studio website?",
+        answer:
+          "Yes. The Agnix Studio company website is a separate web design and development example, linked through the portfolio. Website work and game production should have separate deliverables.",
+      },
+    ],
+    projectIds: ["rustbloom", "antar"],
   },
 ];
 

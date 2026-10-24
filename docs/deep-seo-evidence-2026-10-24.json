@@ -1,0 +1,4757 @@
+{
+  "checkedAt": "2026-10-24",
+  "scope": "Country-level English estimated keyword demand; latest monthly series may lag or include outliers. Not measured visits or rankings.",
+  "markets": {
+    "US": {
+      "meta": {
+        "projectId": "d496db88-a90e-485f-b908-0dcfd3fc9de1",
+        "url": "https://app.openseo.so/p/d496db88-a90e-485f-b908-0dcfd3fc9de1/keywords"
+      },
+      "keywords": [
+        {
+          "keyword": "mobile app development services",
+          "search_volume": 12100,
+          "keyword_difficulty": 29,
+          "main_intent": "commercial",
+          "cpc": 36.32,
+          "competition": 0.01,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 33100
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 1900
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 1900
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 2400
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 1900
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 2400
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 4400
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 90500
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 2400
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 2900
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 3600
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 3600
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 9900
+            }
+          ]
+        },
+        {
+          "keyword": "ai workflow automation",
+          "search_volume": 1000,
+          "keyword_difficulty": 28,
+          "main_intent": "commercial",
+          "cpc": 31.03,
+          "competition": 0.24,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 880
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 880
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 1300
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 1000
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 880
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 1000
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 1900
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 1300
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 880
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 720
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 590
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 720
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 1300
+            }
+          ]
+        },
+        {
+          "keyword": "mvp development services",
+          "search_volume": 590,
+          "keyword_difficulty": 0,
+          "main_intent": "navigational",
+          "cpc": 49.25,
+          "competition": 0.38,
+          "competition_level": "MEDIUM",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 390
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 880
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 320
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 480
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 720
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 2400
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 390
+            }
+          ]
+        },
+        {
+          "keyword": "whatsapp crm",
+          "search_volume": 320,
+          "keyword_difficulty": 7,
+          "main_intent": "navigational",
+          "cpc": 22.54,
+          "competition": 0.44,
+          "competition_level": "MEDIUM",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 320
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 320
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 390
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 590
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 720
+            }
+          ]
+        },
+        {
+          "keyword": "ecommerce app development",
+          "search_volume": 260,
+          "keyword_difficulty": 7,
+          "main_intent": "commercial",
+          "cpc": 116.62,
+          "competition": 0.07,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 90
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 720
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 140
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 320
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 320
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 480
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 720
+            }
+          ]
+        },
+        {
+          "keyword": "saas development services",
+          "search_volume": 260,
+          "keyword_difficulty": 18,
+          "main_intent": "commercial",
+          "cpc": 62.12,
+          "competition": 0.22,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 170
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 320
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 2400
+            }
+          ]
+        },
+        {
+          "keyword": "whatsapp crm integration",
+          "search_volume": 260,
+          "keyword_difficulty": 10,
+          "main_intent": "commercial",
+          "cpc": 40.49,
+          "competition": 0.01,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 320
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 1000
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 390
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 320
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 170
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 320
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 90
+            }
+          ]
+        },
+        {
+          "keyword": "business process automation services",
+          "search_volume": 210,
+          "keyword_difficulty": 8,
+          "main_intent": "commercial",
+          "cpc": 46.8,
+          "competition": 0.17,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 140
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 390
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 720
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 260
+            }
+          ]
+        },
+        {
+          "keyword": "custom crm development",
+          "search_volume": 210,
+          "keyword_difficulty": 18,
+          "main_intent": "commercial",
+          "cpc": 38.55,
+          "competition": 0.1,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 90
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 140
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 140
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 140
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 140
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 320
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 170
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 320
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 720
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 260
+            }
+          ]
+        },
+        {
+          "keyword": "game development services",
+          "search_volume": 210,
+          "keyword_difficulty": 25,
+          "main_intent": "commercial",
+          "cpc": 12.93,
+          "competition": 0.04,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 390
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 390
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 390
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 140
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 390
+            }
+          ]
+        },
+        {
+          "keyword": "godot game development",
+          "search_volume": 210,
+          "keyword_difficulty": 55,
+          "main_intent": "informational",
+          "cpc": 3.94,
+          "competition": 0.07,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 320
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 260
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 210
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 170
+            }
+          ]
+        },
+        {
+          "keyword": "dry cleaning software",
+          "search_volume": 170,
+          "keyword_difficulty": 17,
+          "main_intent": "commercial",
+          "cpc": 9.24,
+          "competition": 0.46,
+          "competition_level": "MEDIUM",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 90
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 320
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 140
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 170
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 140
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 140
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 140
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 170
+            }
+          ]
+        },
+        {
+          "keyword": "mvp development for startups",
+          "search_volume": 170,
+          "keyword_difficulty": 9,
+          "main_intent": "navigational",
+          "cpc": 51,
+          "competition": 0.05,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 90
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 1000
+            }
+          ]
+        },
+        {
+          "keyword": "unity game development services",
+          "search_volume": 70,
+          "keyword_difficulty": 28,
+          "main_intent": "navigational",
+          "cpc": 7.99,
+          "competition": 0.07,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 140
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 140
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 480
+            }
+          ]
+        },
+        {
+          "keyword": "laundry pos system",
+          "search_volume": 50,
+          "keyword_difficulty": 8,
+          "main_intent": "commercial",
+          "cpc": 37.33,
+          "competition": 0.75,
+          "competition_level": "HIGH",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 50
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 50
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 30
+            }
+          ]
+        },
+        {
+          "keyword": "laundry app development",
+          "search_volume": 40,
+          "keyword_difficulty": 0,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": 0.01,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 90
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 20
+            }
+          ]
+        },
+        {
+          "keyword": "laundry management software",
+          "search_volume": 40,
+          "keyword_difficulty": 0,
+          "main_intent": "commercial",
+          "cpc": 13.04,
+          "competition": 0.27,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 90
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 90
+            }
+          ]
+        },
+        {
+          "keyword": "2d game development services",
+          "search_volume": 10,
+          "keyword_difficulty": 39,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": 0.05,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 70
+            }
+          ]
+        },
+        {
+          "keyword": "nextjs development services",
+          "search_volume": 10,
+          "keyword_difficulty": 16,
+          "main_intent": "navigational",
+          "cpc": null,
+          "competition": null,
+          "competition_level": null,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 0
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 50
+            }
+          ]
+        },
+        {
+          "keyword": "whatsapp chatbot development",
+          "search_volume": 10,
+          "keyword_difficulty": 44,
+          "main_intent": "informational",
+          "cpc": null,
+          "competition": 0,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            }
+          ]
+        }
+      ]
+    },
+    "UK": {
+      "meta": {
+        "projectId": "d496db88-a90e-485f-b908-0dcfd3fc9de1",
+        "url": "https://app.openseo.so/p/d496db88-a90e-485f-b908-0dcfd3fc9de1/keywords"
+      },
+      "keywords": [
+        {
+          "keyword": "mvp development services",
+          "search_volume": 70,
+          "keyword_difficulty": 0,
+          "main_intent": "navigational",
+          "cpc": null,
+          "competition": 0.61,
+          "competition_level": "MEDIUM",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 90
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 170
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 590
+            }
+          ]
+        },
+        {
+          "keyword": "ecommerce app development",
+          "search_volume": 40,
+          "keyword_difficulty": 6,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": 0.04,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 50
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 320
+            }
+          ]
+        },
+        {
+          "keyword": "whatsapp crm integration",
+          "search_volume": 20,
+          "keyword_difficulty": 16,
+          "main_intent": "commercial",
+          "cpc": 26.92,
+          "competition": 0.58,
+          "competition_level": "MEDIUM",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 30
+            }
+          ]
+        },
+        {
+          "keyword": "game development services",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": 0.39,
+          "competition_level": "MEDIUM",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 10
+            }
+          ]
+        },
+        {
+          "keyword": "laundry management software",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": 0.19,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 20
+            }
+          ]
+        },
+        {
+          "keyword": "laundry pos system",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": 54,
+          "competition": 0.86,
+          "competition_level": "HIGH",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            }
+          ]
+        }
+      ]
+    },
+    "India": {
+      "meta": {
+        "projectId": "d496db88-a90e-485f-b908-0dcfd3fc9de1",
+        "url": "https://app.openseo.so/p/d496db88-a90e-485f-b908-0dcfd3fc9de1/keywords"
+      },
+      "keywords": [
+        {
+          "keyword": "mvp development services",
+          "search_volume": 590,
+          "keyword_difficulty": 15,
+          "main_intent": "navigational",
+          "cpc": 2.45,
+          "competition": 0.03,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 590
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 1000
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 880
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 590
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 590
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 720
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 390
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 590
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 880
+            }
+          ]
+        },
+        {
+          "keyword": "ecommerce app development",
+          "search_volume": 320,
+          "keyword_difficulty": 14,
+          "main_intent": "commercial",
+          "cpc": 2.17,
+          "competition": 0.15,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 320
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 480
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 320
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 260
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 320
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 320
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 720
+            }
+          ]
+        },
+        {
+          "keyword": "game development services",
+          "search_volume": 210,
+          "keyword_difficulty": 41,
+          "main_intent": "commercial",
+          "cpc": 0.31,
+          "competition": 0,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 320
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 260
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 140
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 260
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 170
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 140
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 170
+            }
+          ]
+        },
+        {
+          "keyword": "whatsapp crm integration",
+          "search_volume": 210,
+          "keyword_difficulty": 4,
+          "main_intent": "commercial",
+          "cpc": 3.52,
+          "competition": 0.24,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 320
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 390
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 140
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 140
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 170
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 140
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 390
+            }
+          ]
+        },
+        {
+          "keyword": "laundry management software",
+          "search_volume": 140,
+          "keyword_difficulty": 48,
+          "main_intent": "commercial",
+          "cpc": 0.8,
+          "competition": 0.12,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 90
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 90
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 140
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 90
+            }
+          ]
+        },
+        {
+          "keyword": "laundry pos system",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": 0.58,
+          "competition": 0.17,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 0
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            }
+          ]
+        }
+      ]
+    },
+    "Australia": {
+      "meta": {
+        "projectId": "d496db88-a90e-485f-b908-0dcfd3fc9de1",
+        "url": "https://app.openseo.so/p/d496db88-a90e-485f-b908-0dcfd3fc9de1/keywords"
+      },
+      "keywords": [
+        {
+          "keyword": "ai automation services",
+          "search_volume": 90,
+          "keyword_difficulty": 0,
+          "main_intent": "commercial",
+          "cpc": 33.99,
+          "competition": 0.2,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 140
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 140
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 210
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 50
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 170
+            }
+          ]
+        },
+        {
+          "keyword": "custom web application development",
+          "search_volume": 40,
+          "keyword_difficulty": 0,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": 0.02,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 10
+            }
+          ]
+        },
+        {
+          "keyword": "mvp development services",
+          "search_volume": 40,
+          "keyword_difficulty": 0,
+          "main_intent": "navigational",
+          "cpc": 635.06,
+          "competition": 0.17,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 260
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 30
+            }
+          ]
+        },
+        {
+          "keyword": "game development services",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": 0.07,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 0
+            }
+          ]
+        },
+        {
+          "keyword": "grocery delivery app development",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "informational",
+          "cpc": null,
+          "competition": 0,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 0
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 0
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 0
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 90
+            }
+          ]
+        },
+        {
+          "keyword": "whatsapp crm integration",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": null,
+          "competition_level": null,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 10
+            }
+          ]
+        }
+      ]
+    },
+    "Canada": {
+      "meta": {
+        "projectId": "d496db88-a90e-485f-b908-0dcfd3fc9de1",
+        "url": "https://app.openseo.so/p/d496db88-a90e-485f-b908-0dcfd3fc9de1/keywords"
+      },
+      "keywords": [
+        {
+          "keyword": "ai automation services",
+          "search_volume": 50,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": 7.7,
+          "competition": 0.24,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 90
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 50
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 140
+            }
+          ]
+        },
+        {
+          "keyword": "custom web application development",
+          "search_volume": 40,
+          "keyword_difficulty": 4,
+          "main_intent": "commercial",
+          "cpc": 9.78,
+          "competition": 0.1,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 170
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 390
+            }
+          ]
+        },
+        {
+          "keyword": "mvp development services",
+          "search_volume": 30,
+          "keyword_difficulty": 3,
+          "main_intent": "navigational",
+          "cpc": null,
+          "competition": 0.17,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 40
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 90
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 390
+            }
+          ]
+        },
+        {
+          "keyword": "game development services",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": 0,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 50
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 8,
+              "search_volume": 10
+            }
+          ]
+        },
+        {
+          "keyword": "grocery delivery app development",
+          "search_volume": 10,
+          "keyword_difficulty": 39,
+          "main_intent": "informational",
+          "cpc": null,
+          "competition": null,
+          "competition_level": null,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 0
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 0
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 110
+            }
+          ]
+        }
+      ]
+    },
+    "UAE": {
+      "meta": {
+        "projectId": "d496db88-a90e-485f-b908-0dcfd3fc9de1",
+        "url": "https://app.openseo.so/p/d496db88-a90e-485f-b908-0dcfd3fc9de1/keywords"
+      },
+      "keywords": [
+        {
+          "keyword": "ai automation services",
+          "search_volume": 40,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": 6.78,
+          "competition": 0.45,
+          "competition_level": "MEDIUM",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 110
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 70
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 110
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            }
+          ]
+        },
+        {
+          "keyword": "custom web application development",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": null,
+          "competition_level": null,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 30
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 30
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 70
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            }
+          ]
+        },
+        {
+          "keyword": "game development services",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": null,
+          "competition_level": null,
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 0
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 0
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            }
+          ]
+        },
+        {
+          "keyword": "grocery delivery app development",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "informational",
+          "cpc": null,
+          "competition": 0,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 20
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 20
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            }
+          ]
+        },
+        {
+          "keyword": "mvp development services",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "navigational",
+          "cpc": null,
+          "competition": 0.21,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 0
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 40
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            }
+          ]
+        },
+        {
+          "keyword": "whatsapp crm integration",
+          "search_volume": 10,
+          "keyword_difficulty": null,
+          "main_intent": "commercial",
+          "cpc": null,
+          "competition": 0.09,
+          "competition_level": "LOW",
+          "monthly_searches": [
+            {
+              "year": 2026,
+              "month": 9,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 8,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 7,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 6,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 5,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 4,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 3,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 2,
+              "search_volume": 10
+            },
+            {
+              "year": 2026,
+              "month": 1,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 12,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 11,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 10,
+              "search_volume": 10
+            },
+            {
+              "year": 2025,
+              "month": 9,
+              "search_volume": 10
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "searchConsole": {
+    "ok": true,
+    "siteUrl": "sc-domain:sayanthecoder.in",
+    "startDate": "2026-09-24",
+    "endDate": "2026-10-24",
+    "dimensions": ["query", "page", "country"],
+    "rowCount": 0,
+    "rows": [],
+    "hasMore": false,
+    "meta": {
+      "projectId": "d496db88-a90e-485f-b908-0dcfd3fc9de1",
+      "url": "https://app.openseo.so/p/d496db88-a90e-485f-b908-0dcfd3fc9de1/search-performance"
+    }
+  },
+  "analyticsHealth": {
+    "status": "ok",
+    "source": {
+      "provider": "google_analytics_admin",
+      "propertyId": "properties/560564558",
+      "propertyDisplayName": "Sayan Mondal"
+    },
+    "summary": {
+      "dataStreamCount": 1,
+      "webStreamCount": 1,
+      "keyEventCount": 3,
+      "customDimensionCount": 0,
+      "customMetricCount": 0,
+      "issueCount": 2
+    },
+    "issues": [
+      "enhanced_measurement_disabled",
+      "site_search_measurement_disabled"
+    ],
+    "webStreams": [
+      {
+        "streamId": "16195557281",
+        "displayName": "SayanTheCoder",
+        "measurementId": "G-FEVEM1S803",
+        "defaultUri": "https://www.sayanthecoder.in/",
+        "createTime": "2026-10-24T15:11:12.741Z",
+        "updateTime": "2026-10-24T15:11:12.741Z",
+        "enhancedMeasurement": {
+          "streamEnabled": false,
+          "scrollsEnabled": true,
+          "outboundClicksEnabled": true,
+          "siteSearchEnabled": true,
+          "videoEngagementEnabled": true,
+          "fileDownloadsEnabled": true,
+          "pageChangesEnabled": true,
+          "formInteractionsEnabled": true,
+          "searchQueryParameter": "q,s,search,query,keyword",
+          "uriQueryParameter": ""
+        }
+      }
+    ],
+    "otherStreams": [],
+    "keyEvents": [
+      {
+        "eventName": "purchase",
+        "createTime": "2026-10-24T15:11:12.741425Z",
+        "countingMethod": "ONCE_PER_EVENT"
+      },
+      {
+        "eventName": "close_convert_lead",
+        "createTime": "2026-10-24T15:08:25.383993Z",
+        "deletable": true,
+        "custom": true,
+        "countingMethod": "ONCE_PER_EVENT"
+      },
+      {
+        "eventName": "qualify_lead",
+        "createTime": "2026-10-24T15:08:25.383993Z",
+        "deletable": true,
+        "custom": true,
+        "countingMethod": "ONCE_PER_EVENT"
+      }
+    ],
+    "customDefinitions": {
+      "dimensions": [],
+      "metrics": []
+    },
+    "meta": {
+      "projectId": "d496db88-a90e-485f-b908-0dcfd3fc9de1"
+    }
+  },
+  "crawlIssues": {
+    "summary": [
+      {
+        "issueType": "thin-content",
+        "title": "Thin content",
+        "severity": "warning",
+        "count": 3
+      },
+      {
+        "issueType": "title-too-long",
+        "title": "Title too long",
+        "severity": "info",
+        "count": 5
+      },
+      {
+        "issueType": "meta-description-too-long",
+        "title": "Meta description too long",
+        "severity": "info",
+        "count": 1
+      }
+    ],
+    "issues": [
+      {
+        "severity": "warning",
+        "issueType": "thin-content",
+        "title": "Thin content",
+        "url": "https://www.sayanthecoder.in/work/radha",
+        "details": {
+          "wordCount": 144
+        },
+        "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+      },
+      {
+        "severity": "warning",
+        "issueType": "thin-content",
+        "title": "Thin content",
+        "url": "https://www.sayanthecoder.in/work/shotvault",
+        "details": {
+          "wordCount": 97
+        },
+        "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+      },
+      {
+        "severity": "warning",
+        "issueType": "thin-content",
+        "title": "Thin content",
+        "url": "https://www.sayanthecoder.in/work/fullbag",
+        "details": {
+          "wordCount": 95
+        },
+        "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+      },
+      {
+        "severity": "info",
+        "issueType": "meta-description-too-long",
+        "title": "Meta description too long",
+        "url": "https://www.sayanthecoder.in/",
+        "details": {
+          "length": 161,
+          "max": 160,
+          "description": "Websites, Flutter apps, custom software and cloud deployment by Sayan Mondal, founder of Opslin and …"
+        },
+        "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+      },
+      {
+        "severity": "info",
+        "issueType": "title-too-long",
+        "title": "Title too long",
+        "url": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
+        "details": {
+          "length": 69,
+          "max": 60,
+          "title": "Opslin: simpler VPS deployment and AI-assisted DevOps | SayanTheCoder"
+        },
+        "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+      },
+      {
+        "severity": "info",
+        "issueType": "title-too-long",
+        "title": "Title too long",
+        "url": "https://www.sayanthecoder.in/work/bakaloo-platform",
+        "details": {
+          "length": 79,
+          "max": 60,
+          "title": "Bakaloo CRM & Builder — WhatsApp CRM, agentic AI & B2B commerce | SayanTheCoder"
+        },
+        "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+      },
+      {
+        "severity": "info",
+        "issueType": "title-too-long",
+        "title": "Title too long",
+        "url": "https://www.sayanthecoder.in/work/lndry-pos",
+        "details": {
+          "length": 63,
+          "max": 60,
+          "title": "LNDRY POS — In-store laundry POS · Mobile & web | SayanTheCoder"
+        },
+        "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+      },
+      {
+        "severity": "info",
+        "issueType": "title-too-long",
+        "title": "Title too long",
+        "url": "https://www.sayanthecoder.in/work/antar",
+        "details": {
+          "length": 78,
+          "max": 60,
+          "title": "ANTAR — The Last Flame — Game production & launch presentation | SayanTheCoder"
+        },
+        "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+      },
+      {
+        "severity": "info",
+        "issueType": "title-too-long",
+        "title": "Title too long",
+        "url": "https://www.sayanthecoder.in/work/rustbloom",
+        "details": {
+          "length": 63,
+          "max": 60,
+          "title": "Rustbloom — 2D / 2.5D game design & development | SayanTheCoder"
+        },
+        "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+      }
+    ],
+    "meta": {
+      "projectId": "d496db88-a90e-485f-b908-0dcfd3fc9de1",
+      "url": "https://app.openseo.so/p/d496db88-a90e-485f-b908-0dcfd3fc9de1/audit?auditId=8e7e7738-5c45-4ed4-8d23-fd931a1680e0"
+    }
+  },
+  "serps": {
+    "results": [
+      {
+        "keyword": "whatsapp crm integration",
+        "ok": true,
+        "items": [
+          {
+            "type": "ai_overview",
+            "rank": 1,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 2,
+            "organicRank": 1,
+            "title": "Best CRM with WhatsApp Integration 2026: 14 Tools Tested",
+            "url": "https://taskip.net/best-crm-with-whatsapp-integration/",
+            "domain": "taskip.net",
+            "description": "4 days ago — Verdict: Zoho CRM is the best overall CRM with WhatsApp integration, pairing a complete CRM with official WhatsApp Business API messaging at $14 ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 3,
+            "organicRank": 2,
+            "title": "WhatsApp Business Integration - CRM",
+            "url": "https://help.zoho.com/portal/en/kb/crm/connect-with-customers/business-messaging/articles/business-messaging-using-whatsapp-for-business-integration-with-zoho-crm",
+            "domain": "help.zoho.com",
+            "description": "Integrate WhatsApp Business with Zoho CRM · Navigate to Setup > Channels > Business Messaging. · Under WhatsApp, click Details > Integrate. · Acknowledge the ... Read more"
+          },
+          {
+            "type": "people_also_ask",
+            "rank": 4,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 5,
+            "organicRank": 3,
+            "title": "WhatsApp CRM Integration",
+            "url": "https://www.hubspot.com/products/whatsapp-integration",
+            "domain": "www.hubspot.com",
+            "description": "Connect your WhatsApp Business account to HubSpot to manage customer conversations, automate support, and track interactions — all from one shared inbox."
+          },
+          {
+            "type": "video",
+            "rank": 6,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 7,
+            "organicRank": 4,
+            "title": "Best CRMs With WhatsApp Integration (2026)",
+            "url": "https://nethunt.com/blog/whatsapp-crm/",
+            "domain": "nethunt.com",
+            "description": "Sep 28, 2026 — WhatsApp CRM is customer relationship management software connected to a WhatsApp number, so chats sync to contact records and deals."
+          },
+          {
+            "type": "organic",
+            "rank": 8,
+            "organicRank": 5,
+            "title": "Kommo's Guide to WhatsApp CRM",
+            "url": "https://www.kommo.com/blog/whatsapp-crm/",
+            "domain": "www.kommo.com",
+            "description": "Jul 19, 2023 — WhatsApp CRM is a customer relationship management software that integrates with WhatsApp Business API, allowing businesses to communicate and ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 9,
+            "organicRank": 6,
+            "title": "Why Every Business Needs CRM WhatsApp Integration ...",
+            "url": "https://www.wati.io/en/blog/integrating-your-crm-with-whatsapp/",
+            "domain": "www.wati.io",
+            "description": "May 7, 2026 — CRM WhatsApp integration connects WhatsApp Business with your CRM, giving teams a unified view of your sales pipeline with customer chats, data, ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 10,
+            "organicRank": 7,
+            "title": "WhatsApp CRM Integration — Connect Your Stack",
+            "url": "https://gallabox.com/integrations/crm/whatsapp",
+            "domain": "gallabox.com",
+            "description": "Integrate WhatsApp with your CRM in minutes. Sync contacts, automate messages & track conversations. Works with HubSpot, Zoho & more."
+          },
+          {
+            "type": "organic",
+            "rank": 11,
+            "organicRank": 8,
+            "title": "The 7 best CRM with WhatsApp integration to sell more",
+            "url": "https://clientify.com/en/blog/crm/the-7-best-crm-with-whatsapp-to-sell-more",
+            "domain": "clientify.com",
+            "description": "Feb 26, 2026 — The 7 best CRM with WhatsApp integration to sell more · 1. Clientify – All in one, easy to use and with integrated AI · 2. Salesforce – powerful ... Read more"
+          },
+          {
+            "type": "related_searches",
+            "rank": 12,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 13,
+            "organicRank": 9,
+            "title": "WhatsApp for HubSpot, Salesforce & your CRM",
+            "url": "https://respond.io/whatsapp-crm-integration",
+            "domain": "respond.io",
+            "description": "If you already have a CRM, there are two ways to get WhatsApp working with it: 1. Use your CRM's native WhatsApp integration. 2. Connect your CRM to a ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 14,
+            "organicRank": 10,
+            "title": "CRM with WhatsApp Business integration",
+            "url": "https://blog.pluga.co/en/crm-integration-with-whatsapp/",
+            "domain": "blog.pluga.co",
+            "description": "Sep 23, 2025 — CRM integration with WhatsApp can boost sales, improve customer engagement, and streamline operations. Learn how to set it up in this guide."
+          },
+          {
+            "type": "organic",
+            "rank": 15,
+            "organicRank": 11,
+            "title": "6 Best CRM Systems with WhatsApp Integration - Medium",
+            "url": "https://databeys-crm.medium.com/6-best-crm-systems-with-whatsapp-integration-00d99f0e514b",
+            "domain": "databeys-crm.medium.com",
+            "description": "Pipedrive CRM, popular among sales-focused businesses, integrates seamlessly with WhatsApp, augmenting the scope of communication channels ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 16,
+            "organicRank": 12,
+            "title": "WhatsApp CRM: Integration, Automation Workflows & Best ...",
+            "url": "https://dealism.ai/blog/whatsapp-crm-integration-automation-workflows-best-practices",
+            "domain": "dealism.ai",
+            "description": "Mar 8, 2026 — Learn what WhatsApp CRM is, how to integrate WhatsApp with your CRM, and how automation workflows work. Discover top tools and why Dealism's ..."
+          },
+          {
+            "type": "organic",
+            "rank": 17,
+            "organicRank": 13,
+            "title": "WAPlus: WhatsApp CRM for Sales and Customer Management",
+            "url": "https://waplus.io/",
+            "domain": "waplus.io",
+            "description": "WAPlus is a WhatsApp CRM built into WhatsApp Web, helping teams manage leads and customer conversations, automate replies and follow-ups, and sync customer ..."
+          },
+          {
+            "type": "organic",
+            "rank": 18,
+            "organicRank": 14,
+            "title": "CRM Integration with WhatsApp API and Webhook Logic",
+            "url": "https://www.chatarchitect.com/news/crm-integration-with-whatsapp-api-and-webhook-logic-a-comprehensive-guide",
+            "domain": "www.chatarchitect.com",
+            "description": "Sep 29, 2025 — To initiate the integration, start by creating a Meta Developer App. Navigate to the Meta App Dashboard, select \"Business\" type, and add the ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 19,
+            "organicRank": 15,
+            "title": "Best WhatsApp CRM Software: A Guide For Businesses",
+            "url": "https://m.aisensy.com/blog/whatsapp-crm-guide/",
+            "domain": "m.aisensy.com",
+            "description": "Jan 8, 2025 — Explore how WhatsApp CRM software works, key features to look for, and why AiSensy is considered one of the best WhatsApp CRM platforms."
+          },
+          {
+            "type": "organic",
+            "rank": 20,
+            "organicRank": 16,
+            "title": "How to Use WhatsApp for Business CRM to Streamline ...",
+            "url": "https://clickup.com/blog/whatsapp-business-crm/",
+            "domain": "clickup.com",
+            "description": "Dec 19, 2024 — Integrate CRM software with WhatsApp · 1. Set up WhatsApp Business API: · 2. Choose a CRM: · 3. Connect the CRM with WhatsApp API: · 4. Customize ... Read more"
+          }
+        ],
+        "locationCode": 2840,
+        "languageCode": "en",
+        "device": "desktop"
+      },
+      {
+        "keyword": "laundry app development",
+        "ok": true,
+        "items": [
+          {
+            "type": "ai_overview",
+            "rank": 1,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 2,
+            "organicRank": 1,
+            "title": "Laundry App Development Company for Scalable Solutions",
+            "url": "https://www.spaceotechnologies.com/services/laundry-app-development/",
+            "domain": "www.spaceotechnologies.com",
+            "description": "Partner with a trusted laundry app development company to build scalable, feature-rich laundry apps with pickup, delivery, and real-time tracking solutions."
+          },
+          {
+            "type": "organic",
+            "rank": 3,
+            "organicRank": 2,
+            "title": "How Do You Make a Laundry App? - The Ultimate Guide",
+            "url": "https://gtechwebsolutions.com/blog/complete-guide-for-on-demand-laundry-app-development/",
+            "domain": "gtechwebsolutions.com",
+            "description": "On-demand laundry app development is a process that requires time, investment, and professional skill sets. These services could include washing, steam ironing ..."
+          },
+          {
+            "type": "people_also_ask",
+            "rank": 4,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 5,
+            "organicRank": 3,
+            "title": "Top 10 Laundry App Developers in the USA - Appfur",
+            "url": "https://appfur.com/top-10-laundry-app-developers-in-the-usa/",
+            "domain": "appfur.com",
+            "description": "1. Appfur – Leading Global Laundry App Developer Serving the USA · 2. Fueled · 3. WillowTree · 4. Intellectsoft · 5. Savvy Apps · 6. ChopDawg · 7. Blue Label Labs · 8. Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 6,
+            "organicRank": 4,
+            "title": "On-Demand Laundry App Development Guide 2026",
+            "url": "https://www.techugo.com/blog/what-all-it-takes-to-build-an-on-demand-laundry-app/",
+            "domain": "www.techugo.com",
+            "description": "May 5, 2026 — A basic laundry app can start from $30,000. On average, it takes around 3 to 6 months depending on app complexity and feature requirements. ..."
+          },
+          {
+            "type": "video",
+            "rank": 7,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 8,
+            "organicRank": 5,
+            "title": "How To Develop An On-Demand Laundry App In 2024",
+            "url": "https://www.sufalamtech.com/blog/on-demand-laundry-mobile-app",
+            "domain": "www.sufalamtech.com",
+            "description": "Aug 5, 2023 — Development: · Start developing the app based on the finalized wireframes and design. · Set up user registration and authentication features. Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 9,
+            "organicRank": 6,
+            "title": "Laundry App Development Services | Custom On-Demand ...",
+            "url": "https://coderower.com/page/laundry-app-development-services/",
+            "domain": "coderower.com",
+            "description": "Custom laundry app development services to build on-demand pickup and delivery apps. Get scalable, user-friendly solutions tailored to your laundry business. Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 10,
+            "organicRank": 7,
+            "title": "Laundry App Development Cost in 2026: An Ultimate Guide",
+            "url": "https://crinpro.io/blog/laundry-app-development-cost/",
+            "domain": "crinpro.io",
+            "description": "May 21, 2026 — The laundry app development cost in 2026 ranges from £25,000 – £40,000 for a basic app to £100,000+ for a full-scale custom app, depending on ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 11,
+            "organicRank": 8,
+            "title": "On-Demand Laundry App Development: Key Features & ...",
+            "url": "https://www.idiosystech.com/blogs/laundry-app-development",
+            "domain": "www.idiosystech.com",
+            "description": "Feb 11, 2025 — Reduce missed pickups, streamline deliveries, and improve customer satisfaction with laundry app development personalized to the business ..."
+          },
+          {
+            "type": "organic",
+            "rank": 12,
+            "organicRank": 9,
+            "title": "On-Demand Laundry App Development: Key Features & ...",
+            "url": "https://www.idiosystech.com/blogs/laundry-app-development",
+            "domain": "www.idiosystech.com",
+            "description": "Feb 11, 2025 — Reduce missed pickups, streamline deliveries, and improve customer satisfaction with laundry app development personalized to the business ..."
+          },
+          {
+            "type": "organic",
+            "rank": 13,
+            "organicRank": 10,
+            "title": "On-Demand Laundry App Development: A Complete ...",
+            "url": "https://www.appventurez.com/blog/on-demand-delivery-app-for-laundry-service",
+            "domain": "www.appventurez.com",
+            "description": "How Much Does It Cost To Develop An On-demand Laundry App? Answer the on-demand app development cost, in short, it starts from $200,000 and goes beyond $400,000 ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 14,
+            "organicRank": 11,
+            "title": "On-Demand Laundry App Development: Solution Specific ...",
+            "url": "https://www.techugo.com/blog/on-demand-laundry-app-development-solution-specific-for-your-business-expansion/",
+            "domain": "www.techugo.com",
+            "description": "May 18, 2023 — Management of the laundry business becomes seamless with a laundry app that lets startups manage orders, dispatch the same, update the status, ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 15,
+            "organicRank": 12,
+            "title": "7 Tips for Building a Laundry App: Wash Away the ...",
+            "url": "https://www.idiosystech.com/blogs/7-tips-for-building-a-laundry-app",
+            "domain": "www.idiosystech.com",
+            "description": "How much time does it take to develop a laundry app? The timeline depends on your feature list and complexity. Basic apps take 6–8 weeks, while advanced ones ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 16,
+            "organicRank": 13,
+            "title": "8 Steps to Follow for On-Demand Laundry App ...",
+            "url": "https://www.cmarix.com/blog/laundry-app-development/",
+            "domain": "www.cmarix.com",
+            "description": "Jun 22, 2026 — Want to start your online laundry business in 2024? Learn how to develop an on-demand laundry app in just 8 simple steps, along with its ..."
+          },
+          {
+            "type": "organic",
+            "rank": 17,
+            "organicRank": 14,
+            "title": "How to Create a Compelling On-Demand Laundry App?",
+            "url": "https://codiant.com/blog/on-demand-laundry-app/",
+            "domain": "codiant.com",
+            "description": "Apr 28, 2022 — Discover the convenience of on-demand mobile app for your laundry business with our user-friendly and efficient laundry app development ..."
+          },
+          {
+            "type": "organic",
+            "rank": 18,
+            "organicRank": 15,
+            "title": "Top 10 Laundry Mobile App Development Companies in New ...",
+            "url": "https://appfur.com/top-10-laundry-mobile-app-development-companies-in-new-york/",
+            "domain": "appfur.com",
+            "description": "Build Your Laundry Mobile App with Appfur. At Appfur, we help businesses turn digital product ideas into mobile applications tailored to their operational needs ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 19,
+            "organicRank": 16,
+            "title": "Comprehensive Guide to Laundry App Development",
+            "url": "https://www.lokaly.in/blog/comprehensive-guide-to-laundry-app-development/",
+            "domain": "www.lokaly.in",
+            "description": "Aug 7, 2023 — The Laundry Marketplace App operates on a similar model to the aggregator approach, enabling app owners to arrange pickup and delivery services. Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 20,
+            "organicRank": 17,
+            "title": "On-demand laundry app development services",
+            "url": "https://www.aoxapps.com/laundry-app-development-company",
+            "domain": "www.aoxapps.com",
+            "description": "Looking to hire laundry app developers to build a successful on-demand laundry app? AOX Apps is a leading app development company with proven experience."
+          }
+        ],
+        "locationCode": 2840,
+        "languageCode": "en",
+        "device": "desktop"
+      },
+      {
+        "keyword": "game development services",
+        "ok": true,
+        "items": [
+          {
+            "type": "ai_overview",
+            "rank": 1,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 2,
+            "organicRank": 1,
+            "title": "Game Development Services | Game Dev Studio Company",
+            "url": "https://objects.ws/service/game-development-services/",
+            "domain": "objects.ws",
+            "description": "Objects offers full-cycle Game Development Services, creating large-scale projects with modern technologies and unique artistic styles."
+          },
+          {
+            "type": "organic",
+            "rank": 3,
+            "organicRank": 2,
+            "title": "Top 10 Game Development Companies in Austin",
+            "url": "https://www.juegostudio.com/blog/gaming-companies-in-austin",
+            "domain": "www.juegostudio.com",
+            "description": "Feb 26, 2026 — Our Game Development Services. Mobile Game Development. Get full-cycle mobile game development from experienced game developers in Austin. Read more"
+          },
+          {
+            "type": "people_also_ask",
+            "rank": 4,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 5,
+            "organicRank": 3,
+            "title": "Which company is providing the best 3D game ...",
+            "url": "https://www.quora.com/Which-company-is-providing-the-best-3D-game-development-services",
+            "domain": "www.quora.com",
+            "description": "Which company is providing the best 3D game development services?"
+          },
+          {
+            "type": "organic",
+            "rank": 6,
+            "organicRank": 4,
+            "title": "Mobile Game Development Company",
+            "url": "https://innowise.com/mobile-app/development/game/",
+            "domain": "innowise.com",
+            "description": "Custom mobile game development services creating engaging iOS and Android games. Full-cycle development from concept to launch, boosting user retention."
+          },
+          {
+            "type": "organic",
+            "rank": 7,
+            "organicRank": 5,
+            "title": "Game Developers for Hire",
+            "url": "https://starloopstudios.com/game-developers-for-hire/",
+            "domain": "starloopstudios.com",
+            "description": "Feb 3, 2023 — Starting with the concept, we develop video games until its launch and beyond. We can also help you in game porting, legacy game support, 2D & ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 8,
+            "organicRank": 6,
+            "title": "Top 100+ Game Development Companies in 2026",
+            "url": "https://techreviewer.co/top-game-development-companies",
+            "domain": "techreviewer.co",
+            "description": "Looking for ☝️ the best game developers? Find, compare and hire the top game development companies for your project."
+          },
+          {
+            "type": "organic",
+            "rank": 9,
+            "organicRank": 7,
+            "title": "Game Development Software: Create 2D & 3D Games",
+            "url": "https://unity.com/games",
+            "domain": "unity.com",
+            "description": "Unity game development software enables you to create high-quality 3D and 2D games and deploy them across platforms like desktop, mobile, VR/AR, ..."
+          },
+          {
+            "type": "organic",
+            "rank": 10,
+            "organicRank": 8,
+            "title": "Game Development",
+            "url": "https://develop.games/",
+            "domain": "develop.games",
+            "description": "Unlike the actual devil, Ko-Fi charges a flat fee for their subscription service. Right now it's 54$ a year. That's 4.50$ per month. No hidden percentages or ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 11,
+            "organicRank": 9,
+            "title": "Top-notch Game Development Services",
+            "url": "https://fulminoussoftware.com/game-development-services",
+            "domain": "fulminoussoftware.com",
+            "description": "Looking for expert game development services? We specialize in custom game design, mobile and PC game development, and cross-platform solutions."
+          },
+          {
+            "type": "related_searches",
+            "rank": 12,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 13,
+            "organicRank": 10,
+            "title": "List of video game developers",
+            "url": "https://en.wikipedia.org/wiki/List_of_video_game_developers",
+            "domain": "en.wikipedia.org",
+            "description": "This is a list of notable video game companies that have made games for either computers (like PC or Mac), video game consoles, handheld or mobile devices, ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 14,
+            "organicRank": 11,
+            "title": "Top Online Game Development Companies - 2026 Reviews",
+            "url": "https://www.goodfirms.co/game-development-companies/online",
+            "domain": "www.goodfirms.co",
+            "description": "What services do online game development companies offer? Online game development companies typically offer game design, 2D/3D art, programming, UI/UX, QA ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 15,
+            "organicRank": 12,
+            "title": "Game Developers for Hire | Vention",
+            "url": "https://ventionteams.com/solutions/gamedev",
+            "domain": "ventionteams.com",
+            "description": "Our specialized game development divisions are dynamic, packed with top engineers, and ready to support your game projects. Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 16,
+            "organicRank": 13,
+            "title": "15 Top Game Development Outsourcing Companies to Hire",
+            "url": "https://gamestudio.n-ix.com/top-game-development-outsourcing-companies-to-hire/",
+            "domain": "gamestudio.n-ix.com",
+            "description": "Aug 13, 2025 — 15 Top Game Development Outsourcing Companies to Hire · N-iX Games · Blind Squirrel Games · Secret 6 · Anshar Studios · Starloop Studios · Winking ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 17,
+            "organicRank": 14,
+            "title": "Top 25 Game development outsourcing companies based ...",
+            "url": "https://revenuebase.ai/companies/game-development-outsourcing-companies/united-states",
+            "domain": "revenuebase.ai",
+            "description": "Sep 28, 2026 — “Enduring Games provides specialized console video game co-development services, creates high-quality ports and retargets, publishes games ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 18,
+            "organicRank": 15,
+            "title": "Best Game Development Companies in New York - 2026",
+            "url": "https://www.rightfirms.co/directory/game-development-services/state/new-york",
+            "domain": "www.rightfirms.co",
+            "description": "Oct 15, 2026 — Looking for trusted game development companies in New York? Explore top developers for mobile, PC, console, and immersive gaming projects."
+          },
+          {
+            "type": "organic",
+            "rank": 19,
+            "organicRank": 16,
+            "title": "Game Development Companies In USA: A Comprehensive ...",
+            "url": "https://nipsapp.com/game-development-companies-in-usa-a-comprehensive-guide/",
+            "domain": "nipsapp.com",
+            "description": "May 13, 2026 — American game development companies offer full cycle services from concept to launch including game design, art and animation, AR/VR creation, ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 20,
+            "organicRank": 17,
+            "title": "Top 10+ Game Development Companies in Texas",
+            "url": "https://www.goodfirms.co/game-development-companies/texas",
+            "domain": "www.goodfirms.co",
+            "description": "Goodfirms has reviewed 78 Video Game Development Companies in Texas as of October 2026. The top-ranked firm is Argentics (5.0 stars, 29 verified reviews, $25 - ... Read more"
+          }
+        ],
+        "locationCode": 2840,
+        "languageCode": "en",
+        "device": "desktop"
+      },
+      {
+        "keyword": "mvp development services",
+        "ok": true,
+        "items": [
+          {
+            "type": "ai_overview",
+            "rank": 1,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 2,
+            "organicRank": 1,
+            "title": "MVP Development Company",
+            "url": "https://s-pro.io/mvp-development-services",
+            "domain": "s-pro.io",
+            "description": "Our MVP development services · Prototype Design · Market Research and Validation · UI/UX Design · Front-End Development · Back-End Development · API Integration. Read more"
+          },
+          {
+            "type": "people_also_ask",
+            "rank": 3,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 4,
+            "organicRank": 2,
+            "title": "MVP Development Services",
+            "url": "https://www.techformation.io/software-services/mvp-development",
+            "domain": "www.techformation.io",
+            "description": "From concept validation to scaling, we provide full-spectrum MVP development services, including strategy, UX/UI design, full stack development, AI integration,"
+          },
+          {
+            "type": "organic",
+            "rank": 5,
+            "organicRank": 3,
+            "title": "MVP Development Company",
+            "url": "https://www.scnsoft.com/software-development/mvp/services",
+            "domain": "www.scnsoft.com",
+            "description": "End-to-end MVP development services by 550+ developers delivering rapid product builds, from prototype to startup-ready software."
+          },
+          {
+            "type": "organic",
+            "rank": 6,
+            "organicRank": 4,
+            "title": "How MVP Development Services Fast-Track Product- ...",
+            "url": "https://www.linkedin.com/pulse/how-mvp-development-services-fast-track-product-market-smiac",
+            "domain": "www.linkedin.com",
+            "description": "MVP development services refer to professional offerings that help businesses design, develop, and launch a minimum viable product—the simplest ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 7,
+            "organicRank": 5,
+            "title": "MVP Development Services",
+            "url": "https://www.moonshot.partners/services/mvp-development-services",
+            "domain": "www.moonshot.partners",
+            "description": "As a specialized development company, we help startups and businesses launch Minimum Viable Products (MVP) that are both functional and scalable,"
+          },
+          {
+            "type": "organic",
+            "rank": 8,
+            "organicRank": 6,
+            "title": "Choosing the best MVP development companies",
+            "url": "https://blackthorn-vision.com/blog/best-mvp-development-companies/",
+            "domain": "blackthorn-vision.com",
+            "description": "Mar 5, 2026 — An MVP development company is a specialized entity that focuses on rapidly conceptualizing, designing, and engineering initial product versions. Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 9,
+            "organicRank": 7,
+            "title": "Minimum Viable Product (MVP) Development Services",
+            "url": "https://www.impekable.com/services/mvp-development/",
+            "domain": "www.impekable.com",
+            "description": "What is MVP Development? MVPs, or 'minimum viable products', involve building out a product's core features so that early users can get a sense of its value. Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 10,
+            "organicRank": 8,
+            "title": "MVP Development Services: Your Startup's Path to Success",
+            "url": "https://vocal.media/journal/mvp-development-services-your-startup-s-path-to-success",
+            "domain": "vocal.media",
+            "description": "MVP development services offer startups an incredible opportunity to test ideas, attract investors, and scale efficiently. The key is finding the right balance ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 11,
+            "organicRank": 9,
+            "title": "MVP Development Services to Accelerate Your Startup ...",
+            "url": "https://sdsol.com/mvp-development-services/",
+            "domain": "sdsol.com",
+            "description": "MVP development services help you build a Minimum Viable Product—a version of your software with just enough features to satisfy early adopters and validate ... Read more"
+          },
+          {
+            "type": "related_searches",
+            "rank": 12,
+            "organicRank": null,
+            "title": null,
+            "url": null,
+            "domain": null,
+            "description": null
+          },
+          {
+            "type": "organic",
+            "rank": 13,
+            "organicRank": 10,
+            "title": "Why Fast-Growing Teams Choose an MVP Development ...",
+            "url": "https://devot.team/blog/mvp-development-service",
+            "domain": "devot.team",
+            "description": "Nov 24, 2025 — An mvp development service helps teams prioritize learning over guesswork, using a structured approach to identify customer needs, informed by ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 14,
+            "organicRank": 11,
+            "title": "Top MVP Development Companies in 2026",
+            "url": "https://www.designrush.com/agency/software-development/mvp-development-company",
+            "domain": "www.designrush.com",
+            "description": "Compare top MVP development companies in 2026 that build functional products for testing and launch. Review expertise, client feedback, team size, ..."
+          },
+          {
+            "type": "organic",
+            "rank": 15,
+            "organicRank": 12,
+            "title": "MVP Development Services",
+            "url": "https://appinventiv.com/mvp-development/",
+            "domain": "appinventiv.com",
+            "description": "Appinventiv is a trusted MVP development company that offers exceptional MVP development services to bring your product to life."
+          },
+          {
+            "type": "organic",
+            "rank": 16,
+            "organicRank": 13,
+            "title": "Startup & MVP Services",
+            "url": "https://ost.agency/services/startup-and-mvp-services/",
+            "domain": "ost.agency",
+            "description": "Launch faster with MVP development services and startup software development services delivered by an experienced MVP software development company."
+          },
+          {
+            "type": "organic",
+            "rank": 17,
+            "organicRank": 14,
+            "title": "MVP Development Services for Startups",
+            "url": "https://www.freshcodeit.com/services/mvp-development-for-startups",
+            "domain": "www.freshcodeit.com",
+            "description": "MVP costs typically range from $25,000 to $50,000 for a standard MVP, depending on complexity, features, and technology stack. We offer flexible plans starting ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 18,
+            "organicRank": 15,
+            "title": "MVP Development for Startups - Vention",
+            "url": "https://ventionteams.com/services/startup/mvp",
+            "domain": "ventionteams.com",
+            "description": "Building – Our MVP development services for startups cover the entire software development process, from conceptualization to the final product. · Testing – ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 19,
+            "organicRank": 16,
+            "title": "MVP Development Services for Startups in 2026- Guide",
+            "url": "https://scalevista.com/blog/mvp-development-services-for-startups-guide/",
+            "domain": "scalevista.com",
+            "description": "Aug 4, 2026 — An MVP development company helps startups create a minimal version of their product with essential features to test the market, validate ideas, ... Read more"
+          },
+          {
+            "type": "organic",
+            "rank": 20,
+            "organicRank": 17,
+            "title": "Best 22 MVP Development Companies",
+            "url": "https://s-pro.io/mvp-development-companies",
+            "domain": "s-pro.io",
+            "description": "MVP development companies help startups build minimum viable products (MVPs). Find leading MVP development agencies specializing in MVP software ..."
+          }
+        ],
+        "locationCode": 2840,
+        "languageCode": "en",
+        "device": "desktop"
+      }
+    ],
+    "meta": {
+      "projectId": "d496db88-a90e-485f-b908-0dcfd3fc9de1",
+      "url": "https://app.openseo.so/p/d496db88-a90e-485f-b908-0dcfd3fc9de1/keywords"
+    }
+  }
+}

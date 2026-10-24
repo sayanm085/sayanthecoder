@@ -10,7 +10,7 @@ import {
 import { jsonLd, siteOrigin } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: opslinGuideTitle,
+  title: { absolute: "Opslin VPS Deployment & AI DevOps — Sayan Mondal" },
   description: opslinGuideDescription,
   authors: [{ name: "Sayan Mondal", url: siteOrigin }],
   alternates: { canonical: opslinGuidePath },

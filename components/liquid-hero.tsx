@@ -56,6 +56,12 @@ export function LiquidHero() {
     const resize = () => {
       clear();
       bounds = container.getBoundingClientRect();
+      if (!canAnimate()) {
+        // Keep the sharp static portrait without allocating desktop-sized buffers.
+        canvas.width = mask.width = cover.width = 1;
+        canvas.height = mask.height = cover.height = 1;
+        return;
+      }
       // Preserve Retina detail while bounding the three canvas buffers.
       dpr = Math.min(
         window.devicePixelRatio || 1,
@@ -170,7 +176,7 @@ export function LiquidHero() {
       if (document.hidden) clear();
     };
     const preferenceChange = () => {
-      if (!canAnimate()) clear();
+      resize();
     };
     const resizeObserver = new ResizeObserver(resize);
     resizeObserver.observe(container);

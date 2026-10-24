@@ -1,0 +1,144 @@
+[
+  {
+    "url": "https://www.sayanthecoder.in/services/website-web-app-development",
+    "status": 200,
+    "title": "Custom Web Application Development \u2014 Sayan Mondal",
+    "visible_headings": [
+      "Website & Custom Web Application Development",
+      "A business website or a web application?",
+      "Design, development and the supporting systems",
+      "Mobile usability and a clear release path",
+      "Real websites and operational products",
+      "What you receive with a custom web application",
+      "Get an estimate with the right assumptions",
+      "Working together across borders.",
+      "Explore the related work.",
+      "LNDRY",
+      "Agnix Studio",
+      "Bakaloo CRM & Builder",
+      "Questions before getting started.",
+      "Other ways I can help.",
+      "Let\u2019s understand your project."
+    ],
+    "phrases": {
+      "website development services": true,
+      "custom web application development": true,
+      "What you receive with a custom web application": true
+    },
+    "visible_text_matches_local_build": true
+  },
+  {
+    "url": "https://www.sayanthecoder.in/services/devops-cloud-deployment",
+    "status": 200,
+    "title": "DevOps Consulting Services & Deployment \u2014 Sayan Mondal",
+    "visible_headings": [
+      "DevOps Consulting & Cloud Deployment",
+      "A deployment is more than a successful build",
+      "Start with the workload and the server you control",
+      "Build a repeatable path to production",
+      "CI/CD implementation and deployment acceptance checks",
+      "Operate and hand over the system",
+      "Opslin is evidence of this work",
+      "Working together across borders.",
+      "Explore the related work.",
+      "Opslin",
+      "ShotVault",
+      "Questions before getting started.",
+      "Other ways I can help.",
+      "Let\u2019s understand your project."
+    ],
+    "phrases": {
+      "DevOps consulting services": true,
+      "CI/CD implementation and deployment acceptance checks": true
+    },
+    "visible_text_matches_local_build": true
+  },
+  {
+    "url": "https://www.sayanthecoder.in/services/flutter-app-development",
+    "status": 200,
+    "title": "Flutter App Development Services \u2014 Sayan Mondal",
+    "visible_headings": [
+      "Flutter App Development",
+      "Start with the customer journey",
+      "A shared Flutter codebase with platform checks",
+      "Connect the app to real operations",
+      "Real applications and separate business workflows",
+      "From prototype to a maintainable release",
+      "Working together across borders.",
+      "Explore the related work.",
+      "FreshCart",
+      "Dealker",
+      "Bakaloo",
+      "LNDRY",
+      "LNDRY POS",
+      "Questions before getting started.",
+      "Other ways I can help.",
+      "Let\u2019s understand your project."
+    ],
+    "phrases": {
+      "Flutter App Development": true,
+      "shared Flutter codebase": true
+    },
+    "visible_text_matches_local_build": true
+  },
+  {
+    "url": "https://www.sayanthecoder.in/services/custom-software-ai-development",
+    "status": 200,
+    "title": "AI Automation & Custom Software Services \u2014 Sayan Mondal",
+    "visible_headings": [
+      "AI Automation & Custom Software Development",
+      "Define the workflow before choosing the features",
+      "Web products and business dashboards",
+      "AI agent development services for a specific business task",
+      "AI that works within a defined boundary",
+      "Connected commerce, CRM and operational systems",
+      "WhatsApp CRM and workflow automation: define the boundary",
+      "A delivery process that includes deployment",
+      "Working together across borders.",
+      "Explore the related work.",
+      "Bakaloo CRM & Builder",
+      "LNDRY POS",
+      "Opslin",
+      "Questions before getting started.",
+      "Other ways I can help.",
+      "Let\u2019s understand your project."
+    ],
+    "phrases": {
+      "AI automation services": true,
+      "AI agent development services": true,
+      "WhatsApp CRM and workflow automation": true
+    },
+    "visible_text_matches_local_build": true
+  },
+  {
+    "url": "https://www.sayanthecoder.in/services/grocery-delivery-app-development",
+    "status": 200,
+    "title": "Grocery Delivery App Development \u2014 Sayan Mondal",
+    "visible_headings": [
+      "Grocery Delivery App Development",
+      "Choose a single-store, multi-store or B2B grocery model",
+      "The customer app: discovery through order updates",
+      "The store dashboard and delivery workflow",
+      "What FreshCart and Bakaloo show",
+      "What affects grocery app development cost?",
+      "A useful first release and an acceptance checklist",
+      "Prepare a grocery app brief",
+      "Working together across borders.",
+      "Explore the related work.",
+      "FreshCart",
+      "Bakaloo",
+      "Bakaloo CRM & Builder",
+      "Questions before getting started.",
+      "Other ways I can help.",
+      "Let\u2019s understand your project."
+    ],
+    "phrases": {
+      "Grocery Delivery App Development": true,
+      "What affects grocery app development cost?": true,
+      "FreshCart": true,
+      "Bakaloo": true,
+      "A useful first release and an acceptance checklist": true
+    },
+    "visible_text_matches_local_build": true
+  }
+]

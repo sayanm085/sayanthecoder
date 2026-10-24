@@ -91,6 +91,12 @@ export default async function ServicePage({ params }: Props) {
                   {
                     "@type": "ListItem",
                     position: 2,
+                    name: "Development services",
+                    item: `${siteOrigin}/services`,
+                  },
+                  {
+                    "@type": "ListItem",
+                    position: 3,
                     name: service.title,
                     item: url,
                   },
@@ -102,13 +108,15 @@ export default async function ServicePage({ params }: Props) {
       />
       <header className="work-detail-header shell">
         <Brand href="/" />
-        <Link className="text-link" href="/#services">
-          All expertise →
+        <Link className="text-link" href="/services">
+          All development services →
         </Link>
       </header>
       <main id="main" className="opslin-guide service-page shell">
         <nav className="project-breadcrumbs" aria-label="Breadcrumb">
           <Link href="/">Home</Link>
+          <span>/</span>
+          <Link href="/services">Development services</Link>
           <span>/</span>
           <span aria-current="page">{service.title}</span>
         </nav>

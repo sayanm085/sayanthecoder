@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { usePathname } from "next/navigation";
+import Link from "next/link";
 import {
   ANALYTICS_CONSENT_KEY,
   analyticsPageLocation,
@@ -135,7 +136,8 @@ function MeasurementConsent({ measurementId }: { measurementId: string }) {
             <strong>Help improve this website?</strong> Optional Google
             Analytics measures visits, approximate country and enquiry-button
             activity. Your name, email and project message are excluded from our
-            events. Your choice does not affect contacting Sayan.
+            events. Your choice does not affect contacting Sayan.{" "}
+            <Link href="/privacy">Privacy details</Link>.
           </p>
           <div>
             <button onClick={() => choose("denied")}>Decline</button>

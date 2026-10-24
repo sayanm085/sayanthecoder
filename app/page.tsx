@@ -396,7 +396,13 @@ export default function Home() {
                       className="text-link service-scope-link"
                       href={`/services/${servicePages.find((page) => page.serviceTitles.includes(service.title))!.slug}`}
                     >
-                      Explore the scope and related projects <Arrow />
+                      Explore{" "}
+                      {
+                        servicePages.find((page) =>
+                          page.serviceTitles.includes(service.title),
+                        )!.title
+                      }{" "}
+                      <Arrow />
                     </a>
                   ) : null}
                   <button
@@ -587,6 +593,7 @@ export default function Home() {
               <a href="#about">About me</a>
               <a href="#services">Expertise</a>
               <Link href="/services">Development services</Link>
+              <Link href="/privacy">Privacy & analytics</Link>
               <Link href="/insights/website-app-project-brief">
                 Project brief checklist
               </Link>
