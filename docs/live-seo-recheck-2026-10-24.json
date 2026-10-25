@@ -1,10 +1,11 @@
 {
-  "checked_at": "2026-10-24T16:21:51.910715+00:00",
+  "checked_at": "2026-10-24T16:59:07.378632+00:00",
   "scope": "Raw HTTP and server-rendered HTML; no browser, field performance, indexing or ranking measurements",
   "sitemap_status": 200,
   "sitemap_urls": [
     "https://www.sayanthecoder.in",
     "https://www.sayanthecoder.in/services",
+    "https://www.sayanthecoder.in/privacy",
     "https://www.sayanthecoder.in/insights/website-app-project-brief",
     "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
     "https://www.sayanthecoder.in/services/website-web-app-development",
@@ -12,6 +13,8 @@
     "https://www.sayanthecoder.in/services/flutter-app-development",
     "https://www.sayanthecoder.in/services/custom-software-ai-development",
     "https://www.sayanthecoder.in/services/grocery-delivery-app-development",
+    "https://www.sayanthecoder.in/services/laundry-app-pos-development",
+    "https://www.sayanthecoder.in/services/game-development-unity-godot",
     "https://www.sayanthecoder.in/work/freshcart",
     "https://www.sayanthecoder.in/work/dealker",
     "https://www.sayanthecoder.in/work/bakaloo",
@@ -38,10 +41,10 @@
       "title": "Sayan Mondal | Web, App & DevOps Developer",
       "h1_count": 1,
       "canonical": ["https://www.sayanthecoder.in"],
-      "description": "Websites, Flutter apps, custom software and cloud deployment by Sayan Mondal, founder of Opslin and Shotlin. Based in Kolkata, working with businesses worldwide.",
+      "description": "Websites, Flutter apps, custom software and cloud deployment by Sayan Mondal, founder of Opslin and Shotlin. Based in Kolkata; working worldwide.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 158460,
+      "html_bytes": 159642,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -64,7 +67,9 @@
         "/services/flutter-app-development",
         "/services/custom-software-ai-development",
         "/services/devops-cloud-deployment",
+        "/services/game-development-unity-godot",
         "/services",
+        "/privacy",
         "/insights/website-app-project-brief",
         "/insights/opslin-vps-deployment"
       ]
@@ -79,7 +84,7 @@
       "description": "Explore websites, Flutter apps, custom software, AI workflows and cloud deployment by Sayan Mondal. Based in Kolkata, serving remote businesses worldwide.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 22637,
+      "html_bytes": 24615,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -91,9 +96,27 @@
         "/services/flutter-app-development",
         "/services/custom-software-ai-development",
         "/services/grocery-delivery-app-development",
+        "/services/laundry-app-pos-development",
+        "/services/game-development-unity-godot",
         "/insights/website-app-project-brief",
         "/#contact"
       ]
+    },
+    {
+      "url": "https://www.sayanthecoder.in/privacy",
+      "status": 200,
+      "final_url": "https://www.sayanthecoder.in/privacy",
+      "title": "Website Privacy & Analytics \u2014 Sayan Mondal",
+      "h1_count": 1,
+      "canonical": ["https://www.sayanthecoder.in/privacy"],
+      "description": "How this portfolio handles optional analytics, enquiry drafts, Gmail and WhatsApp handoffs, and preferences. Contact Sayan Mondal with privacy questions.",
+      "robots": "max-image-preview:large",
+      "x_robots_tag": null,
+      "html_bytes": 20312,
+      "schema_count": 1,
+      "schema_parse_errors": [],
+      "images_missing_alt": [],
+      "internal_links": ["/"]
     },
     {
       "url": "https://www.sayanthecoder.in/insights/website-app-project-brief",
@@ -107,7 +130,7 @@
       "description": "A practical website and app project brief: goals, users, workflows, integrations, budget, remote delivery and handover. By developer Sayan Mondal.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 36201,
+      "html_bytes": 35913,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -127,7 +150,7 @@
       "url": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
       "status": 200,
       "final_url": "https://www.sayanthecoder.in/insights/opslin-vps-deployment",
-      "title": "Opslin: simpler VPS deployment and AI-assisted DevOps | SayanTheCoder",
+      "title": "Opslin VPS Deployment & AI DevOps \u2014 Sayan Mondal",
       "h1_count": 1,
       "canonical": [
         "https://www.sayanthecoder.in/insights/opslin-vps-deployment"
@@ -135,7 +158,7 @@
       "description": "Sayan Mondal, founder of Opslin, explains deploying to your own Linux VPS, Git releases, monitoring, rollback and permissioned AI operations with MCP beta.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 49849,
+      "html_bytes": 49532,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -153,22 +176,23 @@
       "description": "Website development services and custom web applications by Sayan Mondal: Next.js dashboards, booking and commerce, with real project examples.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 35243,
+      "html_bytes": 36359,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
       "internal_links": [
         "/",
-        "/#services",
+        "/services",
         "/insights/website-app-project-brief",
         "/work/lndry",
         "/work/agnix-studio",
         "/work/bakaloo-platform",
-        "/services",
         "/services/devops-cloud-deployment",
         "/services/flutter-app-development",
         "/services/custom-software-ai-development",
         "/services/grocery-delivery-app-development",
+        "/services/laundry-app-pos-development",
+        "/services/game-development-unity-godot",
         "/insights/opslin-vps-deployment"
       ]
     },
@@ -184,21 +208,22 @@
       "description": "DevOps consulting services for Linux VPS deployment, Docker and CI/CD. Work with Sayan Mondal, founder of Opslin, on releases, monitoring and handover.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 34283,
+      "html_bytes": 35399,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
       "internal_links": [
         "/",
-        "/#services",
+        "/services",
         "/insights/website-app-project-brief",
         "/work/opslin",
         "/work/shotvault",
-        "/services",
         "/services/website-web-app-development",
         "/services/flutter-app-development",
         "/services/custom-software-ai-development",
         "/services/grocery-delivery-app-development",
+        "/services/laundry-app-pos-development",
+        "/services/game-development-unity-godot",
         "/insights/opslin-vps-deployment"
       ]
     },
@@ -214,24 +239,25 @@
       "description": "Flutter app development for Android and iOS by Sayan Mondal. Explore customer apps, booking, commerce and store workflows with real project screens.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 33843,
+      "html_bytes": 34946,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
       "internal_links": [
         "/",
-        "/#services",
+        "/services",
         "/insights/website-app-project-brief",
         "/work/freshcart",
         "/work/dealker",
         "/work/bakaloo",
         "/work/lndry",
         "/work/lndry-pos",
-        "/services",
         "/services/website-web-app-development",
         "/services/devops-cloud-deployment",
         "/services/custom-software-ai-development",
         "/services/grocery-delivery-app-development",
+        "/services/laundry-app-pos-development",
+        "/services/game-development-unity-godot",
         "/insights/opslin-vps-deployment"
       ]
     },
@@ -247,22 +273,23 @@
       "description": "AI automation services, AI agent development and custom business software by Sayan Mondal. Explore WhatsApp CRM, B2B workflows and actual product screens.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 36384,
+      "html_bytes": 40259,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
       "internal_links": [
         "/",
-        "/#services",
+        "/services",
         "/insights/website-app-project-brief",
         "/work/bakaloo-platform",
         "/work/lndry-pos",
         "/work/opslin",
-        "/services",
         "/services/website-web-app-development",
         "/services/devops-cloud-deployment",
         "/services/flutter-app-development",
         "/services/grocery-delivery-app-development",
+        "/services/laundry-app-pos-development",
+        "/services/game-development-unity-godot",
         "/insights/opslin-vps-deployment"
       ]
     },
@@ -278,22 +305,85 @@
       "description": "Plan a grocery delivery app with customer shopping, store operations and delivery workflows. Explore FreshCart and Bakaloo project screens by Sayan Mondal.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 39620,
+      "html_bytes": 40736,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
       "internal_links": [
         "/",
-        "/#services",
+        "/services",
         "/insights/website-app-project-brief",
         "/work/freshcart",
         "/work/bakaloo",
         "/work/bakaloo-platform",
-        "/services",
         "/services/website-web-app-development",
         "/services/devops-cloud-deployment",
         "/services/flutter-app-development",
         "/services/custom-software-ai-development",
+        "/services/laundry-app-pos-development",
+        "/services/game-development-unity-godot",
+        "/insights/opslin-vps-deployment"
+      ]
+    },
+    {
+      "url": "https://www.sayanthecoder.in/services/laundry-app-pos-development",
+      "status": 200,
+      "final_url": "https://www.sayanthecoder.in/services/laundry-app-pos-development",
+      "title": "Laundry App & POS Development \u2014 Sayan Mondal",
+      "h1_count": 1,
+      "canonical": [
+        "https://www.sayanthecoder.in/services/laundry-app-pos-development"
+      ],
+      "description": "Custom laundry app and POS development by Sayan Mondal. Explore LNDRY customer and store screens, pickup workflows, garment pricing and order tracking.",
+      "robots": "max-image-preview:large",
+      "x_robots_tag": null,
+      "html_bytes": 38697,
+      "schema_count": 1,
+      "schema_parse_errors": [],
+      "images_missing_alt": [],
+      "internal_links": [
+        "/",
+        "/services",
+        "/insights/website-app-project-brief",
+        "/work/lndry",
+        "/work/lndry-pos",
+        "/services/website-web-app-development",
+        "/services/devops-cloud-deployment",
+        "/services/flutter-app-development",
+        "/services/custom-software-ai-development",
+        "/services/grocery-delivery-app-development",
+        "/services/game-development-unity-godot",
+        "/insights/opslin-vps-deployment"
+      ]
+    },
+    {
+      "url": "https://www.sayanthecoder.in/services/game-development-unity-godot",
+      "status": 200,
+      "final_url": "https://www.sayanthecoder.in/services/game-development-unity-godot",
+      "title": "Game Development Services \u2014 Unity & Godot",
+      "h1_count": 1,
+      "canonical": [
+        "https://www.sayanthecoder.in/services/game-development-unity-godot"
+      ],
+      "description": "2D and 2.5D game design and development by Sayan Mondal using Unity and Godot. Explore Rustbloom gameplay, game UI and separate ANTAR launch work.",
+      "robots": "max-image-preview:large",
+      "x_robots_tag": null,
+      "html_bytes": 38577,
+      "schema_count": 1,
+      "schema_parse_errors": [],
+      "images_missing_alt": [],
+      "internal_links": [
+        "/",
+        "/services",
+        "/insights/website-app-project-brief",
+        "/work/rustbloom",
+        "/work/antar",
+        "/services/website-web-app-development",
+        "/services/devops-cloud-deployment",
+        "/services/flutter-app-development",
+        "/services/custom-software-ai-development",
+        "/services/grocery-delivery-app-development",
+        "/services/laundry-app-pos-development",
         "/insights/opslin-vps-deployment"
       ]
     },
@@ -307,17 +397,20 @@
       "description": "FreshCart client project by Sayan Mondal: a Flutter food and grocery app with B2C and B2B shopping, category discovery and connected delivery operations.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 32741,
+      "html_bytes": 35066,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
       "internal_links": [
         "/",
         "/#work",
+        "/services/flutter-app-development",
+        "/services/grocery-delivery-app-development",
         "/#contact",
-        "/work/dealker",
         "/work/bakaloo",
-        "/work/bakaloo-platform"
+        "/work/dealker",
+        "/work/lndry",
+        "/privacy"
       ]
     },
     {
@@ -330,17 +423,19 @@
       "description": "Dealker client project by Sayan Mondal: a Flutter electronics marketplace connecting phone shopping, brand discovery, auctions and repair services.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 32490,
+      "html_bytes": 33868,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
       "internal_links": [
         "/",
         "/#work",
+        "/services/flutter-app-development",
         "/#contact",
-        "/work/freshcart",
         "/work/bakaloo",
-        "/work/bakaloo-platform"
+        "/work/freshcart",
+        "/work/lndry",
+        "/privacy"
       ]
     },
     {
@@ -353,7 +448,7 @@
       "description": "Bakaloo client project by Sayan Mondal: a Flutter grocery delivery platform connecting customers, local stores, riders and everyday shopping.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 36140,
+      "html_bytes": 38563,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -361,22 +456,25 @@
         "/",
         "/#work",
         "/work/bakaloo-platform",
+        "/services/flutter-app-development",
+        "/services/grocery-delivery-app-development",
         "/#contact",
         "/work/freshcart",
-        "/work/dealker"
+        "/work/dealker",
+        "/privacy"
       ]
     },
     {
       "url": "https://www.sayanthecoder.in/work/bakaloo-platform",
       "status": 200,
       "final_url": "https://www.sayanthecoder.in/work/bakaloo-platform",
-      "title": "Bakaloo CRM & Builder \u2014 WhatsApp CRM, agentic AI & B2B commerce | SayanTheCoder",
+      "title": "Bakaloo WhatsApp CRM & Storefront Builder | SayanTheCoder",
       "h1_count": 1,
       "canonical": ["https://www.sayanthecoder.in/work/bakaloo-platform"],
       "description": "Bakaloo CRM and theme builder by Sayan Mondal: WhatsApp inbox, agentic AI, customer pipelines, B2B commerce and a visual Flutter storefront builder.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 47587,
+      "html_bytes": 50907,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -389,9 +487,13 @@
         "/assets/projects/bakaloo-crm-pipeline-redacted.webp",
         "/assets/projects/bakaloo-crm-templates.webp",
         "/work/bakaloo",
+        "/services/website-web-app-development",
+        "/services/custom-software-ai-development",
+        "/services/grocery-delivery-app-development",
         "/#contact",
+        "/work/agnix-studio",
         "/work/freshcart",
-        "/work/dealker"
+        "/privacy"
       ]
     },
     {
@@ -404,7 +506,7 @@
       "description": "Radha client project by Sayan Mondal: a mobile store management app for scanning, expiry tracking, daily tasks and retail operational health.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 32372,
+      "html_bytes": 32511,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -412,9 +514,10 @@
         "/",
         "/#work",
         "/#contact",
-        "/work/freshcart",
+        "/work/bakaloo",
         "/work/dealker",
-        "/work/bakaloo"
+        "/work/freshcart",
+        "/privacy"
       ]
     },
     {
@@ -427,7 +530,7 @@
       "description": "Opslin, founded by Sayan Mondal: VPS deployment, Git releases, SSL, databases, monitoring, rollback and AI-assisted DevOps through MCP beta.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 42360,
+      "html_bytes": 44946,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -435,9 +538,12 @@
         "/",
         "/#work",
         "/insights/opslin-vps-deployment",
-        "/work/freshcart",
-        "/work/dealker",
-        "/work/bakaloo"
+        "/services/devops-cloud-deployment",
+        "/services/custom-software-ai-development",
+        "/work/shotvault",
+        "/work/bakaloo-platform",
+        "/work/lndry-pos",
+        "/privacy"
       ]
     },
     {
@@ -450,7 +556,7 @@
       "description": "LNDRY by Sayan Mondal: a laundry customer app and website for service discovery, pickup booking and order tracking. Explore real mobile and web screens.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 47454,
+      "html_bytes": 50856,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -464,23 +570,26 @@
         "/assets/img/lndry-track.webp",
         "/assets/img/lndry-confirm.webp",
         "/work/lndry-pos",
+        "/services/website-web-app-development",
+        "/services/flutter-app-development",
+        "/services/laundry-app-pos-development",
         "/#contact",
-        "/work/freshcart",
+        "/work/bakaloo",
         "/work/dealker",
-        "/work/bakaloo"
+        "/privacy"
       ]
     },
     {
       "url": "https://www.sayanthecoder.in/work/lndry-pos",
       "status": 200,
       "final_url": "https://www.sayanthecoder.in/work/lndry-pos",
-      "title": "LNDRY POS \u2014 In-store laundry POS \u00b7 Mobile & web | SayanTheCoder",
+      "title": "LNDRY POS \u2014 Laundry Store Software | SayanTheCoder",
       "h1_count": 1,
       "canonical": ["https://www.sayanthecoder.in/work/lndry-pos"],
       "description": "LNDRY POS by Sayan Mondal: an in-store laundry system with mobile and desktop interfaces for order booking, garment pricing, invoicing and store operations.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 46616,
+      "html_bytes": 49882,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -493,23 +602,26 @@
         "/assets/projects/lndry-pos-mobile-booking.webp",
         "/assets/projects/lndry-pos-mobile-order.webp",
         "/work/lndry",
+        "/services/flutter-app-development",
+        "/services/custom-software-ai-development",
+        "/services/laundry-app-pos-development",
         "/#contact",
-        "/work/freshcart",
+        "/work/bakaloo",
         "/work/dealker",
-        "/work/bakaloo"
+        "/privacy"
       ]
     },
     {
       "url": "https://www.sayanthecoder.in/work/rustbloom",
       "status": 200,
       "final_url": "https://www.sayanthecoder.in/work/rustbloom",
-      "title": "Rustbloom \u2014 2D / 2.5D game design & development | SayanTheCoder",
+      "title": "Rustbloom \u2014 2D & 2.5D Game Development | SayanTheCoder",
       "h1_count": 1,
       "canonical": ["https://www.sayanthecoder.in/work/rustbloom"],
       "description": "Rustbloom game development by Sayan Mondal: an ongoing platformer with layered environments, touch controls, combat, settings and graphics options.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 48517,
+      "html_bytes": 49207,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -523,23 +635,23 @@
         "/assets/projects/agnix-game-settings.webp",
         "/assets/projects/agnix-game-graphics.webp",
         "/work/agnix-studio",
+        "/services/game-development-unity-godot",
         "/#contact",
-        "/work/freshcart",
-        "/work/dealker",
-        "/work/bakaloo"
+        "/work/antar",
+        "/privacy"
       ]
     },
     {
       "url": "https://www.sayanthecoder.in/work/antar",
       "status": 200,
       "final_url": "https://www.sayanthecoder.in/work/antar",
-      "title": "ANTAR \u2014 The Last Flame \u2014 Game production & launch presentation | SayanTheCoder",
+      "title": "ANTAR \u2014 The Last Flame | Agnix Studio | SayanTheCoder",
       "h1_count": 1,
       "canonical": ["https://www.sayanthecoder.in/work/antar"],
       "description": "ANTAR \u2014 The Last Flame: an Agnix Studio game in the portfolio of Sayan Mondal. Production ready and preparing for launch, with its official announcement.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 34857,
+      "html_bytes": 34512,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -547,10 +659,9 @@
         "/",
         "/#work",
         "/work/rustbloom",
+        "/services/game-development-unity-godot",
         "/#contact",
-        "/work/freshcart",
-        "/work/dealker",
-        "/work/bakaloo"
+        "/privacy"
       ]
     },
     {
@@ -563,7 +674,7 @@
       "description": "Agnix Studio website by Sayan Mondal: a cinematic company and game announcement site featuring ANTAR \u2014 The Last Flame and the studio\u2019s original identity.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 35822,
+      "html_bytes": 37493,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -571,10 +682,11 @@
         "/",
         "/#work",
         "/work/antar",
+        "/services/website-web-app-development",
         "/#contact",
-        "/work/freshcart",
-        "/work/dealker",
-        "/work/bakaloo"
+        "/work/bakaloo-platform",
+        "/work/lndry",
+        "/privacy"
       ]
     },
     {
@@ -587,17 +699,17 @@
       "description": "ShotVault by Sayan Mondal: self-hosted media infrastructure combining S3-style object storage and on-demand image delivery in a Go binary.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 28306,
+      "html_bytes": 28114,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
       "internal_links": [
         "/",
         "/#work",
+        "/services/devops-cloud-deployment",
         "/#contact",
-        "/work/freshcart",
-        "/work/dealker",
-        "/work/bakaloo"
+        "/work/opslin",
+        "/privacy"
       ]
     },
     {
@@ -610,7 +722,7 @@
       "description": "Explore Full Bag, a commerce platform in the Shotlin product family built across customer-facing mobile experiences and supporting backend systems.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 28184,
+      "html_bytes": 26625,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
@@ -619,8 +731,7 @@
         "/#work",
         "/#contact",
         "/work/freshcart",
-        "/work/dealker",
-        "/work/bakaloo"
+        "/privacy"
       ]
     },
     {
@@ -633,18 +744,11 @@
       "description": "Shotlin is the independent product studio founded by Sayan Mondal, connecting product thinking, interface design, engineering and infrastructure.",
       "robots": "max-image-preview:large",
       "x_robots_tag": null,
-      "html_bytes": 30267,
+      "html_bytes": 27449,
       "schema_count": 1,
       "schema_parse_errors": [],
       "images_missing_alt": [],
-      "internal_links": [
-        "/",
-        "/#work",
-        "/#contact",
-        "/work/freshcart",
-        "/work/dealker",
-        "/work/bakaloo"
-      ]
+      "internal_links": ["/", "/#work", "/#contact", "/privacy"]
     }
   ],
   "unknown_page": {
@@ -654,10 +758,10 @@
     "title": "Sayan Mondal | Web, App & DevOps Developer404: This page could not be found.",
     "h1_count": 1,
     "canonical": [],
-    "description": "Websites, Flutter apps, custom software and cloud deployment by Sayan Mondal, founder of Opslin and Shotlin. Based in Kolkata, working with businesses worldwide.",
+    "description": "Websites, Flutter apps, custom software and cloud deployment by Sayan Mondal, founder of Opslin and Shotlin. Based in Kolkata; working worldwide.",
     "robots": "noindex, max-image-preview:large",
     "x_robots_tag": null,
-    "html_bytes": 13232,
+    "html_bytes": 13200,
     "schema_count": 0,
     "schema_parse_errors": [],
     "images_missing_alt": [],
